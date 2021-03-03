@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://carl-tracy.com/</loc>
+    <lastmod>2021-03-03T17:02:14-05:00</lastmod>
+  </url><url>
+    <loc>http://carl-tracy.com/posts/it-worked/</loc>
+    <lastmod>2021-03-03T17:02:14-05:00</lastmod>
+  </url><url>
+    <loc>http://carl-tracy.com/posts/</loc>
+    <lastmod>2021-03-03T17:02:14-05:00</lastmod>
   </url><url>
     <loc>http://carl-tracy.com/categories/</loc>
   </url><url>
     <loc>http://carl-tracy.com/posts/it-is-alive/</loc>
-  </url><url>
-    <loc>http://carl-tracy.com/posts/</loc>
   </url><url>
     <loc>http://carl-tracy.com/tags/</loc>
   </url>
