@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>http://carl-tracy.com/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>http://carl-tracy.com/categories/</loc>
   </url><url>
-    <loc>/posts/it-is-alive/</loc>
+    <loc>http://carl-tracy.com/posts/it-is-alive/</loc>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>http://carl-tracy.com/posts/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>http://carl-tracy.com/tags/</loc>
   </url>
 </urlset>
