@@ -7,9 +7,26 @@ theme = "ananke"
 #themesDir = "../.."
 resourceDir = "../resources"
 
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+
+[languages]
+  [languages.en]
+    title = "Carl's New Website"
+    weight = 1
+    contentDir = "content/"
+
 [params]
   favicon = "favicon.ico"
-  site_logo = "CTlogo.png"
+  site_logo = "/CTlogo.png"
   description = "Hey look! It's my new website. I finally jumped on the SSG train.'"
   facebook = ""
   twitter = "https://twitter.com/chaos46692"
