@@ -1,0 +1,30 @@
+baseURL = "http://carl-tracy.com"
+languageCode = "en-us"
+title = "Carl's New Website"
+theme = "ananke"
+#languageCode = "en-us"
+#theme = "gohugo-theme-ananke"
+#themesDir = "../.."
+resourceDir = "../resources"
+
+[params]
+  favicon = "favicon.ico"
+  site_logo = "CTlogo.png"
+  description = "Hey look! It's my new website. I finally jumped on the SSG train.'"
+  facebook = ""
+  twitter = "https://twitter.com/chaos46692"
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-mid-gray"
+  #featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 2
+  omit_header_text = true
+

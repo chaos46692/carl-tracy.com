@@ -1,0 +1,5 @@
+hugo -D -d ../carl-tracy.com/
+cd ../carl-tracy.com
+git add -A
+git commit -a -m "autocommit from build batch"
+git push origin
