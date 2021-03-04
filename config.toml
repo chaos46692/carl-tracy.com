@@ -7,6 +7,10 @@ theme = "ananke"
 #themesDir = "../.."
 resourceDir = "../resources"
 
+[taxonomies]
+   tag = "tags"
+   category = "categories"
+   
 [menu]
   [[menu.main]]
     identifier = "about"
