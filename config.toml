@@ -7,6 +7,7 @@ theme = "ananke"
 #themesDir = "../.."
 resourceDir = "../resources"
 
+
 [taxonomies]
    tag = "tags"
    category = "categories"
@@ -48,4 +49,6 @@ resourceDir = "../resources"
   #featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
   omit_header_text = true
+  custom_css = ["css/custom.css"]
+  env="production"
 
