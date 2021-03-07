@@ -51,4 +51,5 @@ resourceDir = "../resources"
   omit_header_text = true
   custom_css = ["css/custom.css"]
   env="production"
+  recent_copy="Recent Posts"
 

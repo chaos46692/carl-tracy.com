@@ -6,3 +6,8 @@ code.has-jax {
     border: none !important;
     font-size: 100%;
 }
+
+
+.measure-wide-ctt {
+	max-width: 50em;
+}
