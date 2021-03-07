@@ -6,13 +6,40 @@
     <description>Recent content in Tags on Carl&#39;s New Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Mar 2021 17:02:14 -0500</lastBuildDate><atom:link href="http://carl-tracy.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Mar 2021 09:44:41 -0500</lastBuildDate><atom:link href="http://carl-tracy.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>http://carl-tracy.com/tags/hugo/</link>
+      <pubDate>Sat, 06 Mar 2021 09:44:41 -0500</pubDate>
+      
+      <guid>http://carl-tracy.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssl</title>
+      <link>http://carl-tracy.com/tags/ssl/</link>
+      <pubDate>Sat, 06 Mar 2021 09:44:41 -0500</pubDate>
+      
+      <guid>http://carl-tracy.com/tags/ssl/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>website</title>
       <link>http://carl-tracy.com/tags/website/</link>
-      <pubDate>Wed, 03 Mar 2021 17:02:14 -0500</pubDate>
+      <pubDate>Sat, 06 Mar 2021 09:44:41 -0500</pubDate>
       
       <guid>http://carl-tracy.com/tags/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cPanel</title>
+      <link>http://carl-tracy.com/tags/cpanel/</link>
+      <pubDate>Sat, 06 Mar 2021 09:02:38 -0500</pubDate>
+      
+      <guid>http://carl-tracy.com/tags/cpanel/</guid>
       <description></description>
     </item>
     
