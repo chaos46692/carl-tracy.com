@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nerd on Carl&#39;s New Website</title>
-    <link>http://carl-tracy.com/categories/nerd/</link>
+    <link>https://carl-tracy.com/categories/nerd/</link>
     <description>Recent content in nerd on Carl&#39;s New Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Mar 2021 11:35:08 -0500</lastBuildDate><atom:link href="http://carl-tracy.com/categories/nerd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Mar 2021 11:35:08 -0500</lastBuildDate><atom:link href="https://carl-tracy.com/categories/nerd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Formula for the Weighted Average Life of a Mortgage</title>
-      <link>http://carl-tracy.com/posts/mortgage-wal-formula/</link>
+      <link>https://carl-tracy.com/posts/mortgage-wal-formula/</link>
       <pubDate>Mon, 08 Mar 2021 11:35:08 -0500</pubDate>
       
-      <guid>http://carl-tracy.com/posts/mortgage-wal-formula/</guid>
+      <guid>https://carl-tracy.com/posts/mortgage-wal-formula/</guid>
       <description>A while ago for work I had created a process that required a formula for the weighted average life (WAL) of a mortgage with level payments. I found one online:
 $$ W = N D_N - \frac{1}{r} $$
 where:
@@ -22,19 +22,19 @@ d &amp;amp;= { 1 \over 1 + r} = \hbox{one month discount factor} \\[7pt] r &amp;
     
     <item>
       <title>Setting Up Hugo with SSL and MathJax</title>
-      <link>http://carl-tracy.com/posts/setting-up-hugo/</link>
+      <link>https://carl-tracy.com/posts/setting-up-hugo/</link>
       <pubDate>Sat, 06 Mar 2021 09:44:41 -0500</pubDate>
       
-      <guid>http://carl-tracy.com/posts/setting-up-hugo/</guid>
+      <guid>https://carl-tracy.com/posts/setting-up-hugo/</guid>
       <description>I&amp;rsquo;ve had a lot of fun setting up Hugo to set it up how I want. I will caveat this with a few things - I tried to do things the right way (not editing the theme directly) but I&amp;rsquo;m really really really fucking impatient and in a lot of cases I just edited the theme because I don&amp;rsquo;t want to deal with this shit. I&amp;rsquo;m never going to update it so screw it.</description>
     </item>
     
     <item>
       <title>Setting Up an SSL cetificate</title>
-      <link>http://carl-tracy.com/posts/setting-up-ssl/</link>
+      <link>https://carl-tracy.com/posts/setting-up-ssl/</link>
       <pubDate>Sat, 06 Mar 2021 09:02:38 -0500</pubDate>
       
-      <guid>http://carl-tracy.com/posts/setting-up-ssl/</guid>
+      <guid>https://carl-tracy.com/posts/setting-up-ssl/</guid>
       <description>While setting up this website I was constantly greeted by this in my address bar:
 I have no real reason for it to piss me off but it surely did. This must be remedied.
 My hosting is different from my registrar/DNS so accomplishing it took a little more work than it might if you have all that stuff in one place. I use namecheap as my registrar/DNS and HostPapa for my hosting (mostly because I used to use Lunarpages and they got bought by HostPapa).</description>
@@ -42,10 +42,10 @@ My hosting is different from my registrar/DNS so accomplishing it took a little 
     
     <item>
       <title>It Worked</title>
-      <link>http://carl-tracy.com/posts/it-worked/</link>
+      <link>https://carl-tracy.com/posts/it-worked/</link>
       <pubDate>Wed, 03 Mar 2021 17:02:14 -0500</pubDate>
       
-      <guid>http://carl-tracy.com/posts/it-worked/</guid>
+      <guid>https://carl-tracy.com/posts/it-worked/</guid>
       <description>Well hey look it worked! That&amp;rsquo;s pretty rad. I don&amp;rsquo;t have a lot to add to this, mostly this post is to make sure the script that I wrote to autobuild and commit to [GitHub](git commit -a &amp;ndash;allow-empty-message) works =)</description>
     </item>
     

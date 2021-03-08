@@ -1,4 +1,4 @@
-baseURL = "http://carl-tracy.com"
+baseURL = "https://carl-tracy.com"
 languageCode = "en-us"
 title = "Carl's New Website"
 theme = "ananke"
