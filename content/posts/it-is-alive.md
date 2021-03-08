@@ -1,5 +1,5 @@
 ---
-title: "It's' Alive"
+title: "It's Alive"
 date: 2021-03-03T13:14:19-05:00file:///home/carl/Web/carl-tracy/build
 
 draft: false
