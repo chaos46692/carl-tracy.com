@@ -23,6 +23,11 @@ resourceDir = "../resources"
     name = "Blog"
     url = "/posts/"
 
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact-me/"
+
 [languages]
   [languages.en]
     title = "Carl's New Website"
