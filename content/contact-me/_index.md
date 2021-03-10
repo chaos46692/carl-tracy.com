@@ -1,6 +1,6 @@
 ---
-title: "About"
-description: "Hey there!"
+title: "Contact Me"
+description: "Hi! Send me a note"
 featured_image: '/images/bumpy1200.jpg'
 ---
 
