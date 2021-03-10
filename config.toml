@@ -6,7 +6,7 @@ theme = "ananke"
 #theme = "gohugo-theme-ananke"
 #themesDir = "../.."
 resourceDir = "../resources"
-
+googleAnalytics = "UA-5215367-2"
 
 [taxonomies]
    tag = "tags"
