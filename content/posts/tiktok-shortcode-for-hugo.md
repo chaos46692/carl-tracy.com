@@ -6,7 +6,7 @@ tags : [website,hugo,tiktok,shortcode]
 categories : [nerd]
 ---
 # Tiktok shortcode for Hugo
-When i was trying to post my **adorable** Tiktok of a wee baby duck that was just hatching, I couldn't find anything about embedding Tiktoks into Hugo. I tried just pasting the embed code into a markdown page, but it didn't work so I wrote a quick and dirty shortcode to do it:
+When i was trying to post my **adorable** [Tiktok of a wee baby duck]({{< ref "baby-duck.md" >}})  that was just hatching, I couldn't find anything about embedding Tiktoks into Hugo. I tried just pasting the embed code into a markdown page, but it didn't work so I wrote a quick and dirty shortcode to do it:
 
  ## tiktok.html:
  Save this code in \\layouts\\shortcodes\\tiktok.html
