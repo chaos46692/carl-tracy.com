@@ -6,7 +6,17 @@
     <description>Recent content on Carl&#39;s New Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Mar 2021 10:15:30 -0500</lastBuildDate><atom:link href="https://carl-tracy.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Mar 2021 12:45:26 -0500</lastBuildDate><atom:link href="https://carl-tracy.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>History of carl-tracy.com</title>
+      <link>https://carl-tracy.com/posts/history/</link>
+      <pubDate>Fri, 12 Mar 2021 12:45:26 -0500</pubDate>
+      
+      <guid>https://carl-tracy.com/posts/history/</guid>
+      <description>Disclaimer First off let me say that I am by no means an authority on web technology, I wanted to re-do my website and part of that is making content. Writing is one of the things that I really suck at doing so I&amp;rsquo;m basically forcing myself to do it here, and part of that is discussing the technologies I&amp;rsquo;ve used over the years to build it.
+How my websites were built The early days Back in the mid to late 90s, around the time I was graduating from college, the web started to become a thing.</description>
+    </item>
+    
     <item>
       <title>Tiktok Shortcode for Hugo</title>
       <link>https://carl-tracy.com/posts/tiktok-shortcode-for-hugo/</link>
