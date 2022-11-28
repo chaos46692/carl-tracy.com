@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>finance on Carl&#39;s New Website</title>
-    <link>https://carl-tracy.com/tags/finance/</link>
+    <link>https://carltracy.com/tags/finance/</link>
     <description>Recent content in finance on Carl&#39;s New Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Mar 2021 11:35:08 -0500</lastBuildDate><atom:link href="https://carl-tracy.com/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Mar 2021 11:35:08 -0500</lastBuildDate><atom:link href="https://carltracy.com/tags/finance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Formula for the Weighted Average Life of a Mortgage</title>
-      <link>https://carl-tracy.com/posts/mortgage-wal-formula/</link>
+      <link>https://carltracy.com/posts/mortgage-wal-formula/</link>
       <pubDate>Mon, 08 Mar 2021 11:35:08 -0500</pubDate>
       
-      <guid>https://carl-tracy.com/posts/mortgage-wal-formula/</guid>
+      <guid>https://carltracy.com/posts/mortgage-wal-formula/</guid>
       <description>A while ago for work I had created a process that required a formula for the weighted average life (WAL) of a mortgage with level payments. I found one online:
 $$ W = N D_N - \frac{1}{r} $$
 where:
