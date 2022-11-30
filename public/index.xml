@@ -6,18 +6,27 @@
     <description>Recent content on Carl&#39;s New Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Nov 2022 09:02:38 -0500</lastBuildDate><atom:link href="https://carltracy.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Nov 2022 16:50:38 -0500</lastBuildDate><atom:link href="https://carltracy.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We are not a cat rescue</title>
+      <link>https://carltracy.com/posts/not-a-cat-rescue/</link>
+      <pubDate>Wed, 30 Nov 2022 16:50:38 -0500</pubDate>
+      
+      <guid>https://carltracy.com/posts/not-a-cat-rescue/</guid>
+      <description>I hate people This is #17. He&amp;rsquo;s named #17 because over the last several years we have caught, neutered and rehomed or released more than 17 cats (sometimes we get kittens so we end up with 7a, 7b, 7c, 7d - I&amp;rsquo;m pretty sure we entertain the vet office very much). Thankfully our vet is absolutely amazing and gives us a deal when we fix strays. Because we live right off the freeway, are a bit out of Columbus, and because for some damn reason folks think barns are a great place to drop off cats without asking we end up with a lot of cats that get dropped off.</description>
+    </item>
+    
     <item>
       <title>Hosting from AWS with GitHub</title>
       <link>https://carltracy.com/posts/hosting-from-github-with-aws/</link>
       <pubDate>Sun, 06 Nov 2022 09:02:38 -0500</pubDate>
       
       <guid>https://carltracy.com/posts/hosting-from-github-with-aws/</guid>
-      <description>#Back at it again Well I certainly haven&amp;rsquo;t done much wiht this lately. Part of that is I just feel like I didn&amp;rsquo;t have much to say and part of it is the setup I had was a little too much of a pain to deploy. Because, you know, actually having to log in and push 2 or 3 buttons is so much of a pain. Anyway, I got a bug up my butt and figured out how to build things with AWS and GitHub and did a small project over at Evil Peep which has been sitting dormant for around 12 years.</description>
+      <description>Back at it again Well I certainly haven&amp;rsquo;t done much with this lately. Part of that is I just feel like I didn&amp;rsquo;t have much to say and part of it is the setup I had was a little too much of a pain to deploy. Because, you know, actually having to log in and push 2 or 3 buttons is so much of a pain. Anyway, I got a bug up my butt and figured out how to build things with AWS and GitHub and did a small project over at Evil Peep which has been sitting dormant for around 12 years.</description>
     </item>
     
     <item>
-      <title>History of carl-tracy.com</title>
+      <title>History of carltracy.com</title>
       <link>https://carltracy.com/posts/history/</link>
       <pubDate>Fri, 12 Mar 2021 12:45:26 -0500</pubDate>
       

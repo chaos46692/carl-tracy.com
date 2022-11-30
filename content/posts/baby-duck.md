@@ -2,7 +2,7 @@
 title: "Baby Duck"
 date: 2021-03-10T10:02:03-05:00
 draft: false
-tags : [duck,tiktok]
+tags : [duck,tiktok,animals,farming]
 categories : [farm]
 ---
 
