@@ -1,2 +1,4 @@
 cd %~dp0
-hugo -D server
+start /min openpage.bat
+hugo server -D
+
