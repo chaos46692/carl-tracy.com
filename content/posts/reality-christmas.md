@@ -23,17 +23,13 @@ trying to recover from the drive only to turn around and do it again. On top of 
 came with it meant that the holidays were more _oh shit oh shit oh shit oh shit oh shit_ and less happy happy joy to the world.
 
 ## Reality Christmas
-Our very most favorite band [Over the Rhine](https://overtherhine.com/). OtR at it's core is a married duo who have never shied away from 
-the [more uncomfortable parts of life](https://www.patheos.com/blogs/lookingcloser/2005/04/over-the-rhine-drunkards-prayer-the-looking-closer-review/). 
-They have several albums of Christmas music, but while the first on is for the most part traditional 
-(with a few hints of what was to come )[https://www.youtube.com/watch?v=QypaZSJdmks&list=OLAK5uy_kwX7VSs0_nVs8qaIt4gmSBh7GBkW2P0b4&index=8] the later 
-albums adhere more to a aesthetic that Karin and Lindford describe as "reality Christmas". They are, in my opinion, some of the best albums for 
-folks who's feelings on Christmas are less sugar plumb feelgood nostalgia and a more melancholy (with perhaps a bit of seasonal affective disorder).
+Our very most favorite band [Over the Rhine](https://overtherhine.com/). OtR at it's core is a married duo who have never shied away from the [more uncomfortable parts of life](https://www.patheos.com/blogs/lookingcloser/2005/04/over-the-rhine-drunkards-prayer-the-looking-closer-review/). They have several albums of Christmas music, but while the first on is for the most part traditional [with a few hints of what was to come ](https://www.youtube.com/watch?v=QypaZSJdmks&list=OLAK5uy_kwX7VSs0_nVs8qaIt4gmSBh7GBkW2P0b4&index=8) the later albums adhere more to a aesthetic that Karin and Lindford describe as "reality Christmas". They are, in my opinion, some of the best albums for folks who's feelings on Christmas are less sugar plumb feelgood nostalgia and a more melancholy (with perhaps a bit of seasonal affective disorder).
 
 OtR are the only Christmas music I'll listen to, other than the obligatory listen of [Last Christmas](https://www.youtube.com/watch?v=E8gmARGvPlI) 
 [on Christmas morning in observance of Whamageddon](https://www.whamageddon.com/#rules). We rarely fail to catch them when they do their 
 Christmas tour and their upcoming show in Columbus has me very much looking forward to our tradition of celebrating reality Christmas.  
-In that spirit, here are some of my absolute favorite Christmas songs from OtR:
+
+In that spirit, here are some of my favorite Christmas songs from OtR:
 
 ### If We Make It Through December
 Originally a Merle Haggard song, OtR put their own twist on it, not listening to the original before recording. As Linford recounted for 
