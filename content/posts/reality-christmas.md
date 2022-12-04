@@ -7,13 +7,15 @@ categories : [music]
 ---
 ![OtR 2022 Xmas](/images/OtR_2022_xmas.jpg)  
 
-## New beginnings
 My group at work recently got moved to a different department. I don't necessarily view it is a bad thing, but it certainly wasn't expected. 
 Being moved from Investments into Risk Management almost certainly makes sense given the type of work that we do, I get to keep my manager 
 who is amazing and his new boss is somebody I haven't worked with before, but I knew socially when he worked on our floor and is a pretty 
 good guy. One of the nice things about the Risk group is they do a lot more social things, which I appreciate because while I'm not 
 _against_ social gatherings, I generally won't think to organize them on my own. So far the events seem to be well thought out and just the 
-right amount of fun while also being appropriate for the workplace.
+right amount of fun while also being appropriate for the workplace. This year as part of one of our larger meetings there was a poll about our favorite 
+holiday activities, foods, songs, etc. The question about favorite holiday song made me laugh because my favorite holiday songs are almost certainly 
+not the same as most folks.
+<!--more-->
 
 ## Christmastime Is Here
 I'm usually pretty meh on the holidays. Having moved away from home for college/grad school and spending a lot of time fairly far away from 

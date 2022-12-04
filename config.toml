@@ -24,6 +24,11 @@ googleAnalytics = "UA-5215367-2"
     url = "/posts/"
 
   [[menu.main]]
+    identifier = "Media"
+    name = "Media"
+    url = "/media/"
+
+  [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact-me/"
@@ -42,9 +47,9 @@ googleAnalytics = "UA-5215367-2"
   twitter = "https://twitter.com/chaos46692"
   instagram = "https://www.instagram.com/chaos46692/"
   youtube = ""
-  github = ""
+  github = "https://github.com/chaos46692"
   gitlab = ""
-  linkedin = ""
+  linkedin = "https://www.linkedin.com/in/carltracy/"
   mastodon = "https://mastodon.sdf.org/@chaos46692" 
   slack = ""
   stackoverflow = ""

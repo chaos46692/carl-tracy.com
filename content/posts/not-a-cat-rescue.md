@@ -6,10 +6,11 @@ tags : [animals,farming]
 categories : [animals]
 ---
 ![Number 17](/images/number17.jpg)
-# I hate people
+
 This is #17. He's named #17 because over the last several years we have caught, neutered and rehomed or released _more_ than 17 cats (sometimes we get kittens so we end up with 7a, 7b, 7c, 7d - I'm pretty sure we entertain the vet office very much). Thankfully our vet is absolutely amazing and gives us a deal when we fix strays. Because we live right off the freeway, are a bit out of Columbus, and because for some damn reason folks think barns are a great place to drop off cats without asking we end up with a lot of cats that get dropped off.  Over the years we've begun to refer to ourselves as "Not a cat rescue".
 
 If you dear reader have ever considered dropping your cat off in the country because you couldn't take care of them anymore, please consider a few things:
+<!--more-->
 
 ## We already have barn cats and they are not going to get along with your drop off
 Our barn cats are used to living outdoors and this is _their_ territory. They are going to beat the ever-loving shit out of your kitty. We _always_ know when a new cat shows up because we can hear the fights and even though our cats do sometimes need a trip to the vet the cat you dropped off is almost always going to have got it worse. Even better, because your kitty is scared and hurt it's going to hide and be really hard to trap until it's so weak that we might not be able to do much for them.

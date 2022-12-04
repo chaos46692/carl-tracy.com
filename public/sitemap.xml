@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://carltracy.com/tags/books/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://carltracy.com/categories/books/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://carltracy.com/</loc>
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,6 +20,12 @@
     <loc>https://carltracy.com/tags/holidays/</loc>
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://carltracy.com/tags/media/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://carltracy.com/media/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://carltracy.com/tags/music/</loc>
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -24,6 +36,9 @@
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://carltracy.com/tags/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://carltracy.com/media/books/</loc>
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://carltracy.com/tags/animals/</loc>
@@ -97,6 +112,8 @@
   </url><url>
     <loc>https://carltracy.com/posts/it-worked/</loc>
     <lastmod>2021-03-03T17:02:14-05:00</lastmod>
+  </url><url>
+    <loc>https://carltracy.com/media/bobiverse/</loc>
   </url><url>
     <loc>https://carltracy.com/about/</loc>
   </url><url>
