@@ -1,6 +1,6 @@
 ---
 title: "The Bobiverse Series by Dennis E. Taylor"
-date:  2022-12-02
+date:  2022-12-04
 draft: false
 tags : [media,books]
 categories : [books]

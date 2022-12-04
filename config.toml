@@ -11,6 +11,7 @@ googleAnalytics = "UA-5215367-2"
 [taxonomies]
    tag = "tags"
    category = "categories"
+  
    
 [menu]
   [[menu.main]]
