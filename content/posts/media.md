@@ -5,7 +5,7 @@ draft: false
 tags : [media]
 categories : [nerd]
 ---
-![Number 17](/images/books.jpg)
+![Stack of Books](/images/books.jpg)
 
 In 2022 I started listening to audio books on Audible and I read a _lot_ of books. Inspired by my friend  [Jen](https://jenmyers.net) I started
 a media log. Jen catalogs all her media and I am not nearly that ambitious and I actually wanted to start writing short reviews and that really 
@@ -13,3 +13,4 @@ doesn't work with my work load/ADHD. So for the most part my media log is more l
 I am certain that nobody really gives a shit but I'm not doing this for them anyway =)
 
 You can check out my media log [here](/media/)
+<!--more-->
