@@ -6,7 +6,16 @@
     <description>Recent content in nerd on Carl&#39;s New Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Nov 2022 09:02:38 -0500</lastBuildDate><atom:link href="https://carltracy.com/categories/nerd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Jan 2023 12:13:53 -0500</lastBuildDate><atom:link href="https://carltracy.com/categories/nerd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Media</title>
+      <link>https://carltracy.com/posts/media/</link>
+      <pubDate>Sun, 29 Jan 2023 12:13:53 -0500</pubDate>
+      
+      <guid>https://carltracy.com/posts/media/</guid>
+      <description>In 2022 I started listening to audio books on Audible and I read a lot of books. Inspired by my friend Jen I started a media log. Jen catalogs all her media and I am not nearly that ambitious and I actually wanted to start writing short reviews and that really doesn&amp;rsquo;t work with my work load/ADHD. So for the most part my media log is more like a running list of very short summaries of books I&amp;rsquo;ve read.</description>
+    </item>
+    
     <item>
       <title>Hosting from AWS with GitHub</title>
       <link>https://carltracy.com/posts/hosting-from-github-with-aws/</link>

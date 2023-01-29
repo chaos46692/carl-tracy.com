@@ -64,4 +64,3 @@ googleAnalytics = "UA-5215367-2"
   custom_css = ["css/custom.css"]
   env="production"
   recent_copy="Recent Posts"
-

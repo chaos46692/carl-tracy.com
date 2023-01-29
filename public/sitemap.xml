@@ -2,53 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://carltracy.com/tags/books/</loc>
-    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://carltracy.com/categories/books/</loc>
-    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://carltracy.com/</loc>
-    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://carltracy.com/categories/</loc>
-    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://carltracy.com/tags/cixin-liu/</loc>
-    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://carltracy.com/tags/dennis-e.-taylor/</loc>
-    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://carltracy.com/media/interdependency/</loc>
-    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://carltracy.com/tags/john-scalzi/</loc>
-    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://carltracy.com/tags/media/</loc>
-    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://carltracy.com/media/</loc>
-    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://carltracy.com/media/old-mans-war/</loc>
-    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://carltracy.com/tags/</loc>
-    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://carltracy.com/media/bobiverse/</loc>
-    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://carltracy.com/media/three-body-problem/</loc>
-    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://carltracy.com/media/books-22/</loc>
-    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-29T12:13:53-05:00</lastmod>
   </url><url>
     <loc>https://carltracy.com/posts/</loc>
-    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-29T12:13:53-05:00</lastmod>
+  </url><url>
+    <loc>https://carltracy.com/categories/</loc>
+    <lastmod>2023-01-29T12:13:53-05:00</lastmod>
+  </url><url>
+    <loc>https://carltracy.com/posts/media/</loc>
+    <lastmod>2023-01-29T12:13:53-05:00</lastmod>
+  </url><url>
+    <loc>https://carltracy.com/tags/media/</loc>
+    <lastmod>2023-01-29T12:13:53-05:00</lastmod>
+  </url><url>
+    <loc>https://carltracy.com/categories/nerd/</loc>
+    <lastmod>2023-01-29T12:13:53-05:00</lastmod>
+  </url><url>
+    <loc>https://carltracy.com/tags/</loc>
+    <lastmod>2023-01-29T12:13:53-05:00</lastmod>
+  </url><url>
+    <loc>https://carltracy.com/media/</loc>
+    <lastmod>2023-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://carltracy.com/tags/2022/</loc>
+    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://carltracy.com/tags/books/</loc>
+    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://carltracy.com/categories/books/</loc>
+    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://carltracy.com/media/books-22/</loc>
+    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://carltracy.com/tags/holidays/</loc>
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
@@ -81,9 +69,6 @@
     <lastmod>2022-11-06T09:02:38-05:00</lastmod>
   </url><url>
     <loc>https://carltracy.com/tags/hugo/</loc>
-    <lastmod>2022-11-06T09:02:38-05:00</lastmod>
-  </url><url>
-    <loc>https://carltracy.com/categories/nerd/</loc>
     <lastmod>2022-11-06T09:02:38-05:00</lastmod>
   </url><url>
     <loc>https://carltracy.com/tags/ssl/</loc>

@@ -9,7 +9,7 @@
     <meta name="description" content="Tiktok shortcode for Hugo When i was trying to post my adorable Tiktok of a wee baby duck that was just hatching, I couldn&rsquo;t find anything about embedding Tiktoks into Hugo. I tried just pasting the embed code into a markdown page, but it didn&rsquo;t work so I wrote a quick and dirty shortcode to do it:
 tiktok.html: Save this code in \layouts\shortcodes\tiktok.html
 &lt;script async src=&#34;https://www.tiktok.com/embed.js&#34;&gt;&lt;/script&gt; &lt;blockquote class=&#34;tiktok-embed&#34; cite=&#34;https://www.tiktok.com/{{ .Get &#34;usr&#34; }}/video/{{ .">
-    <meta name="generator" content="Hugo 0.100.2" />
+    <meta name="generator" content="Hugo 0.85.0" />
     
     
       <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
@@ -71,6 +71,14 @@ if (!doNotTrack) {
 
     
 	
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7D6366MSJC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7D6366MSJC');
+</script>
 	<script>
   MathJax = {
     tex: {
@@ -290,28 +298,28 @@ if (!doNotTrack) {
 <p>When i was trying to post my <strong>adorable</strong> <a href="https://carltracy.com/posts/baby-duck/">Tiktok of a wee baby duck</a>  that was just hatching, I couldn&rsquo;t find anything about embedding Tiktoks into Hugo. I tried just pasting the embed code into a markdown page, but it didn&rsquo;t work so I wrote a quick and dirty shortcode to do it:</p>
 <h2 id="tiktokhtml">tiktok.html:</h2>
 <p>Save this code in \layouts\shortcodes\tiktok.html</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">script</span> <span style="color:#a6e22e">async</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.tiktok.com/embed.js&#34;</span>&gt;&lt;/<span style="color:#f92672">script</span>&gt; 
-</span></span><span style="display:flex;"><span>   
-</span></span><span style="display:flex;"><span>&lt;<span style="color:#f92672">blockquote</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;tiktok-embed&#34;</span> <span style="color:#a6e22e">cite</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.tiktok.com/{{ .Get &#34;</span><span style="color:#a6e22e">usr</span><span style="color:#960050;background-color:#1e0010">&#34;</span> <span style="color:#960050;background-color:#1e0010">}}/</span><span style="color:#a6e22e">video</span><span style="color:#960050;background-color:#1e0010">/{{</span> <span style="color:#960050;background-color:#1e0010">.</span><span style="color:#a6e22e">Get</span> <span style="color:#960050;background-color:#1e0010">&#34;</span><span style="color:#a6e22e">id</span><span style="color:#960050;background-color:#1e0010">&#34;</span> <span style="color:#960050;background-color:#1e0010">}}&#34;</span> <span style="color:#a6e22e">data-video-id</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .Get &#34;</span><span style="color:#a6e22e">id</span><span style="color:#960050;background-color:#1e0010">&#34;</span> <span style="color:#960050;background-color:#1e0010">}}&#34;</span> <span style="color:#a6e22e">style</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;max-width: 605px;min-width: 325px;&#34;</span> &gt; 
-</span></span><span style="display:flex;"><span>&lt;<span style="color:#f92672">section</span>&gt; 
-</span></span><span style="display:flex;"><span>   	&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">target</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;_blank&#34;</span> <span style="color:#a6e22e">title</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;@chaos46692&#34;</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.tiktok.com/@chaos46692&#34;</span>&gt;@chaos46692&lt;/<span style="color:#f92672">a</span>&gt; 
-</span></span><span style="display:flex;"><span>   	&lt;<span style="color:#f92672">p</span>&gt;&lt;/<span style="color:#f92672">p</span>&gt; 
-</span></span><span style="display:flex;"><span>   	&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">target</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;_blank&#34;</span> <span style="color:#a6e22e">title</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Music&#34;</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.tiktok.com/music/{{ .Get &#34;</span><span style="color:#a6e22e">music</span><span style="color:#960050;background-color:#1e0010">&#34;</span> <span style="color:#960050;background-color:#1e0010">}}&#34;</span>&gt;Music&lt;/<span style="color:#f92672">a</span>&gt; 
-</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">section</span>&gt; 
-</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">blockquote</span>&gt; 
-</span></span></code></pre></div><h2 id="parameters">Parameters</h2>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">script</span> <span style="color:#a6e22e">async</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.tiktok.com/embed.js&#34;</span>&gt;&lt;/<span style="color:#f92672">script</span>&gt; 
+   
+&lt;<span style="color:#f92672">blockquote</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;tiktok-embed&#34;</span> <span style="color:#a6e22e">cite</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.tiktok.com/{{ .Get &#34;</span><span style="color:#a6e22e">usr</span><span style="color:#960050;background-color:#1e0010">&#34;</span> <span style="color:#960050;background-color:#1e0010">}}/</span><span style="color:#a6e22e">video</span><span style="color:#960050;background-color:#1e0010">/{{</span> <span style="color:#960050;background-color:#1e0010">.</span><span style="color:#a6e22e">Get</span> <span style="color:#960050;background-color:#1e0010">&#34;</span><span style="color:#a6e22e">id</span><span style="color:#960050;background-color:#1e0010">&#34;</span> <span style="color:#960050;background-color:#1e0010">}}&#34;</span> <span style="color:#a6e22e">data-video-id</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .Get &#34;</span><span style="color:#a6e22e">id</span><span style="color:#960050;background-color:#1e0010">&#34;</span> <span style="color:#960050;background-color:#1e0010">}}&#34;</span> <span style="color:#a6e22e">style</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;max-width: 605px;min-width: 325px;&#34;</span> &gt; 
+&lt;<span style="color:#f92672">section</span>&gt; 
+       &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">target</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;_blank&#34;</span> <span style="color:#a6e22e">title</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;@chaos46692&#34;</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.tiktok.com/@chaos46692&#34;</span>&gt;@chaos46692&lt;/<span style="color:#f92672">a</span>&gt; 
+       &lt;<span style="color:#f92672">p</span>&gt;&lt;/<span style="color:#f92672">p</span>&gt; 
+       &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">target</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;_blank&#34;</span> <span style="color:#a6e22e">title</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Music&#34;</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.tiktok.com/music/{{ .Get &#34;</span><span style="color:#a6e22e">music</span><span style="color:#960050;background-color:#1e0010">&#34;</span> <span style="color:#960050;background-color:#1e0010">}}&#34;</span>&gt;Music&lt;/<span style="color:#f92672">a</span>&gt; 
+&lt;/<span style="color:#f92672">section</span>&gt; 
+&lt;/<span style="color:#f92672">blockquote</span>&gt; 
+</code></pre></div><h2 id="parameters">Parameters</h2>
 <p>On a tiktok video when you select &ldquo;Share&rdquo; there will be an option to Embed</p>
 <p><img src="/images/tiktok.webp" alt="tiktok embed"></p>
 <p>Click that and it will give you code that looks like this:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>    &lt;<span style="color:#f92672">blockquote</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;tiktok-embed&#34;</span> <span style="color:#a6e22e">cite</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.tiktok.com/@chaos46692/video/6938028068116237573&#34;</span> <span style="color:#a6e22e">data-video-id</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;6938028068116237573&#34;</span> <span style="color:#a6e22e">style</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;max-width: 605px;min-width: 325px;&#34;</span> &gt; 
-</span></span><span style="display:flex;"><span>      &lt;<span style="color:#f92672">section</span>&gt; 
-</span></span><span style="display:flex;"><span>        &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">target</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;_blank&#34;</span> <span style="color:#a6e22e">title</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;@chaos46692&#34;</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.tiktok.com/@chaos46692&#34;</span>&gt;@chaos46692&lt;/<span style="color:#f92672">a</span>&gt; 
-</span></span><span style="display:flex;"><span>        &lt;<span style="color:#f92672">p</span>&gt;&lt;/<span style="color:#f92672">p</span>&gt; 
-</span></span><span style="display:flex;"><span>        &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">target</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;_blank&#34;</span> <span style="color:#a6e22e">title</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;♬ ily (i love you baby) - Surf Mesa&#34;</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.tiktok.com/music/ily-i-love-you-baby-6798329661525854210&#34;</span>&gt;♬ ily (i love you baby) - Surf Mesa&lt;/<span style="color:#f92672">a</span>&gt; ]
-</span></span><span style="display:flex;"><span>        &lt;/<span style="color:#f92672">section</span>&gt; 
-</span></span><span style="display:flex;"><span>    &lt;/<span style="color:#f92672">blockquote</span>&gt; 
-</span></span><span style="display:flex;"><span>    &lt;<span style="color:#f92672">script</span> <span style="color:#a6e22e">async</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.tiktok.com/embed.js&#34;</span>&gt;&lt;/<span style="color:#f92672">script</span>&gt;
-</span></span></code></pre></div><p>There are 3 parameters we need:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">    &lt;<span style="color:#f92672">blockquote</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;tiktok-embed&#34;</span> <span style="color:#a6e22e">cite</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.tiktok.com/@chaos46692/video/6938028068116237573&#34;</span> <span style="color:#a6e22e">data-video-id</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;6938028068116237573&#34;</span> <span style="color:#a6e22e">style</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;max-width: 605px;min-width: 325px;&#34;</span> &gt; 
+      &lt;<span style="color:#f92672">section</span>&gt; 
+        &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">target</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;_blank&#34;</span> <span style="color:#a6e22e">title</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;@chaos46692&#34;</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.tiktok.com/@chaos46692&#34;</span>&gt;@chaos46692&lt;/<span style="color:#f92672">a</span>&gt; 
+        &lt;<span style="color:#f92672">p</span>&gt;&lt;/<span style="color:#f92672">p</span>&gt; 
+        &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">target</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;_blank&#34;</span> <span style="color:#a6e22e">title</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;♬ ily (i love you baby) - Surf Mesa&#34;</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.tiktok.com/music/ily-i-love-you-baby-6798329661525854210&#34;</span>&gt;♬ ily (i love you baby) - Surf Mesa&lt;/<span style="color:#f92672">a</span>&gt; ]
+        &lt;/<span style="color:#f92672">section</span>&gt; 
+    &lt;/<span style="color:#f92672">blockquote</span>&gt; 
+    &lt;<span style="color:#f92672">script</span> <span style="color:#a6e22e">async</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.tiktok.com/embed.js&#34;</span>&gt;&lt;/<span style="color:#f92672">script</span>&gt;
+</code></pre></div><p>There are 3 parameters we need:</p>
 <ul>
 <li>usr - this is the user which in my case would @chaos46692, which comes from the &ldquo;cite&rdquo; section in the first blockquote, the part that comes after <strong>tiktok.com/</strong> and before <strong>/video</strong>. This is the user that created the tiktok</li>
 <li>id - this is the video id that we want to link, it can also be found in the blockquote section, the part reference by &ldquo;data-video-id&rdquo;</li>
@@ -320,7 +328,7 @@ if (!doNotTrack) {
 <p>In theory there I could put something in there for the music title but I&rsquo;m lazy =)</p>
 <h2 id="implementation">Implementation</h2>
 <p>To use shortcode just fill it in like this:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-md" data-lang="md"><span style="display:flex;"><span>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-md" data-lang="md">
 <script async src="https://www.tiktok.com/embed.js"></script> 
 
 
@@ -335,7 +343,7 @@ if (!doNotTrack) {
 
 
 
-</span></span></code></pre></div><ul class="pa0">
+</code></pre></div><ul class="pa0">
   
    <li class="list">
      <a href="/tags/website" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">website</a>
@@ -396,7 +404,7 @@ if (!doNotTrack) {
     <footer class="bg-mid-gray bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://carltracy.com" >
-    &copy;  Carl's New Website 2022 
+    &copy;  Carl's New Website 2023 
   </a>
     <div><style>
 
