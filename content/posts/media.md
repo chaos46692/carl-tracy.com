@@ -5,7 +5,7 @@ draft: false
 tags : [media]
 categories : [nerd]
 ---
-![Stack of Books](/images/books.jpg)
+![Stack of Books](/images/books.webp)
 
 In 2022 I started listening to audio books on Audible and I read a _lot_ of books. Inspired by my friend  [Jen](https://jenmyers.net) I started
 a media log. Jen catalogs all her media and I am not nearly that ambitious and I actually wanted to start writing short reviews and that really 

@@ -5,7 +5,7 @@ draft: false
 tags : [animals,farming]
 categories : [animals]
 ---
-![Number 17](/images/number17.jpg)
+![Number 17](/images/number17.webp)
 
 This is #17. He's named #17 because over the last several years we have caught, neutered and rehomed or released _more_ than 17 cats (sometimes we get kittens so we end up with 7a, 7b, 7c, 7d - I'm pretty sure we entertain the vet office very much). Thankfully our vet is absolutely amazing and gives us a deal when we fix strays. Because we live right off the freeway, are a bit out of Columbus, and because for some damn reason folks think barns are a great place to drop off cats without asking we end up with a lot of cats that get dropped off.  Over the years we've begun to refer to ourselves as "Not a cat rescue".
 

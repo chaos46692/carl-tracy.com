@@ -5,7 +5,7 @@ draft: false
 tags : [music,holidays]
 categories : [music]
 ---
-![OtR 2022 Xmas](/images/OtR_2022_xmas.jpg)  
+![OtR 2022 Xmas](/images/OtR_2022_xmas.webp)  
 
 My group at work recently got moved to a different department. I don't necessarily view it is a bad thing, but it certainly wasn't expected. 
 Being moved from Investments into Risk Management almost certainly makes sense given the type of work that we do, I get to keep my manager 
