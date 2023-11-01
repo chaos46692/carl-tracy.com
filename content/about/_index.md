@@ -9,6 +9,6 @@ I'm not sure what I'm going to do with this website just yet, but I'm sure I'll 
 
 I'll try to add in some of the other stuff from my various iterations of my website like some of my favorite recipes and maybe some math stuff. One of the really cool things about Markdown/Hugo is that you can build math directly into a website, check it out: 
 
-$$ \sum_{n=0}^{\infty} {1 \over (1+i)^{-n}} \cdot CF(n)  = PV $$
+$$ \sum_{n=0}^{\infty} {1 \over (1+i)^{n}} \cdot CF(n)  = PV $$
 
 

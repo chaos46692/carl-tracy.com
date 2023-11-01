@@ -7,10 +7,37 @@ categories : [mental health]
 ---
 
 ## My Random Meditation Video Generator
+{{< rawhtml >}}
+<style>
+@-webkit-keyframes rotate {
+  from {
+    -webkit-transform: rotate(360deg);
+  }
+  to { 
+    -webkit-transform: rotate(0deg);
+  }
+}
+
+.spin {
+    -webkit-animation-name:            rotate; 
+    -webkit-animation-duration:        2.0s; 
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+	max-width: 200px;
+	height: auto;
+}
+</style>
+{{< /rawhtml >}}
+
+![](/images/spiral.png ) 
+{.spin}
+
 I've been collecting a group of meditation videos on YouTube that I use to manage anxiety. This is mostly a place for me to come, press a button and get a random meditaiton video.
 So if you'd like a random meditation video to help with anxiety click the button below!
 
 {{< rawhtml >}}
+
+
 
 <script>
 	const pages = [];
@@ -46,5 +73,6 @@ So if you'd like a random meditation video to help with anxiety click the button
 
 Shut up! Okay fine, fair point but "Wheel o' Meditation" sounds much better than "Meditation button". Maybe some day I'll actually have a wheel that spins, but that's too much effort for now =P 
 
-Shout out to [Ana Ulin](https://anaulin.org/blog/hugo-raw-html-shortcode/) who provided the [Hugo](https://gohugo.io/) shortcode that allowed me to build this easily!
+Shout out to [Ana Ulin](https://anaulin.org/blog/hugo-raw-html-shortcode/) who provided the [Hugo](https://gohugo.io/) shortcode that allowed me to build this easily 
+and to whoever at roneo.org for [this post](https://roneo.org/en/hugo-custom-css-classes-images-markdown-attributes/) that let me make my image spin =)
 
