@@ -5,9 +5,14 @@ date:  2023-01-29
 ---
 Inspired by my friend [Jen](https://jenmyers.net), here is the media I've been consuming. I've always had a hard time reading books and recently started 
 using [Audible](https://www.audible.com/) to listen to audio books. I had put it off for a long time, figuring that I wouldn't use it and I would just 
-waste money. Oh boy was I wrong. I burned through tons of books and very much outpaced the one credit a month I got from Audible and have 
+waste money. Oh boy was I wrong. I burned through tons of books and very much outpaced the one credit a month I got from Audible and have gone up 
+to the highest level they offer. 
+
+If you know me this probably goes without saying, but if you're the kind of person who uses "woke" or "social justice warrior" in an un-ironic or 
+derogatory manner then you're probably not going to like pretty much anything I'm reading. 
 
 ## [2022 reading list]({{<ref books-22>}})
+## [2023 reading list]({{<ref books-23>}})
 
 # 2023 Reading List
 
