@@ -59,17 +59,17 @@ charming to me about these books is that which the world Chambers has build is l
 of We ALl gET AloNG GREAAAT kumbaya bullshit. There is conflict and there is pain and there is longing. Dex is always longing and restlessness looking for something more. 
 I love the beautifully crafted world Chambers has built, even if it is somewhat unrealistic to my very jaded eyes. 
 
-## A Psalm for the Wild-Built / A Prayer for the Crown-Shy  (Monk and Robot duology)
-### _Becky Chambers_ 
-
 ## Redshirts
 ### _John Scalzi_ 
 
 This is a one-off novel that is a satirical take on Star Trek. You may be aware of [redshirts](https://en.wikipedia.org/wiki/Redshirt_(stock_character)) in 
-Star Trek as the stock characters that come in for one episode and die in short order. 
+Star Trek as the stock characters that come in for one episode and dies almost immediately. 
 
 ## Wham!, George Michael and Me
 ### _Andrew Ridgeley_ 
+Absolutely lovely memoir from Andrew Ridgeley about his childhood relationship with George Michael and their journey together while creating Wham!. 
+It's a fascinating story of the behind the scenes moments that made Wham! and George Michael what they were. 
+
 
 ## Wayfarer Series
 ### _Becky Chambers_
@@ -97,9 +97,18 @@ This is a series of loosely connected books set in a
 
 ## Kaiju Preservation Society
 ### _John Scalzi_ 
+Scalzi describes this book as a "pop song" - it's not some earth changing opus that will change the world or how you think about it, but 
+rather a delightful romp that explores a world where Kaiju (think Godzilla and his pals if you're not familiar) are real and 
+the world governments have teamed up to both hide and study them. Of course things go sideways when the big bad (aka corporate America) 
+gets involved and tries to mess with the status quo.
 
 ## Some Desperate Glory
 ### _Emily Tesh_ 
+This is one of the best books I've read in quite a while. <[Stefon](https://www.youtube.com/watch?v=vwm_N2PCUz8) Voice> _It's got everything: 
+a xenophobic death cult, eugenics, reality bending machines, reality do-overs, a gay himbo brother, the obnoxious gay xenocidal nerd, 
+it's got it all!_<\Stefon>. Some folks might find it hard to read. The main character Kyr  is obnoxious, homophobic, transphobic and every other 
+kind of phobic you can think of, but it should be remembered - that's _literally the point of the character_. She's been raised in 
+
 
 ## Devolution
 ### _Max Brooks_ 
