@@ -29,7 +29,7 @@ categories : [mental health]
 </style>
 {{< /rawhtml >}}
 
-![](/images/spiral.png ) 
+![](/images/wheel2.png ) 
 {.spin}
 
 I've been collecting a group of meditation videos on YouTube that I use to manage anxiety. This is mostly a place for me to come, press a button and get a random meditaiton video.
