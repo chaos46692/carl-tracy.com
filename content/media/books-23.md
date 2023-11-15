@@ -77,6 +77,10 @@ It's a fascinating story of the behind the scenes moments that made Wham! and Ge
 This is a series of loosely connected books set in a 
 
 ### The Long Way to a Small, Angry Planet
+The first book in the Wayfarer series, it follows a rag tag crew of the Wayfarer as they work their way around the galaxy. 
+Chambers' books always have a refreshing view on gender, culture and sexuality as well as an overall optimistic view of 
+the future. 
+
 ### A Closed and Common Orbit
 ### Record of a Spaceborn Few
 ### The Galaxy, and the Ground Within
@@ -104,17 +108,21 @@ gets involved and tries to mess with the status quo.
 
 ## Some Desperate Glory
 ### _Emily Tesh_ 
-This is one of the best books I've read in quite a while. <[Stefon](https://www.youtube.com/watch?v=vwm_N2PCUz8) Voice> _It's got everything: 
+This is one of the best books I've read in quite a while.   _It's got everything: 
 a xenophobic death cult, eugenics, reality bending machines, reality do-overs, a gay himbo brother, the obnoxious gay xenocidal nerd, 
-it's got it all!_<\Stefon>. Some folks might find it hard to read. The main character Kyr  is obnoxious, homophobic, transphobic and every other 
-kind of phobic you can think of, but it should be remembered - that's _literally the point of the character_. She's been raised in 
+it's got it all!. Some folks might find it hard to read. The main character Kyr  is obnoxious, homophobic, transphobic and every other 
+kind of phobic you can think of, but it should be remembered - that's _literally the point of the character_. It's told from Kyr's 
+point of view and she's never known anything other than the cult she was raised in. 
 
 
 ## Devolution
 ### _Max Brooks_ 
+Max Brooks wrote "World War Z" which is a fantastic book[^WWZ] about the world after a (near) zombie apocalypse
 
 ## Translation State
 ### _Ann Leckie_ 
+Ann Leckie returns to the Radch universe to explore the world of the Presger Translators, which I very much enjoyed since 
+Translator Dlique was one of my favorite characters from the original trilogy. 
 
 ## Starter Villain
 ### _John Scalzi_[^scalzi] 
@@ -122,7 +130,13 @@ What happens when your Uncle dies and leaves his Super Villain empire to you? Sh
  
 ## Red Mars
 ### _Kim Stanley Robinson_ 
-
+Kim Stanley Robinson writes a very detailed book about the technology and politics of colonizing and terraforming Mars. This is the 
+first book about the initial settlers and the struggles they face. I like the book but Robinson's writing style is very descriptive 
+and there's not a lot of action, so if your looking for action maybe stay away. I liked this book and will definitely read the other 
+two (Blue Mars and Green Mars), but I'll probably hit a few other books first (**MURDERBOT!!!!**)
 
 
 [^scalzi]: YES ANOTHER ONE LEAVE ME ALONE I LIKE HIS WORK OKAY??!?!
+[^WWZ]: Even if you like the movie it sucks okay? It's alright on it's own but putting Brad Pitt in this was the worst possible 
+decision because now you have Brad Pitt and you have to justify paying for Brad Pitt so what do you do? Make the entire movie 
+about Brad Pitt. Unfortunately that is 100% against how the book is structured. 

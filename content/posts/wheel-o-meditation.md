@@ -57,8 +57,10 @@ So if you'd like a random meditation video to help with anxiety click the button
 	pages.push("https://youtu.be/XkkxNN4SSO4?si=iW_wJxymTiI1P3AU");
 	
 	function g() {
-		var n = Math.floor(Math.random() * pages.length) + 1
+		var n = Math.floor(Math.random() * pages.length) 
+		//alert(n)
 		var url = pages[n];
+		console.log("selected file #"+n+" url:"+url)
 		//alert(url);
 		window.open(url, '_blank');
 	}
