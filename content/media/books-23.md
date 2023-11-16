@@ -47,7 +47,7 @@ have to read it for more details.
 A collection of beautify short stories. We get to find out if Linh and Kaito get together, how Princess Selene came into the care of Scarlet's 
 mother, how (the now) Lihn Cinder met her family and many other fantastic stories.
 
-## A Psalm for the Wild-Built / A Prayer for the Crown-Shy  (Monk and Robot duology)
+## A Psalm for the Wild-Built and A Prayer for the Crown-Shy  
 ### _Becky Chambers_ 
 My first introduction to Becky Chambers. I love these books so much. They were my first introduction to [Solarpunk](https://en.wikipedia.org/wiki/Solarpunk). 
 Set in the world of Panga, the stories revolve around a monk (Sibling Dex) who meets a robot (Splendid Speckled Mosscap). This is unusual because many 
@@ -82,11 +82,24 @@ Chambers' books always have a refreshing view on gender, culture and sexuality a
 the future. 
 
 ### A Closed and Common Orbit
+A fantastic follow up from Long Way, this book follows Pepper in a much more intimate look at her life as she tries to help 
+the AI Lovelace integrate into society. We bounce back and forth between Pepper's present day and her past to discover what 
+made her, her history and what drives her. Like the first book the characters are likeable and endearing, but it's definitely not
+back to back action.
+
 ### Record of a Spaceborn Few
+Finally we get to figure out what's going on with all those humans! This book focuses on the humans who live on massive 
+space stations that were built after then Earth was destroyed by environmental damage. Once again Chambers has built a 
+beautiful world that pulls you in.
+
 ### The Galaxy, and the Ground Within
+Did you find yourself wanting to know more about Pei or the Akarak? You're in luck! Pei gets stuck on a layover trying to 
+visit her secret lover Ashby (from the first novel) and along the way everybody learns something about prejudice and 
+belonging. When people start doing Ph.D. theses on COVID-19 lockdown literature this would be a good candidate!
 
 ## Chilling Effect Series
 ### _Valarie Valdes_
+I liked Valarie Valdes' books but it took me a little longer to get into them. 
 
 ### Chilling Effect
 ### Prime Deceptions
@@ -94,9 +107,26 @@ the future.
 
 ## Magic 2.0 Series
 ### _Scott Meyer_ 
+I discovered Scott Meyer through [Basic Instructions](https://www.basicinstructions.net/) years ago. He has a great sense of humor that 
+matches my own so I was very excited when I saw that he had written several novels and dived in immediately. I was not disappointed!
 
 ### Off to Be the Wizard
+Martin, a smart but unmotivated computer geek finds a large mysterious text file on the internet that seems to have a lot 
+of his personal information in it. He soon discovers that modifying the file changes his physical reality. Which is great, 
+right up to the point where he changes his bank balance and ends up being visited by Treasury agents. Because changing the 
+file allows him to move backward in time but not forward (relative to his frame of reference) he decides to flee to medieval 
+England where he promptly discovers that he's far from the the first dork who has run afoul of the authorities. 
+As it turns out that urge to mess with things and make life easier has just a little bit too much allure for the nerds to ignore.
+An entire society of dorks have fled to the ancient world passing themselves off as wizards and have developed an entire system to allow them 
+to edit the file through voice macros.  Martin joins forces with a colorful group of nerd wizards to fight a coming evil.
+
+So basically The Matrix mashed together with LOTR and a bunch of _really_ nerdy references.
+
 ### Spell or High Water
+Martin and Philip travel to Atlantis for a conference of wizards to determine how to police themselves. Meyer really leans into 
+the dangers/weirdness associated with time travel in this one, with two of the characters being the same person at different points 
+in their lives (Brit the Younger and Brit the Elder)
+
 ### An Unwelcome Quest
 
 ## Kaiju Preservation Society

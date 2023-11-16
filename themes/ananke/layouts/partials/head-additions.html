@@ -7,3 +7,8 @@
 
   gtag('config', 'G-7D6366MSJC');
 </script>
+
+{{ if $.Param "chart" -}}
+{{ $chart := resources.Get "Chart.js" | minify | fingerprint -}}
+<script defer src="{{ $chart.RelPermalink }}"></script>
+{{ end -}} 
