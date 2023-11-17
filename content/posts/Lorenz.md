@@ -46,7 +46,6 @@ src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js">
     <button  type="button" onclick="javascript:resetProj();">Clear</button >
 </form>
 
-<style>
 {{< /rawhtml >}}
 
 ![](/images/wheel2.png ) 

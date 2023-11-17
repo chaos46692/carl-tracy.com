@@ -3,6 +3,23 @@ title: "Media I am consuming"
 description: "Songs, books, etc that I like"
 date:  2023-01-29
 ---
+{{< rawhtml >}}
+<style>
+    h3 {
+        margin-top: 0.5em!important;
+        line-height: 1;
+        padding: 0;
+        margin-bottom:0!important;
+    }
+
+    h1, h2 {
+        margin-top: 1.2em!important;
+        line-height: 1;
+        padding: 0;
+        margin-bottom:0!important;
+    }
+</style>
+{{< /rawhtml >}}
 Inspired by my friend [Jen](https://jenmyers.net), here is the media I've been consuming. I've always had a hard time reading books and recently started 
 using [Audible](https://www.audible.com/) to listen to audio books. I had put it off for a long time, figuring that I wouldn't use it and I would just 
 waste money. Oh boy was I wrong. I burned through tons of books and very much outpaced the one credit a month I got from Audible and have gone up 

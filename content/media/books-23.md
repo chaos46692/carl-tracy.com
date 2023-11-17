@@ -5,44 +5,62 @@ draft: false
 tags : [media,books,2023]
 categories : [books]
 ---
+{{< rawhtml >}}
+<style>
+    h3 {
+        margin-top: 0.5em!important;
+        line-height: 1;
+        padding: 0;
+        margin-bottom:0!important;
+    }
+
+    h1, h2 {
+        margin-top: 1.2em!important;
+        line-height: 1;
+        padding: 0;
+        margin-bottom:0!important;
+    }
+</style>
+
+{{< /rawhtml >}}
+
 Once again inspired by my friend [Jen](https://jenmyers.net), here is the media I've been consuming. I'm still on the [Audible](https://www.audible.com/) 
 train and at their maximum subscriber level and buying books when they go on sale to boot. I love listening to books while I commute / travel. In the past 
 I would get annoyed when Waze would butt in with commentary, but now I've started to find it amusing. So many random insertions _Arkady said *in one mile, use the 
 right lane to turn right at the light*_. I laugh every time. 
 
-#2023 
+# 2023 
 
 ## The Lunar Chronicles 
 ### _Marissa Meyer_ 
 This is a YA series based on fairy tales in a world with magic (or magic-like abilities). It was quite a wonderful listen and quite entertaining. 
 
-## Scarlet (The Lunar Chronicles)
+## Scarlet  
 Continuing the Lunar Chronicles this story loosely follows the story of Little Red Riding Hood. Scarlet is a young girl who is searching for her Grandmother 
 who has disappeared from their farm in rural France. Scarlet meets up with Wolf, a mysterious stranger who makes his living fighting in illegal
 underground fights. Scarlet teams up with Wolf to find her Grandmother and quickly realizes that there is more going on than she expected, 
 and that both Wolf and her grand-mère have dangerous secrets. Eventually everybody (including most of the characters from _Cinder_) all meet up 
 and make a plan to save the world.
 
-## Cress (The Lunar Chronicles)
+## Cress  
 Crescent (Cress) is a Lunar shell (born both without mind control abilities, but also unable to be influenced by Lunar mind control) who was abducted 
 by one of the Lunar Queen's head Thaumaturge (government official) and imprisoned in a satellite orbiting Earth where she acts as a spy for the Lunar
 crown. Cress does not like what she's doing but she is good at it and has no control over her situation, _until_ she meets up with our heros from
 the previous books. Together they make a plan to stop the wedding between Kai (now Emperor Kaito after the death of his father) and the Lunar Queen. 
 Can they succeed? **OF COURSE THEY WILL IT'S YA** but it's still a fun ride. 
 
-## Fairest (The Lunar Chronicles)
+## Fairest  
 Why is the Queen so messed up? How did she get her scars? We get to find out! This is a prequel told from the perspective of the evil Queen Levana. 
 Meyer manages to tell a story that isn't exactly sympathetic to her, but masterfully shows her descent into the darker corners of the human mind. 
 It also reveals the back story to Princess Winter and why everyone loves her so much.
 
-## Winter (The Lunar Chronicles)
+## Winter  
 The fourth and final installment of the base series takes place on the moon (Luna) as our protagonists try to prevent the evil queen from 
 marrying (now) Emperor Kaito. We learn that Winter is experiencing Lunar Sickness because she refuses to use her lunar gifts. Winter escapes 
 with Scarlet and they all get together and save the world(s), right? Again, this is YA so you can probably guess how it goes, but you'll 
 have to read it for more details.
 
-
-## Stars Above (The Lunar Chronicles)
+## Stars Above  
 ### _Marissa Meyer_ 
 A collection of beautify short stories. We get to find out if Linh and Kaito get together, how Princess Selene came into the care of Scarlet's 
 mother, how (the now) Lihn Cinder met her family and many other fantastic stories.
@@ -63,7 +81,7 @@ I love the beautifully crafted world Chambers has built, even if it is somewhat 
 ### _John Scalzi_ 
 
 This is a one-off novel that is a satirical take on Star Trek. You may be aware of [redshirts](https://en.wikipedia.org/wiki/Redshirt_(stock_character)) in 
-Star Trek as the stock characters that come in for one episode and dies almost immediately. 
+Star Trek as the stock characters that come in for one episode and dies almost immediately, this book takes off from that premise and runs with it.  
 
 ## Wham!, George Michael and Me
 ### _Andrew Ridgeley_ 
@@ -74,7 +92,9 @@ It's a fascinating story of the behind the scenes moments that made Wham! and Ge
 ## Wayfarer Series
 ### _Becky Chambers_
 
-This is a series of loosely connected books set in a 
+This is a series of loosely connected books set in a far off future where humans have destroyed the Earth and now live largely in the Exodus Fleet 
+(a fleet of space stations that were built after it became apparent the Earth couldn't support the human race anymore) or on one of the various 
+plentiful alien worlds.
 
 ### The Long Way to a Small, Angry Planet
 The first book in the Wayfarer series, it follows a rag tag crew of the Wayfarer as they work their way around the galaxy. 
@@ -99,11 +119,26 @@ belonging. When people start doing Ph.D. theses on COVID-19 lockdown literature 
 
 ## Chilling Effect Series
 ### _Valarie Valdes_
-I liked Valarie Valdes' books but it took me a little longer to get into them. 
+I liked Valarie Valdes' books but it took me a little longer to get into them. Her characters are a little more rough around the 
+edges and flawed. Very space Opera-y with interesting characters who (unline Becky Chambers' work) half the time you want to 
+strangle. 
 
 ### Chilling Effect
-### Prime Deceptions
+Eva Innocente and her crew bounce around the universe trying to keep their ship running, which isn't always easy because she has 
+a tendency to react first and think about it later. We get to know Eva and her very, very messed up family. A fun romp where 
+you'll learn some [fun Cuban slang](https://www.urbandictionary.com/define.php?term=arroz%20con%20mango). I was a little 
+disappointed that the psychic cats didn't come more into it, but they come more into the story in the later books =\)
+
 ### Fault Tolerance
+Captain Innocente and crew decide to take a vacation and by the end of the book are working with a secret organization to 
+prevent an apocalypse that will destroy the know galaxy. So, you know, no pressure or anything.
+
+### Prime Deceptions
+Shit starts getting real. Eva and crew must gater together robots who will create a larger robot 
+[which is totally not a reference to anything else](https://www.youtube.com/watch?v=NXW1waqRCb0) to fight mysterious 
+intelligent robots who can transform with the help of other mysterious intelligent robots who are fight them 
+which [also it totally not a reference to anything](https://www.youtube.com/watch?v=rZjoB0pfq6A). I feel like 
+Valdes hit her stride on this one and I frequently found myself laughing my ass off. 
 
 ## Magic 2.0 Series
 ### _Scott Meyer_ 
@@ -115,7 +150,7 @@ Martin, a smart but unmotivated computer geek finds a large mysterious text file
 of his personal information in it. He soon discovers that modifying the file changes his physical reality. Which is great, 
 right up to the point where he changes his bank balance and ends up being visited by Treasury agents. Because changing the 
 file allows him to move backward in time but not forward (relative to his frame of reference) he decides to flee to medieval 
-England where he promptly discovers that he's far from the the first dork who has run afoul of the authorities. 
+England. He arrives in the town of Leadchurch England where he promptly discovers that he's far from the the first dork who has run afoul of the authorities. 
 As it turns out that urge to mess with things and make life easier has just a little bit too much allure for the nerds to ignore.
 An entire society of dorks have fled to the ancient world passing themselves off as wizards and have developed an entire system to allow them 
 to edit the file through voice macros.  Martin joins forces with a colorful group of nerd wizards to fight a coming evil.
@@ -125,9 +160,12 @@ So basically The Matrix mashed together with LOTR and a bunch of _really_ nerdy 
 ### Spell or High Water
 Martin and Philip travel to Atlantis for a conference of wizards to determine how to police themselves. Meyer really leans into 
 the dangers/weirdness associated with time travel in this one, with two of the characters being the same person at different points 
-in their lives (Brit the Younger and Brit the Elder)
+in their lives (Brit the Younger and Brit the Elder). Weaved into the story is Jimmy/Merlin's quest to get back to Leadchurch. But 
+to what end? 
 
 ### An Unwelcome Quest
+A banished wizard returns to punish those who had banished him. In the first two novels Meyer had slowly built up all the ways that 
+the wizards can use magic, so in this one he obviously takes it away! Our heros much follow the epic[^epic]
 
 ## Kaiju Preservation Society
 ### _John Scalzi_ 
@@ -147,16 +185,35 @@ point of view and she's never known anything other than the cult she was raised 
 
 ## Devolution
 ### _Max Brooks_ 
-Max Brooks wrote "World War Z" which is a fantastic book[^WWZ] about the world after a (near) zombie apocalypse
+Max Brooks wrote "World War Z" which is a fantastic book[^WWZ] about the world after a (near) zombie apocalypse. I loved that book 
+so much and was really happy when I saw that he had a new one out. This one is about a Bigfoot attack in the aftermath of an eruption 
+at [Mount Rainier](https://en.wikipedia.org/wiki/Mount_Rainier). Brooks' books do a good job of weaving real-life survivalist theory 
+into an absolutely bonkers storyline, which much like WWZ will suck you in almost immediately. 
+
+The story is set in a small Techbro wet dream fantasy community in the woods where everything is perfect - until the internet goes out. 
+Doh! The eruption of Mt Rainier cuts off communication with the rest of the world, as well as pushing some (until now) unknown 
+predators into this idyllic community.
+
+I really loved this book and the audio book adaptation is utterly fantastic with a full cast including Judy Greer, Jeff Daniels, 
+Nathan Fillion, Mira Furlan and Kate Mulgrew. 
 
 ## Translation State
 ### _Ann Leckie_ 
 Ann Leckie returns to the Radch universe to explore the world of the Presger Translators, which I very much enjoyed since 
-Translator Dlique was one of my favorite characters from the original trilogy. 
+Translator Dlique was one of my favorite characters from the original trilogy. It starts with Enae, who grew 
+up at the mercy of [hir](https://en.wikipedia.org/wiki/Neopronoun) [grandmaman](https://en.wiktionary.org/wiki/grand-maman). 
+When Grandmaman passes we learn that she had no money and had sold her title to another who had plenty of wealth but wished 
+to have a title. Because Enae was faithful to hir Grandmaman sie had been provided for in the form of a diplomatic assignment 
+(tracking down a missing Presger Translator) that nobody expected hir to find. 
+
+Ultimately the book is about that same feeling of restlessness and longing for a place of belonging that Becky Chambers 
+discusses in the Monk and Robot duology, which is probably why I enjoyed it so much.
+
 
 ## Starter Villain
 ### _John Scalzi_[^scalzi] 
-What happens when your Uncle dies and leaves his Super Villain empire to you? Shenanigans of course!
+What happens when your Uncle dies and leaves his Super Villain empire to you? You limp along and figure out how to 
+to become a super villain! This one doesn't have psychic cats, but it does have intelligent ones!
  
 ## Red Mars
 ### _Kim Stanley Robinson_ 
@@ -166,7 +223,8 @@ and there's not a lot of action, so if your looking for action maybe stay away. 
 two (Blue Mars and Green Mars), but I'll probably hit a few other books first (**MURDERBOT!!!!**)
 
 
-[^scalzi]: YES ANOTHER ONE LEAVE ME ALONE I LIKE HIS WORK OKAY??!?!
+[^scalzi]: YES ANOTHER ONE I LIKE HIS WORK OKAY??!?!
 [^WWZ]: Even if you like the movie it sucks okay? It's alright on it's own but putting Brad Pitt in this was the worst possible 
 decision because now you have Brad Pitt and you have to justify paying for Brad Pitt so what do you do? Make the entire movie 
 about Brad Pitt. Unfortunately that is 100% against how the book is structured. 
+[^epic] The quest is actually just tedious, which one of the characters makes fun of pretty much continuously throughout the series
