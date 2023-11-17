@@ -28,6 +28,7 @@ Once again inspired by my friend [Jen](https://jenmyers.net), here is the media 
 train and at their maximum subscriber level and buying books when they go on sale to boot. I love listening to books while I commute / travel. In the past 
 I would get annoyed when Waze would butt in with commentary, but now I've started to find it amusing. So many random insertions _Arkady said *in one mile, use the 
 right lane to turn right at the light*_. I laugh every time. 
+<!--more-->
 
 # 2023 
 

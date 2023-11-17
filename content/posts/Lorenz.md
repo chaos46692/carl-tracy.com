@@ -1,6 +1,6 @@
 ---
 title: "Lorentz attractor"
-date: 2023-11-01T10:39:00-05:00
+date: 2025-11-01T10:39:00-05:00
 draft: true
 tags : [nerd,math,chaos]
 categories : [nerd,math]
@@ -8,6 +8,8 @@ chart: true
 ---
 
 ## My Lorentz attractor
+I love the Lorentz attractor, but can I simulate it in javascript? Let's find out!
+<!--more-->
 {{< rawhtml >}}
 <script
 src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js">

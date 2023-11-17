@@ -34,6 +34,7 @@ categories : [mental health]
 
 I've been collecting a group of meditation videos on YouTube that I use to manage anxiety. This is mostly a place for me to come, press a button and get a random meditaiton video.
 So if you'd like a random meditation video to help with anxiety click the button below!
+<!--more-->
 
 {{< rawhtml >}}
 
