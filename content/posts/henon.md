@@ -69,6 +69,9 @@ src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js">
     function setValues(a1,b1) {
         setA2(a1);
         setB2(b1);
+
+        document.getElementById("lbla").value = a1;
+        document.getElementById("lblb").value = b1;
     }
 
     function isNumber(value) {

@@ -177,11 +177,16 @@ gets involved and tries to mess with the status quo.
 
 ## Some Desperate Glory
 ### _Emily Tesh_ 
-This is one of the best books I've read in quite a while.   _It's got everything: 
-a xenophobic death cult, eugenics, reality bending machines, reality do-overs, a gay himbo brother, the obnoxious gay xenocidal nerd, 
+This is one of the best books I've read in quite a while.   It's got everything: 
+a xenophobic death cult, eugenics, reality bending machines, do-overs, a gay himbo brother[^mags], the obnoxious gay xenocidal nerd, 
 it's got it all!. Some folks might find it hard to read. The main character Kyr  is obnoxious, homophobic, transphobic and every other 
-kind of phobic you can think of, but it should be remembered - that's _literally the point of the character_. It's told from Kyr's 
-point of view and she's never known anything other than the cult she was raised in. 
+kind of phobic you can think of, and I've read plenty of reviews that complain about how obnoxious her character is, but I feel like 
+those reviews are missing the fact that's _literally the point of the_. She was born into a cult that obsessed with eugenics and 
+building a perfect human to fight the other races, she literally doesn't know anything else[^ktc].
+
+At it's heard it's a **super** queer space opera about anger, hatred, control and finding one's own place in the world. I would 
+really love for this book to get turned into a movie or a mini-series, but I'm also a little afraid whoever adapts it will 
+fuck it up.
 
 
 ## Devolution
@@ -229,3 +234,6 @@ two (Blue Mars and Green Mars), but I'll probably hit a few other books first (*
 decision because now you have Brad Pitt and you have to justify paying for Brad Pitt so what do you do? Make the entire movie 
 about Brad Pitt. Unfortunately that is 100% against how the book is structured. 
 [^epic] The quest is actually just tedious, which one of the characters makes fun of pretty much continuously throughout the series
+[^ktc] The [Kitchen Table Cult Podcast](https://kitchentablecult.com/) has a lot of these themes and I wouldn't be surprised if 
+Tesh had white fundamentalist evangelicals in mind when she wrote this.
+[^mags] Mags isn't _exactly_ a himbo because he's not in any way dumb, but he definitely is a giant sweetheart which is close enough for me.
