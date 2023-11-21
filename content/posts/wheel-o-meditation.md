@@ -29,7 +29,7 @@ categories : [mental health]
 </style>
 {{< /rawhtml >}}
 
-![](/images/wheel2.png ) 
+![](/images/wheel3.webp) 
 {.spin}
 
 I've been collecting a group of meditation videos on YouTube that I use to manage anxiety. This is mostly a place for me to come, press a button and get a random meditaiton video.
@@ -63,10 +63,15 @@ So if you'd like a random meditation video to help with anxiety click the button
 		var url = pages[n];
 		console.log("selected file #"+n+" url:"+url)
 		//alert(url);
+		//document.getElementById("url").innerHTML = "<b>Result</b>:  URL selected: <a href=\""+url+"\" target=\"_blank\"> "+url+"  </a>  "
 		window.open(url, '_blank');
 	}
 </script>
 
+<!--
+<div id="url"><b>Result</b>: No URL has been generated</div>
+<br>
+-->
 <button type="button" onclick="javascript:g();">Let's Meditate!</button>
 
 
