@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>math on Carl&#39;s New Website</title>
+    <link>https://carltracy.com/categories/math/</link>
+    <description>Recent content in math on Carl&#39;s New Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Nov 2023 17:39:00 -0500</lastBuildDate><atom:link href="https://carltracy.com/categories/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hénon map</title>
+      <link>https://carltracy.com/posts/henon/</link>
+      <pubDate>Thu, 16 Nov 2023 17:39:00 -0500</pubDate>
+      
+      <guid>https://carltracy.com/posts/henon/</guid>
+      <description>&lt;h2 id=&#34;building-a-hénon-map-with-javascript&#34;&gt;Building a Hénon map with javascript&lt;/h2&gt;
+&lt;p&gt;I first found out about the Hénon map as an undergrad and have loved it ever since. Can I simulate it in javascript? Let&amp;rsquo;s find out!&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/H%C3%A9non_map&#34;&gt;Hénon map&lt;/a&gt; is a dynamical system that exhibits chaotic behavior. It takes two
+parameters a and b. Depending on the values the map can exhibit
+ 
+ &lt;a href=&#34;javascript:setValues(0.5,0.2);&#34;&gt;periodic&lt;/a&gt; 
+, &lt;a href=&#34;javascript:setValues(1.4,0.2);&#34;&gt;chaotic&lt;/a&gt;  or intermittent  (switching back and forth between
+chaotic and stable orbits).  It is described by the formula:&lt;/p&gt;
+&lt;p&gt;$$
+\begin{aligned}&lt;br&gt;
+x_{n+1} &amp;amp;=  1 - ax_n^2+y_n\\
+y_{n+1}  &amp;amp;= bx_n
+\end{aligned}&lt;br&gt;
+$$&lt;/p&gt;
+&lt;p&gt;The Hénon map is basically taking the x-y plane and stretches, folds and squishes it like kneading bread. For some parameters it will
+tend toward a fixed point or set of points, but for others it exhibits chaotic dynamics - which means that no matter how accurately
+you describe the current position, it will be impossible to predict where it will be in the future (other than within the bounds
+of the attractor).&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

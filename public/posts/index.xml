@@ -6,14 +6,79 @@
     <description>Recent content on Carl&#39;s New Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Jan 2023 12:13:53 -0500</lastBuildDate><atom:link href="https://carltracy.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Nov 2023 17:39:00 -0500</lastBuildDate><atom:link href="https://carltracy.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hénon map</title>
+      <link>https://carltracy.com/posts/henon/</link>
+      <pubDate>Thu, 16 Nov 2023 17:39:00 -0500</pubDate>
+      
+      <guid>https://carltracy.com/posts/henon/</guid>
+      <description>&lt;h2 id=&#34;building-a-hénon-map-with-javascript&#34;&gt;Building a Hénon map with javascript&lt;/h2&gt;
+&lt;p&gt;I first found out about the Hénon map as an undergrad and have loved it ever since. Can I simulate it in javascript? Let&amp;rsquo;s find out!&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/H%C3%A9non_map&#34;&gt;Hénon map&lt;/a&gt; is a dynamical system that exhibits chaotic behavior. It takes two
+parameters a and b. Depending on the values the map can exhibit
+ 
+ &lt;a href=&#34;javascript:setValues(0.5,0.2);&#34;&gt;periodic&lt;/a&gt; 
+, &lt;a href=&#34;javascript:setValues(1.4,0.2);&#34;&gt;chaotic&lt;/a&gt;  or intermittent  (switching back and forth between
+chaotic and stable orbits).  It is described by the formula:&lt;/p&gt;
+&lt;p&gt;$$
+\begin{aligned}&lt;br&gt;
+x_{n+1} &amp;amp;=  1 - ax_n^2+y_n\\
+y_{n+1}  &amp;amp;= bx_n
+\end{aligned}&lt;br&gt;
+$$&lt;/p&gt;
+&lt;p&gt;The Hénon map is basically taking the x-y plane and stretches, folds and squishes it like kneading bread. For some parameters it will
+tend toward a fixed point or set of points, but for others it exhibits chaotic dynamics - which means that no matter how accurately
+you describe the current position, it will be impossible to predict where it will be in the future (other than within the bounds
+of the attractor).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wheel o Meditation</title>
+      <link>https://carltracy.com/posts/wheel-o-meditation/</link>
+      <pubDate>Wed, 01 Nov 2023 10:39:00 -0500</pubDate>
+      
+      <guid>https://carltracy.com/posts/wheel-o-meditation/</guid>
+      <description>&lt;h2 id=&#34;my-random-meditation-video-generator&#34;&gt;My Random Meditation Video Generator&lt;/h2&gt;
+ 
+
+&lt;style&gt;
+@-webkit-keyframes rotate {
+  from {
+    -webkit-transform: rotate(360deg);
+  }
+  to { 
+    -webkit-transform: rotate(0deg);
+  }
+}
+
+.spin {
+    -webkit-animation-name:            rotate; 
+    -webkit-animation-duration:        2.0s; 
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+	max-width: 200px;
+	height: auto;
+}
+&lt;/style&gt;
+
+&lt;p class=&#34;spin&#34;&gt;&lt;img src=&#34;https://carltracy.com/images/wheel3.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been collecting a group of meditation videos on YouTube that I use to manage anxiety. This is mostly a place for me to come, press a button and get a random meditaiton video.
+So if you&amp;rsquo;d like a random meditation video to help with anxiety click the button below!&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Media</title>
       <link>https://carltracy.com/posts/media/</link>
       <pubDate>Sun, 29 Jan 2023 12:13:53 -0500</pubDate>
       
       <guid>https://carltracy.com/posts/media/</guid>
-      <description>In 2022 I started listening to audio books on Audible and I read a lot of books. Inspired by my friend Jen I started a media log. Jen catalogs all her media and I am not nearly that ambitious and I actually wanted to start writing short reviews and that really doesn&amp;rsquo;t work with my work load/ADHD. So for the most part my media log is more like a running list of very short summaries of books I&amp;rsquo;ve read.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carltracy.com/images/books.webp&#34; alt=&#34;Stack of Books&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In 2022 I started listening to audio books on Audible and I read a &lt;em&gt;lot&lt;/em&gt; of books. Inspired by my friend  &lt;a href=&#34;https://jenmyers.net&#34;&gt;Jen&lt;/a&gt; I started
+a media log. Jen catalogs all her media and I am not nearly that ambitious and I actually wanted to start writing short reviews and that really
+doesn&amp;rsquo;t work with my work load/ADHD. So for the most part my media log is more like a running list of very short summaries of books I&amp;rsquo;ve read.
+I am certain that nobody really gives a shit but I&amp;rsquo;m not doing this for them anyway =)&lt;/p&gt;
+&lt;p&gt;You can check out my media log &lt;a href=&#34;https://carltracy.com/media/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -22,14 +87,14 @@
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://carltracy.com/posts/reality-christmas/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://carltracy.com/images/OtR_2022_xmas.jpg&#34; alt=&#34;OtR 2022 Xmas&#34;&gt;&lt;/p&gt;
-&lt;p&gt;My group at work recently got moved to a different department. I don&amp;rsquo;t necessarily view it is a bad thing, but it certainly wasn&amp;rsquo;t expected. 
-Being moved from Investments into Risk Management almost certainly makes sense given the type of work that we do, I get to keep my manager 
-who is amazing and his new boss is somebody I haven&amp;rsquo;t worked with before, but I knew socially when he worked on our floor and is a pretty 
-good guy. One of the nice things about the Risk group is they do a lot more social things, which I appreciate because while I&amp;rsquo;m not 
-&lt;em&gt;against&lt;/em&gt; social gatherings, I generally won&amp;rsquo;t think to organize them on my own. So far the events seem to be well thought out and just the 
-right amount of fun while also being appropriate for the workplace. This year as part of one of our larger meetings there was a poll about our favorite 
-holiday activities, foods, songs, etc. The question about favorite holiday song made me laugh because my favorite holiday songs are almost certainly 
+      <description>&lt;p&gt;&lt;img src=&#34;https://carltracy.com/images/OtR_2022_xmas.webp&#34; alt=&#34;OtR 2022 Xmas&#34;&gt;&lt;/p&gt;
+&lt;p&gt;My group at work recently got moved to a different department. I don&amp;rsquo;t necessarily view it is a bad thing, but it certainly wasn&amp;rsquo;t expected.
+Being moved from Investments into Risk Management almost certainly makes sense given the type of work that we do, I get to keep my manager
+who is amazing and his new boss is somebody I haven&amp;rsquo;t worked with before, but I knew socially when he worked on our floor and is a pretty
+good guy. One of the nice things about the Risk group is they do a lot more social things, which I appreciate because while I&amp;rsquo;m not
+&lt;em&gt;against&lt;/em&gt; social gatherings, I generally won&amp;rsquo;t think to organize them on my own. So far the events seem to be well thought out and just the
+right amount of fun while also being appropriate for the workplace. This year as part of one of our larger meetings there was a poll about our favorite
+holiday activities, foods, songs, etc. The question about favorite holiday song made me laugh because my favorite holiday songs are almost certainly
 not the same as most folks.&lt;/p&gt;</description>
     </item>
     
@@ -39,7 +104,7 @@ not the same as most folks.&lt;/p&gt;</description>
       <pubDate>Wed, 30 Nov 2022 16:50:38 -0500</pubDate>
       
       <guid>https://carltracy.com/posts/not-a-cat-rescue/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://carltracy.com/images/number17.jpg&#34; alt=&#34;Number 17&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://carltracy.com/images/number17.webp&#34; alt=&#34;Number 17&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This is #17. He&amp;rsquo;s named #17 because over the last several years we have caught, neutered and rehomed or released &lt;em&gt;more&lt;/em&gt; than 17 cats (sometimes we get kittens so we end up with 7a, 7b, 7c, 7d - I&amp;rsquo;m pretty sure we entertain the vet office very much). Thankfully our vet is absolutely amazing and gives us a deal when we fix strays. Because we live right off the freeway, are a bit out of Columbus, and because for some damn reason folks think barns are a great place to drop off cats without asking we end up with a lot of cats that get dropped off.  Over the years we&amp;rsquo;ve begun to refer to ourselves as &amp;ldquo;Not a cat rescue&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;If you dear reader have ever considered dropping your cat off in the country because you couldn&amp;rsquo;t take care of them anymore, please consider a few things:&lt;/p&gt;</description>
     </item>

@@ -7,7 +7,7 @@
     <title>nerd | Carl&#39;s New Website</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="Hey look! It&#39;s my new website. I finally jumped on the SSG train.&#39;">
-    <meta name="generator" content="Hugo 0.85.0" />
+    <meta name="generator" content="Hugo 0.92.2" />
     
     
       <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
@@ -71,6 +71,8 @@ if (!doNotTrack) {
 
   gtag('config', 'G-7D6366MSJC');
 </script>
+
+
 	<script>
   MathJax = {
     tex: {
@@ -257,12 +259,51 @@ if (!doNotTrack) {
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     <span class="f6 db">Posts</span>
     <h1 class="f3 near-black">
+      <a href="https://carltracy.com/posts/henon/" class="link black dim">
+        Hénon map
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      <h2 id="building-a-hénon-map-with-javascript">Building a Hénon map with javascript</h2>
+<p>I first found out about the Hénon map as an undergrad and have loved it ever since. Can I simulate it in javascript? Let&rsquo;s find out!</p>
+<p>The <a href="https://en.wikipedia.org/wiki/H%C3%A9non_map">Hénon map</a> is a dynamical system that exhibits chaotic behavior. It takes two
+parameters a and b. Depending on the values the map can exhibit
+ 
+ <a href="javascript:setValues(0.5,0.2);">periodic</a> 
+, <a href="javascript:setValues(1.4,0.2);">chaotic</a>  or intermittent  (switching back and forth between
+chaotic and stable orbits).  It is described by the formula:</p>
+<p>$$
+\begin{aligned}<br>
+x_{n+1} &amp;=  1 - ax_n^2+y_n\\
+y_{n+1}  &amp;= bx_n
+\end{aligned}<br>
+$$</p>
+<p>The Hénon map is basically taking the x-y plane and stretches, folds and squishes it like kneading bread. For some parameters it will
+tend toward a fixed point or set of points, but for others it exhibits chaotic dynamics - which means that no matter how accurately
+you describe the current position, it will be impossible to predict where it will be in the future (other than within the bounds
+of the attractor).</p>
+    </div>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="relative w-100  mb4 bg-white">
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
       <a href="https://carltracy.com/posts/media/" class="link black dim">
         Media
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      In 2022 I started listening to audio books on Audible and I read a lot of books. Inspired by my friend Jen I started a media log. Jen catalogs all her media and I am not nearly that ambitious and I actually wanted to start writing short reviews and that really doesn&rsquo;t work with my work load/ADHD. So for the most part my media log is more like a running list of very short summaries of books I&rsquo;ve read.
+      <p><img src="/images/books.webp" alt="Stack of Books"></p>
+<p>In 2022 I started listening to audio books on Audible and I read a <em>lot</em> of books. Inspired by my friend  <a href="https://jenmyers.net">Jen</a> I started
+a media log. Jen catalogs all her media and I am not nearly that ambitious and I actually wanted to start writing short reviews and that really
+doesn&rsquo;t work with my work load/ADHD. So for the most part my media log is more like a running list of very short summaries of books I&rsquo;ve read.
+I am certain that nobody really gives a shit but I&rsquo;m not doing this for them anyway =)</p>
+<p>You can check out my media log <a href="/media/">here</a></p>
     </div>
   </div>
 </div>

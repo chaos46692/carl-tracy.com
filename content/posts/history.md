@@ -9,7 +9,7 @@ categories : [nerd]
 First off let me say that I am by no means an authority on web technology, I wanted to re-do my website and part of that is making content. Writing is one of the things that I really suck at doing so I'm basically forcing myself to do it here, and part of that is discussing the technologies I've used over the years to build it.
 # How my websites were built
 ## The early days
-Back in the mid to late 90s, around the time I was graduating from college, the web started to become a thing. It was this neat new tool that would allow you build something that anyone in the world could see. The functionality was pretty limited and a good portion of the content was written in HTML (hypertext markup language), by hand, in text files and had to be set up manually on your system (usually in a directory like ~\\public_html\\). You had to set permissions and do all sorts of crazy stuff to make it work and even beyond that you had to have *access* to a computer system that allowed you to host websites. 
+Back in the mid to late 90s, around the time I was graduating from college, the web started to become a thing. It was this neat new tool that would allow you build something that anyone in the world could see. The functionality was pretty limited and a good portion of the content was written in HTML (hypertext markup language), by hand, in text files and had to be set up manually on your system (usually in a directory like ~\\public_html\\). You had to set permissions and do all sorts of crazy stuff to make it work and even beyond that you had to have *access* to a computer system that allowed you to host websites.
 
 My first website was built on a NeXT computer and hosted at [Rose-Hulman](https://rose-hulman.edu/). I learned by trial and error, looking at other people's code and hitting up my friends. I learned to use tables to build layouts and make my site look more interesting. I learned how to compress images to make them faster to download. I learned the ways of the \&nbsp; and various other tricks that you had to do to make your website look rad on the primitive browsers of the day in HTML version 2.1 or whatever the hell it was back then. For the most part building a website was very manual and always static.
 
@@ -21,7 +21,7 @@ With this came the advent of content management systems (CMS). These were very c
 ## Current iteration Static Site Generator
 My current site is built with a static site generator named [Hugo](https://gethugo.io). It simplifies the process of creating a webpage by using a language called Markdown, which greatly simplifies the process of creating formatted text. HTML and CSS are very particular and require lots of brackets and formatting and generally are very distracting from the process of writing content. Markdown does have a learning curve, but it is much less steep and it takes less effort to get down words without being distracted by the specifics of *how the words should look*.
 ## What is a static site generator {#ssg}
-Static site generators are sort of a "Back to the Future" kind of deal. It's using modern technology to create something not too dissimilar to webpages I used to make all those years ago in college. A static site generator takes content from *somewhere* (in my case text files) and generates a static website that is nothing but plain old HTML, CSS and maybe some JavaScript. 
+Static site generators are sort of a "Back to the Future" kind of deal. It's using modern technology to create something not too dissimilar to webpages I used to make all those years ago in college. A static site generator takes content from *somewhere* (in my case text files) and generates a static website that is nothing but plain old HTML, CSS and maybe some JavaScript.
 ### Why would you use a static site generator?
 So why the hell would I do that, isn't that moving backwards? Yes and no. Here are my main reasons for using a static site generator:
 #### It's fast
@@ -36,9 +36,5 @@ At some point I realized that Jooma (or WordPress, etc.) was pretty cool, but fo
 I like to futz with my technology and static site generators like Hugo definitely scratch that itch in a way that is much safer than traditional CMSs. Because the production version is stashed on GitHub/the server I can mess with it as much as I want locally until I finally get it right. If I screw it up Hugo pukes and lets me know I screwed it up. With Joomla it was much harder to do that kind of stuff (and as noted before was often inviting hackers into your site).
 ### Why wouldn't you use a static site generator
 The funny thing about static site generators is that while they allow you to concentrate on writing, if you want to do *anything* other than what your theme allows you to do out of the box it is going to get very hard, very quickly. I picked up Hugo pretty quick but I have a lot of experience with technology and setting up things like this. To be perfectly honest we use [Squarespace](https://www.squarespace.com/) for the barn website and I actually really love it. I have had exactly zero problems with it over the years and would recommend it to anyone who wants to build a website but doesn't want to learn about coding.
-### Update 2022 - moving to carltracy.com 
-I got around to figuring out how to [deploy the site from GitHub]({{< relref ".\hosting-from-github-with-aws.md" >}}).
-
-
-
-
+### Update 2022 - moving to carltracy.com
+I got around to figuring out how to [deploy the site from GitHub]({{< relref "hosting-from-github-with-aws.md" >}}).
