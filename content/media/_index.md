@@ -1,7 +1,7 @@
 ---
 title: "Media I am consuming"
 description: "Songs, books, etc that I like"
-date:  2023-01-29
+date:  2023-11-27
 ---
 {{< rawhtml >}}
 <style>
@@ -33,10 +33,4 @@ In usual fashion I slapped the [2023 reading list]({{<ref books-23>}}) together 
 (lol). In other news **WHEN THE FUCK DID IT BECOME 2024**. This is not okay.
 
 This year I'm going to try to add movies that I watched, but that's a little harder to keep track of and I guarantee I'll miss a lot of stuff I've watched.
-
-
-
-## System Collapse (Murderbot Series)
-### _Martha Wells_ 
-This will obviously be my next book after I finish Red Mars, let's see if it makes it onto the 2023 list or drug into 2024!
 
