@@ -22,6 +22,18 @@ draft: true
 </style>
 {{< /rawhtml >}}
 I like unconventional stories and I especially love a good movie that turns normal conventions on it's head.
+I've separated this into two sections - my absolute favorites / go to holiday season movies, followed by 
+other movies as we watch them. This will probably take me most of December to write so it will morph over time.
+
+We already had a good start of our favorite unconventional Christmas movies and because it's sort of our thing 
+our friend Louise sent [this list](https://www.goodhousekeeping.com/holidays/christmas-ideas/g29994860/best-christmas-horror-movies/) 
+to us and we started watching even more!
+
+## Rare Exports: A Christmas Ta
+### 10/10 ★
+Absolute perfection and the original film that got me into the whole Christmas Horror scene. A dark Finnish comedy.
+
+# New for 2023
 
 
 ## Silent Night
