@@ -28,8 +28,9 @@ other movies as we watch them. This will probably take me most of December to wr
 We already had a good start of our favorite unconventional Christmas movies and because it's sort of our thing 
 our friend Louise sent [this list](https://www.goodhousekeeping.com/holidays/christmas-ideas/g29994860/best-christmas-horror-movies/) 
 to us and we started watching even more!
+<!--more-->
 
-## Rare Exports: A Christmas Ta
+## Rare Exports: A Christmas Tale
 ### 10/10 ★
 Absolute perfection and the original film that got me into the whole Christmas Horror scene. A dark Finnish comedy.
 
