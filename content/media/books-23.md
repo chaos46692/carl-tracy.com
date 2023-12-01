@@ -1,6 +1,6 @@
 ---
 title: "What Books I'm Reading 2023"
-date:  2022-11-03
+date:  2023-11-30
 draft: false
 tags : [media,books,2023]
 categories : [books]
