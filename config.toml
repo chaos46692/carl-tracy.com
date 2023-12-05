@@ -43,7 +43,7 @@ googleAnalytics = "UA-5215367-2"
 [params]
   favicon = "favicon.ico"
   site_logo = "/CTlogo.png"
-  description = "Hey look! It's my new website. I finally jumped on the SSG train.'"
+  description = "I build a new website where I can ramble into the void about whatever I want!"
   facebook = ""
   twitter = "https://twitter.com/chaos46692"
   instagram = "https://www.instagram.com/chaos46692/"

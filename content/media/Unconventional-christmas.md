@@ -1,8 +1,10 @@
 ---
 title: "Unconventional Christmas Movies"
 description: "Movies "
-date:  2023-11-28
+date:  2023-12-04
 draft: true
+tags : [media,movies,2023]
+categories : [movies]
 ---
 {{< rawhtml >}}
 <style>
@@ -60,6 +62,13 @@ with no power during a blizzard when bad things start happening. Did Uncle Howar
 be honest - this is a horror movie so probably not lol. Good solid fun, not quite the piece of exquisite art like Rare Exports, but definitely on the 
 watch list every year.
 
+## [Violent Night](https://www.amazon.com/Violent-Night-Blu-Ray-DVD-Digital/dp/B0BN58XKMM?crid=C6BQV1C0CEWL&keywords=violent+night&qid=1701468497&sprefix=Violen%2Caps%2C121&sr=8-2&linkCode=li2&tag=mhskkbde-20&linkId=8d53c1cdc19fd15a141db85183baad12&language=en_US&ref_=as_li_ss_il)
+### 7/10 ★
+This is a relatively new addition that we only watched once, but I very much enjoyed it and will definitely watch again. I am of the personal opinion that you can't 
+go wrong with [David Harbour](https://en.wikipedia.org/wiki/David_Harbour) as Santa who is trying to save young Trudy from a gang of mercenaries who are 
+attempting to rob Trudy's grandma. Sort of has a [Die Hard]({{<ref diehard>}}) vibe where you replace John McClane with Santa Claus and Nakatomi Tower 
+with an old white lady's mansion =P
+
 
 # New for 2023
 
@@ -71,7 +80,12 @@ Seems like a tame setup except for one thing - an environmental collapse has cau
 everyone in it's wake. To prevent people from dying horrible deaths the government has distributed poison suicide pills. 
 The movie has some surprisingly funny parts in it, if you overlook the fact that the plot is way too real for comfort. 
 
-
+## [It's a Wonderful Knife](https://amzn.to/418z1X8)
+### 7/10 ★
+After making a wish under the northern lights, Winnie finds herself in an alternate universe where she wasn't around to stop a 
+rampaging murderer. Now she must stop him again to get back to her family. This movie is fun sort of inverse parody of 
+"It's a Wonderful Life", with one of the other characters even commenting she wasn't sure which of them was Clarence and which 
+was George Bailey. I loved Justin Long as the bad guy and you can never go wrong with Joel McHale as Winnie's dad.
 
 
 

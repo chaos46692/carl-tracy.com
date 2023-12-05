@@ -36,5 +36,10 @@ At some point I realized that Jooma (or WordPress, etc.) was pretty cool, but fo
 I like to futz with my technology and static site generators like Hugo definitely scratch that itch in a way that is much safer than traditional CMSs. Because the production version is stashed on GitHub/the server I can mess with it as much as I want locally until I finally get it right. If I screw it up Hugo pukes and lets me know I screwed it up. With Joomla it was much harder to do that kind of stuff (and as noted before was often inviting hackers into your site).
 ### Why wouldn't you use a static site generator
 The funny thing about static site generators is that while they allow you to concentrate on writing, if you want to do *anything* other than what your theme allows you to do out of the box it is going to get very hard, very quickly. I picked up Hugo pretty quick but I have a lot of experience with technology and setting up things like this. To be perfectly honest we use [Squarespace](https://www.squarespace.com/) for the barn website and I actually really love it. I have had exactly zero problems with it over the years and would recommend it to anyone who wants to build a website but doesn't want to learn about coding.
-### Update 2022 - moving to carltracy.com
-I got around to figuring out how to [deploy the site from GitHub]({{< relref "hosting-from-github-with-aws.md" >}}).
+### Update 2022 - moving to carltracy.com {#carltracy}
+For many years I had hosted my personal website on [carl-tracy.com](carl-tracy.com). I (obviously) wanted this domain, but someone was sitting on it 
+and not doing anything with it. I actually sent the dude an email asking if he was willing to sell and apparently his father-in-law had the same name 
+and he had thought about building something, blah, blah, blah. He countered my offer (basically the registration charges + a little bit extra if I remember correctly) with 
+some astronomically big number like $5,000 at which point I laughed and laughed and told him no. I then went to a service that would pick up the domain as soon as it 
+became available and after a few years of waiting I finally got it! Now that I finally had a sweet vanity domain, I decided to to get my butt in gear and figure out 
+how to [deploy the site from GitHub]({{< relref "hosting-from-github-with-aws.md" >}}).

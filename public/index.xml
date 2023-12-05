@@ -5,25 +5,80 @@
     <link>https://carltracy.com/</link>
     <description>Recent content on Carl&#39;s New Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 22 Nov 2023 12:00:00 -0500</lastBuildDate><atom:link href="https://carltracy.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carltracy.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Books I&#39;m Reading 2023</title>
+      <link>https://carltracy.com/media/books-23/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://carltracy.com/media/books-23/</guid>
+      <description>&lt;style&gt;
+    h3 {
+        margin-top: 0.5em!important;
+        line-height: 1;
+        padding: 0;
+        margin-bottom:0!important;
+    }
+
+    h1, h2 {
+        margin-top: 1.2em!important;
+        line-height: 1;
+        padding: 0;
+        margin-bottom:0!important;
+    }
+&lt;/style&gt;
+
+
+&lt;p&gt;Once again inspired by my friend &lt;a href=&#34;https://jenmyers.net&#34;&gt;Jen&lt;/a&gt;, here is the media I&amp;rsquo;ve been consuming. I&amp;rsquo;m still on the &lt;a href=&#34;https://www.audible.com/&#34;&gt;Audible&lt;/a&gt;
+train and at their maximum subscriber level and buying books when they go on sale to boot. I love listening to books while I commute / travel. In the past
+I would get annoyed when Waze would butt in with commentary, but now I&amp;rsquo;ve started to find it amusing. So many random insertions &lt;em&gt;Arkady said &lt;em&gt;in one mile, use the
+right lane to turn right at the light&lt;/em&gt;&lt;/em&gt;. I laugh every time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unconventional Christmas Movies</title>
+      <link>https://carltracy.com/media/unconventional-christmas/</link>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://carltracy.com/media/unconventional-christmas/</guid>
+      <description>&lt;p&gt; 
+
+&lt;style&gt;
+    h3 {
+        margin-top: 0.5em!important;
+        line-height: 1;
+        padding: 0;
+        margin-bottom:0!important;
+    }
+
+    h1, h2 {
+        margin-top: 1.2em!important;
+        line-height: 1;
+        padding: 0;
+        margin-bottom:0!important;
+    }
+&lt;/style&gt;
+
+I like unconventional stories and I especially love a good movie that turns normal conventions on it&amp;rsquo;s head.
+I&amp;rsquo;ve separated this into two sections - my absolute favorites / go to holiday season movies, followed by
+other movies as we watch them. This will probably take me most of December to write so it will morph over time.&lt;/p&gt;
+&lt;p&gt;We already had a good start of our favorite unconventional Christmas movies and because it&amp;rsquo;s sort of our thing
+our friend Louise sent &lt;a href=&#34;https://www.goodhousekeeping.com/holidays/christmas-ideas/g29994860/best-christmas-horror-movies/&#34;&gt;this list&lt;/a&gt;
+to us and we started watching even more!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Advent Calendar 2023</title>
       <link>https://carltracy.com/posts/advent23/</link>
       <pubDate>Wed, 22 Nov 2023 12:00:00 -0500</pubDate>
-      
       <guid>https://carltracy.com/posts/advent23/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://carltracy.com/images/xmaswhiskey.webp&#34; alt=&#34;Advent Calendars&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;advent-calendars&#34;&gt;Advent Calendars&lt;/h2&gt;
 &lt;p&gt;I bought a candy advent calendar for my wife and a whiskey advent calendar for me. I hope to write reviews
 for both every day, but I&amp;rsquo;ll give the over under at April for when I actually write it lol =P&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Hénon map</title>
       <link>https://carltracy.com/posts/henon/</link>
       <pubDate>Thu, 16 Nov 2023 17:39:00 -0500</pubDate>
-      
       <guid>https://carltracy.com/posts/henon/</guid>
       <description>&lt;h2 id=&#34;building-a-hénon-map-with-javascript&#34;&gt;Building a Hénon map with javascript&lt;/h2&gt;
 &lt;p&gt;I first found out about the Hénon map as an undergrad and have loved it ever since. Can I simulate it in javascript? Let&amp;rsquo;s find out!&lt;/p&gt;
@@ -44,12 +99,10 @@ tend toward a fixed point or set of points, but for others it exhibits chaotic d
 you describe the current position, it will be impossible to predict where it will be in the future (other than within the bounds
 of the attractor).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Wheel o Meditation</title>
       <link>https://carltracy.com/posts/wheel-o-meditation/</link>
       <pubDate>Wed, 01 Nov 2023 10:39:00 -0500</pubDate>
-      
       <guid>https://carltracy.com/posts/wheel-o-meditation/</guid>
       <description>&lt;h2 id=&#34;my-random-meditation-video-generator&#34;&gt;My Random Meditation Video Generator&lt;/h2&gt;
  
@@ -78,12 +131,10 @@ of the attractor).&lt;/p&gt;</description>
 &lt;p&gt;I&amp;rsquo;ve been collecting a group of meditation videos on YouTube that I use to manage anxiety. This is mostly a place for me to come, press a button and get a random meditaiton video.
 So if you&amp;rsquo;d like a random meditation video to help with anxiety click the button below!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Media</title>
       <link>https://carltracy.com/posts/media/</link>
       <pubDate>Sun, 29 Jan 2023 12:13:53 -0500</pubDate>
-      
       <guid>https://carltracy.com/posts/media/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://carltracy.com/images/books.webp&#34; alt=&#34;Stack of Books&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In 2022 I started listening to audio books on Audible and I read a &lt;em&gt;lot&lt;/em&gt; of books. Inspired by my friend  &lt;a href=&#34;https://jenmyers.net&#34;&gt;Jen&lt;/a&gt; I started
@@ -92,12 +143,10 @@ doesn&amp;rsquo;t work with my work load/ADHD. So for the most part my media log
 I am certain that nobody really gives a shit but I&amp;rsquo;m not doing this for them anyway =)&lt;/p&gt;
 &lt;p&gt;You can check out my media log &lt;a href=&#34;https://carltracy.com/media/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>What Books I&#39;m Reading 2022</title>
       <link>https://carltracy.com/media/books-22/</link>
       <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://carltracy.com/media/books-22/</guid>
       <description>&lt;p&gt; 
 
@@ -121,12 +170,10 @@ Inspired by my friend &lt;a href=&#34;https://jenmyers.net&#34;&gt;Jen&lt;/a&gt;
 using &lt;a href=&#34;https://www.audible.com/&#34;&gt;Audible&lt;/a&gt; to listen to audio books. I had put it off for a long time, figuring that I wouldn&amp;rsquo;t use it and I would just
 waste money. Oh boy was I wrong. I burned through tons of books and very much outpaced the one credit a month I got from Audible.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Reality Christmas with Over the Rhine</title>
       <link>https://carltracy.com/posts/reality-christmas/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://carltracy.com/posts/reality-christmas/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://carltracy.com/images/OtR_2022_xmas.webp&#34; alt=&#34;OtR 2022 Xmas&#34;&gt;&lt;/p&gt;
 &lt;p&gt;My group at work recently got moved to a different department. I don&amp;rsquo;t necessarily view it is a bad thing, but it certainly wasn&amp;rsquo;t expected.
@@ -138,82 +185,43 @@ right amount of fun while also being appropriate for the workplace. This year as
 holiday activities, foods, songs, etc. The question about favorite holiday song made me laugh because my favorite holiday songs are almost certainly
 not the same as most folks.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>We are not a cat rescue</title>
       <link>https://carltracy.com/posts/not-a-cat-rescue/</link>
       <pubDate>Wed, 30 Nov 2022 16:50:38 -0500</pubDate>
-      
       <guid>https://carltracy.com/posts/not-a-cat-rescue/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://carltracy.com/images/number17.webp&#34; alt=&#34;Number 17&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This is #17. He&amp;rsquo;s named #17 because over the last several years we have caught, neutered and rehomed or released &lt;em&gt;more&lt;/em&gt; than 17 cats (sometimes we get kittens so we end up with 7a, 7b, 7c, 7d - I&amp;rsquo;m pretty sure we entertain the vet office very much). Thankfully our vet is absolutely amazing and gives us a deal when we fix strays. Because we live right off the freeway, are a bit out of Columbus, and because for some damn reason folks think barns are a great place to drop off cats without asking we end up with a lot of cats that get dropped off.  Over the years we&amp;rsquo;ve begun to refer to ourselves as &amp;ldquo;Not a cat rescue&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;If you dear reader have ever considered dropping your cat off in the country because you couldn&amp;rsquo;t take care of them anymore, please consider a few things:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Hosting from AWS with GitHub</title>
       <link>https://carltracy.com/posts/hosting-from-github-with-aws/</link>
       <pubDate>Sun, 06 Nov 2022 09:02:38 -0500</pubDate>
-      
       <guid>https://carltracy.com/posts/hosting-from-github-with-aws/</guid>
       <description>Back at it again Well I certainly haven&amp;rsquo;t done much with this lately. Part of that is I just feel like I didn&amp;rsquo;t have much to say and part of it is the setup I had was a little too much of a pain to deploy. Because, you know, actually having to log in and push 2 or 3 buttons is so much of a pain. Anyway, I got a bug up my butt and figured out how to build things with AWS and GitHub and did a small project over at Evil Peep which has been sitting dormant for around 12 years.</description>
     </item>
-    
-    <item>
-      <title>What Books I&#39;m Reading 2023</title>
-      <link>https://carltracy.com/media/books-23/</link>
-      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://carltracy.com/media/books-23/</guid>
-      <description>&lt;style&gt;
-    h3 {
-        margin-top: 0.5em!important;
-        line-height: 1;
-        padding: 0;
-        margin-bottom:0!important;
-    }
-
-    h1, h2 {
-        margin-top: 1.2em!important;
-        line-height: 1;
-        padding: 0;
-        margin-bottom:0!important;
-    }
-&lt;/style&gt;
-
-
-&lt;p&gt;Once again inspired by my friend &lt;a href=&#34;https://jenmyers.net&#34;&gt;Jen&lt;/a&gt;, here is the media I&amp;rsquo;ve been consuming. I&amp;rsquo;m still on the &lt;a href=&#34;https://www.audible.com/&#34;&gt;Audible&lt;/a&gt;
-train and at their maximum subscriber level and buying books when they go on sale to boot. I love listening to books while I commute / travel. In the past
-I would get annoyed when Waze would butt in with commentary, but now I&amp;rsquo;ve started to find it amusing. So many random insertions &lt;em&gt;Arkady said &lt;em&gt;in one mile, use the
-right lane to turn right at the light&lt;/em&gt;&lt;/em&gt;. I laugh every time.&lt;/p&gt;</description>
-    </item>
-    
     <item>
       <title>History of carltracy.com</title>
       <link>https://carltracy.com/posts/history/</link>
       <pubDate>Fri, 12 Mar 2021 12:45:26 -0500</pubDate>
-      
       <guid>https://carltracy.com/posts/history/</guid>
       <description>Disclaimer First off let me say that I am by no means an authority on web technology, I wanted to re-do my website and part of that is making content. Writing is one of the things that I really suck at doing so I&amp;rsquo;m basically forcing myself to do it here, and part of that is discussing the technologies I&amp;rsquo;ve used over the years to build it.
 How my websites were built The early days Back in the mid to late 90s, around the time I was graduating from college, the web started to become a thing.</description>
     </item>
-    
     <item>
       <title>Tiktok Shortcode for Hugo</title>
       <link>https://carltracy.com/posts/tiktok-shortcode-for-hugo/</link>
       <pubDate>Wed, 10 Mar 2021 10:15:30 -0500</pubDate>
-      
       <guid>https://carltracy.com/posts/tiktok-shortcode-for-hugo/</guid>
       <description>Tiktok shortcode for Hugo When i was trying to post my adorable Tiktok of a wee baby duck that was just hatching, I couldn&amp;rsquo;t find anything about embedding Tiktoks into Hugo. I tried just pasting the embed code into a markdown page, but it didn&amp;rsquo;t work so I wrote a quick and dirty shortcode to do it:
 tiktok.html: Save this code in \layouts\shortcodes\tiktok.html
 &amp;lt;script async src=&amp;#34;https://www.tiktok.com/embed.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;blockquote class=&amp;#34;tiktok-embed&amp;#34; cite=&amp;#34;https://www.tiktok.com/{{ .Get &amp;#34;usr&amp;#34; }}/video/{{ .</description>
     </item>
-    
     <item>
       <title>Baby Duck</title>
       <link>https://carltracy.com/posts/baby-duck/</link>
       <pubDate>Wed, 10 Mar 2021 10:02:03 -0500</pubDate>
-      
       <guid>https://carltracy.com/posts/baby-duck/</guid>
       <description>&lt;h2 id=&#34;please-enjoy-this-tiktok-of-a-baby-duck-hatching-&#34;&gt;Please enjoy this Tiktok of a baby duck hatching =)&lt;/h2&gt;
 
@@ -228,12 +236,10 @@ tiktok.html: Save this code in \layouts\shortcodes\tiktok.html
 	&lt;/section&gt; 
 &lt;/blockquote&gt;</description>
     </item>
-    
     <item>
       <title>Formula for the Weighted Average Life of a Mortgage</title>
       <link>https://carltracy.com/posts/mortgage-wal-formula/</link>
       <pubDate>Mon, 08 Mar 2021 11:35:08 -0500</pubDate>
-      
       <guid>https://carltracy.com/posts/mortgage-wal-formula/</guid>
       <description>A while ago for work I had created a process that required a formula for the weighted average life (WAL) of a mortgage with level payments. I found one online:
 $$ W = N D_N - \frac{1}{r} $$
@@ -241,44 +247,35 @@ where:
 $$ \begin{aligned}
 d &amp;amp;= { 1 \over 1 + r} = \hbox{one month discount factor} \\[7pt] r &amp;amp;= {a \over 12} = \hbox{monthly discount} \\[10pt] N &amp;amp;= \hbox{Loan period in months} \\[10pt] D_n &amp;amp;= {1 \over 1-d^n} \end{aligned}</description>
     </item>
-    
     <item>
       <title>Setting Up Hugo with SSL and MathJax</title>
       <link>https://carltracy.com/posts/setting-up-hugo/</link>
       <pubDate>Sat, 06 Mar 2021 09:44:41 -0500</pubDate>
-      
       <guid>https://carltracy.com/posts/setting-up-hugo/</guid>
       <description>I&amp;rsquo;ve had a lot of fun setting up Hugo to set it up how I want. I will caveat this with a few things - I tried to do things the right way (not editing the theme directly) but I&amp;rsquo;m really really really fucking impatient and in a lot of cases I just edited the theme because I don&amp;rsquo;t want to deal with this shit. I&amp;rsquo;m never going to update it so screw it.</description>
     </item>
-    
     <item>
       <title>Setting Up an SSL cetificate</title>
       <link>https://carltracy.com/posts/setting-up-ssl/</link>
       <pubDate>Sat, 06 Mar 2021 09:02:38 -0500</pubDate>
-      
       <guid>https://carltracy.com/posts/setting-up-ssl/</guid>
       <description>While setting up this website I was constantly greeted by this in my address bar:
 I have no real reason for it to piss me off but it surely did. This must be remedied.
 My hosting is different from my registrar/DNS so accomplishing it took a little more work than it might if you have all that stuff in one place. I use namecheap as my registrar/DNS and HostPapa for my hosting (mostly because I used to use Lunarpages and they got bought by HostPapa).</description>
     </item>
-    
     <item>
       <title>It Worked</title>
       <link>https://carltracy.com/posts/it-worked/</link>
       <pubDate>Wed, 03 Mar 2021 17:02:14 -0500</pubDate>
-      
       <guid>https://carltracy.com/posts/it-worked/</guid>
       <description>Well hey look it worked! That&amp;rsquo;s pretty rad. I don&amp;rsquo;t have a lot to add to this, mostly this post is to make sure the script that I wrote to autobuild and commit to [GitHub](git commit -a &amp;ndash;allow-empty-message) works =)</description>
     </item>
-    
     <item>
       <title>It&#39;s Alive</title>
       <link>https://carltracy.com/posts/it-is-alive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://carltracy.com/posts/it-is-alive/</guid>
       <description>Hello World! It&amp;rsquo;s been a while since I did anything with this site. I finally got around to building something with Hugo. I kind of dig the idea of a static site generator but I generally run Windows machines so it was kind of a pain in the ass. I finally got around to installing Linux Mint on a virtual machine so now it was much easier to check out.</description>
     </item>
-    
   </channel>
 </rss>

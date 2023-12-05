@@ -5,6 +5,7 @@
     <link>https://carltracy.com/about/</link>
     <description>Recent content in About on Carl&#39;s New Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://carltracy.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://carltracy.com/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

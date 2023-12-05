@@ -28,7 +28,10 @@ tend toward a fixed point or set of points, but for others it exhibits chaotic d
 you describe the current position, it will be impossible to predict where it will be in the future (other than within the bounds 
 of the attractor).
 <!--more--> 
-Some interesting parameters:
+## Source Code
+I put the basic source code in [this gist](https://gist.github.com/chaos46692/f9d00cef34f9193c17c32477fc647506)
+
+## Some interesting parameters
 {{<rawhtml>}}
 <ul>
     <li> <a href="javascript:setValues(1.4,0.2);"> Chaotic (1.4, 0.3)</a> </li>
@@ -203,3 +206,4 @@ src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js">
 
 
 {{< /rawhtml >}}
+

@@ -5,13 +5,13 @@
     <link>https://carltracy.com/tags/finance/</link>
     <description>Recent content in finance on Carl&#39;s New Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 08 Mar 2021 11:35:08 -0500</lastBuildDate><atom:link href="https://carltracy.com/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Mar 2021 11:35:08 -0500</lastBuildDate>
+    <atom:link href="https://carltracy.com/tags/finance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Formula for the Weighted Average Life of a Mortgage</title>
       <link>https://carltracy.com/posts/mortgage-wal-formula/</link>
       <pubDate>Mon, 08 Mar 2021 11:35:08 -0500</pubDate>
-      
       <guid>https://carltracy.com/posts/mortgage-wal-formula/</guid>
       <description>A while ago for work I had created a process that required a formula for the weighted average life (WAL) of a mortgage with level payments. I found one online:
 $$ W = N D_N - \frac{1}{r} $$
@@ -19,6 +19,5 @@ where:
 $$ \begin{aligned}
 d &amp;amp;= { 1 \over 1 + r} = \hbox{one month discount factor} \\[7pt] r &amp;amp;= {a \over 12} = \hbox{monthly discount} \\[10pt] N &amp;amp;= \hbox{Loan period in months} \\[10pt] D_n &amp;amp;= {1 \over 1-d^n} \end{aligned}</description>
     </item>
-    
   </channel>
 </rss>

@@ -5,88 +5,71 @@
     <link>https://carltracy.com/categories/</link>
     <description>Recent content in Categories on Carl&#39;s New Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 22 Nov 2023 12:00:00 -0500</lastBuildDate><atom:link href="https://carltracy.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carltracy.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>books</title>
+      <link>https://carltracy.com/categories/books/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://carltracy.com/categories/books/</guid>
+      <description></description>
+    </item>
     <item>
       <title>advent calendar</title>
       <link>https://carltracy.com/categories/advent-calendar/</link>
       <pubDate>Wed, 22 Nov 2023 12:00:00 -0500</pubDate>
-      
       <guid>https://carltracy.com/categories/advent-calendar/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>nerd</title>
       <link>https://carltracy.com/categories/nerd/</link>
       <pubDate>Wed, 22 Nov 2023 12:00:00 -0500</pubDate>
-      
       <guid>https://carltracy.com/categories/nerd/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>whiskey</title>
       <link>https://carltracy.com/categories/whiskey/</link>
       <pubDate>Wed, 22 Nov 2023 12:00:00 -0500</pubDate>
-      
       <guid>https://carltracy.com/categories/whiskey/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>math</title>
       <link>https://carltracy.com/categories/math/</link>
       <pubDate>Thu, 16 Nov 2023 17:39:00 -0500</pubDate>
-      
       <guid>https://carltracy.com/categories/math/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>mental health</title>
       <link>https://carltracy.com/categories/mental-health/</link>
       <pubDate>Wed, 01 Nov 2023 10:39:00 -0500</pubDate>
-      
       <guid>https://carltracy.com/categories/mental-health/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>books</title>
-      <link>https://carltracy.com/categories/books/</link>
-      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://carltracy.com/categories/books/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>music</title>
       <link>https://carltracy.com/categories/music/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://carltracy.com/categories/music/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>animals</title>
       <link>https://carltracy.com/categories/animals/</link>
       <pubDate>Wed, 30 Nov 2022 16:50:38 -0500</pubDate>
-      
       <guid>https://carltracy.com/categories/animals/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>farm</title>
       <link>https://carltracy.com/categories/farm/</link>
       <pubDate>Wed, 10 Mar 2021 10:02:03 -0500</pubDate>
-      
       <guid>https://carltracy.com/categories/farm/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

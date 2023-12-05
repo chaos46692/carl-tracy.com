@@ -5,13 +5,13 @@
     <link>https://carltracy.com/tags/mental-health/</link>
     <description>Recent content in mental health on Carl&#39;s New Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Nov 2023 10:39:00 -0500</lastBuildDate><atom:link href="https://carltracy.com/tags/mental-health/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Nov 2023 10:39:00 -0500</lastBuildDate>
+    <atom:link href="https://carltracy.com/tags/mental-health/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wheel o Meditation</title>
       <link>https://carltracy.com/posts/wheel-o-meditation/</link>
       <pubDate>Wed, 01 Nov 2023 10:39:00 -0500</pubDate>
-      
       <guid>https://carltracy.com/posts/wheel-o-meditation/</guid>
       <description>&lt;h2 id=&#34;my-random-meditation-video-generator&#34;&gt;My Random Meditation Video Generator&lt;/h2&gt;
  
@@ -40,6 +40,5 @@
 &lt;p&gt;I&amp;rsquo;ve been collecting a group of meditation videos on YouTube that I use to manage anxiety. This is mostly a place for me to come, press a button and get a random meditaiton video.
 So if you&amp;rsquo;d like a random meditation video to help with anxiety click the button below!&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

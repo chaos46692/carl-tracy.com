@@ -5,13 +5,13 @@
     <link>https://carltracy.com/categories/math/</link>
     <description>Recent content in math on Carl&#39;s New Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 16 Nov 2023 17:39:00 -0500</lastBuildDate><atom:link href="https://carltracy.com/categories/math/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 16 Nov 2023 17:39:00 -0500</lastBuildDate>
+    <atom:link href="https://carltracy.com/categories/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hénon map</title>
       <link>https://carltracy.com/posts/henon/</link>
       <pubDate>Thu, 16 Nov 2023 17:39:00 -0500</pubDate>
-      
       <guid>https://carltracy.com/posts/henon/</guid>
       <description>&lt;h2 id=&#34;building-a-hénon-map-with-javascript&#34;&gt;Building a Hénon map with javascript&lt;/h2&gt;
 &lt;p&gt;I first found out about the Hénon map as an undergrad and have loved it ever since. Can I simulate it in javascript? Let&amp;rsquo;s find out!&lt;/p&gt;
@@ -32,6 +32,5 @@ tend toward a fixed point or set of points, but for others it exhibits chaotic d
 you describe the current position, it will be impossible to predict where it will be in the future (other than within the bounds
 of the attractor).&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

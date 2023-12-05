@@ -1,0 +1,13 @@
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+    <div class=" white-40 flex justify-between" style="margin:1em;">
+        Some links to products reviewed contain affiliate links for which I may be compensated if you purchase them through the links provided.
+        Any products reviewed were purchased by me and I have not been compensated for my terrible reviews.
+    </div>
+    <div class="flex justify-between">
+    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
+      &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} 2022 - {{ now.Format "2006"}} {{ end }}
+    </a>
+      <div>{{ partial "social-follow.html" . }}</div>
+    </div>
+  </footer>
+  
