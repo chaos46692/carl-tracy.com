@@ -228,12 +228,21 @@ first book about the initial settlers and the struggles they face. I like the bo
 and there's not a lot of action, so if your looking for action maybe stay away. I liked this book and will definitely read the other 
 two (Blue Mars and Green Mars), but I'll probably hit a few other books first (**MURDERBOT!!!!**)
 
+## System Collapse (Murderbot Diaries)
+### Martha Wells
+What can I say other than **fuck.yes.MURDERBOT!!!** The only bad thing about a new Murderbot book is that you're gonna 
+blow through it super fast and then you have no more Murderbot. Still worth it though!
+
+Murderbot returns and is trying to help some colonists get away from some ancient tech that is turning all their 
+technology into indiscriminate killing machines. That is to say - right were we left off in the last book! Murderbot 
+is trying it's best but is having problems because of **[REDACTED]**[^murderbot]. 
 
 [^scalzi]: YES ANOTHER ONE I LIKE HIS WORK OKAY??!?!
 [^WWZ]: Even if you like the movie it sucks okay? It's alright on it's own but putting Brad Pitt in this was the worst possible 
 decision because now you have Brad Pitt and you have to justify paying for Brad Pitt so what do you do? Make the entire movie 
 about Brad Pitt. Unfortunately that is 100% against how the book is structured. 
-[^epic] The quest is actually just tedious, which one of the characters makes fun of pretty much continuously throughout the series
-[^ktc] The [Kitchen Table Cult Podcast](https://kitchentablecult.com/) has a lot of these themes and I wouldn't be surprised if 
+[^epic]: The quest is actually just tedious, which one of the characters makes fun of pretty much continuously throughout the series
+[^ktc]: The [Kitchen Table Cult Podcast](https://kitchentablecult.com/) has a lot of these themes and I wouldn't be surprised if 
 Tesh had white fundamentalist evangelicals in mind when she wrote this.
-[^mags] Mags isn't _exactly_ a himbo because he's not in any way dumb, but he definitely is a giant sweetheart which is close enough for me.
+[^mags]: Mags isn't _exactly_ a himbo because he's not in any way dumb, but he definitely is a giant sweetheart which is close enough for me.
+[^murderbot]: I can't explain this joke without ruining the book so you'll just have to read it.

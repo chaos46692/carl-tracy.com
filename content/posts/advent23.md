@@ -1,6 +1,6 @@
 ---
 title: "Advent Calendar 2023"
-date: 2023-12-04T20:00:00-05:00
+date: 2023-12-07T06:00:00-05:00
 draft: true
 tags : [whiskey,nerd,Christmas]
 categories : [nerd,whiskey,advent calendar]
@@ -63,3 +63,17 @@ The taste is very sweet and rich with lots of dark fruit flavors. This is the fi
 Straight up gummies in the shape of an adorable penguin holding a present. The gummies have a delightful fruity 
 pomegranate/apricot flavor that I honestly think went quite well with the Starward.
 
+
+## Day 5
+### [Black Button Pre-Prohibition Style Straight Bourbon Whiskey](https://flaviar.com/products/black-button-pre-prohibition-style-straight-bourbon-whiskey-750)
+Pretty good, but not as nice as the Starward. I wouldn't turn it down, but wouldn't seek it out either.
+### [Raspberry Eiffel Towers](https://www.sugarfina.com/rasperberry-eiffel-towers-gummy)
+These are just adorable and taste pretty good as well (let's be honest - kind of hard to fuck up gummies)
+
+## Day 6
+### [Filey Bay Flagship Single Malt Whisky](https://flaviar.5d3x.net/c/5043138/1891753/3334?prodsku=8530954289434&u=https%3A%2F%2Fflaviar.com%2Fproducts%2Ffiley-bay-flagship-single-malt-whisky-700&intsrc=APIG_15277)
+This one was quite nice. I didn't like it as much as the Starward, but overall a nice single malt. I definitely picked 
+up on the orange peel (which is one of the flavors I like) and the sweeter fruits were very apparent.
+### [Holiday Hearts](https://www.sugarfina.com/strawberry-hearts-candy-cube)
+I'm not sure I linked the right ones here, but the ones we had smelled _delightful_ and tasted quite nice. 
+They are the softer, squishier type of gummy that I really like.
