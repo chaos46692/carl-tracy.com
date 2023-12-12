@@ -1,6 +1,6 @@
 ---
 title: "Advent Calendar 2023"
-date: 2023-12-07T06:00:00-05:00
+date: 2023-12-11T06:00:00-05:00
 draft: true
 tags : [whiskey,nerd,Christmas]
 categories : [nerd,whiskey,advent calendar]
@@ -77,3 +77,53 @@ up on the orange peel (which is one of the flavors I like) and the sweeter fruit
 ### [Holiday Hearts](https://www.sugarfina.com/strawberry-hearts-candy-cube)
 I'm not sure I linked the right ones here, but the ones we had smelled _delightful_ and tasted quite nice. 
 They are the softer, squishier type of gummy that I really like.
+
+## Day 7
+### [Frey Ranch Bottled-in-bond Rye](https://flaviar.5d3x.net/c/5043138/1891753/3334?prodsku=8530829279514&u=https%3A%2F%2Fflaviar.com%2Fproducts%2Ffrey-ranch-straight-rye-whiskey-750&intsrc=PUI2_15277)
+Note that I couldn't find a link for this exact bottle. This was pretty good, not my favorite rye but far from 
+my least favorite (looking at you [Balcones](https://flaviar.5d3x.net/c/5043138/1891753/3334?prodsku=8530710954266&u=https%3A%2F%2Fflaviar.com%2Fproducts%2Fbalcones-texas-rye-750&intsrc=PUI2_15277)). There were some caramel hints 
+but overall very rye-ish, which Barb did not appreciate
+### [Little Snowmen](https://www.shopambiance.com/products/sugarfina-small-snow-buddies-snowman-gummies)
+These were adorable. 
+
+## Day 8
+### [Famous Grouse smoky Black](https://flaviar.5d3x.net/c/5043138/1891753/3334?prodsku=8743882621210&u=https%3A%2F%2Fflaviar.com%2Fproducts%2Fthe-famous-grouse-smoky-black-750&intsrc=PUI2_15277)
+The first real smoky whisky. Feels like a smoky [Monkey shoulder](https://flaviar.5d3x.net/c/5043138/1891753/3334?prodsku=8530781634842&u=https%3A%2F%2Fflaviar.com%2Fproducts%2Fmonkey-shoulder-blended-scotch-whisky-750&intsrc=PUI2_15277), which is to say - pretty 
+standard entry level. Definitely had the phenols going on, which was funny because it reminded me of whatever chemical 
+they put in the [World Equestrian Center](https://worldequestriancenter.com/wilmington-oh/) to keep the sand nice. 
+Yay chemicals! Now where was I? Oh yeah - standard smokey scotch. Not going to smack you in the face with it, but it's there. 
+I thought it was okay, Barb was not a fan.
+### [Sparkling Stars](https://www.sugarfina.com/sugarfina-hollywood-walk-of-fame-star-gummies)
+Standard gummies. Pretty tasty.
+
+## Day 9
+### [Stauning Rye](https://flaviar.com/products/stauning-rye-danish-whisky-750)
+Another Rye! I smelled it, and didn't even bother pouring Barb some, because I knew she'd hate it. This was an interesting 
+experience, but I'm not sure I loved it. It was quite fun to taste a Danish rye though, not sure sure that I've had 
+any whiskey from Denmark before.
+### [Petite Strawberries](https://www.sugarfina.com/summer-strawberries-small)
+Pretty standard strawberry gummy candy
+
+## Day 10
+### [Breckenridge Port Cask Finish Whiskey](https://flaviar.5d3x.net/c/5043138/1891753/3334?prodsku=8530759221530&u=https%3A%2F%2Fflaviar.com%2Fproducts%2Fbreckenridge-port-cask-finish-whiskey-750&intsrc=PUI2_15277)
+We had a busy weekend and tried this one at the same time as the Stauning Rye, figured it was a safe bet for Barb. Nooooope! 
+This was really intense, with lots of spicey rye notes. I thought it was okay, Barb hated it.
+### [Riptide Raspberries](https://www.sugarfina.com/riptide-raspberries-gummy-sugarfina)
+Almost exactly the same as the strawberries, but raspberry. Can't complain
+
+## Day 11
+### [Silkie The Legendary Dark Silkie](https://flaviar.5d3x.net/c/5043138/1891753/3334?prodsku=8530638766362&u=https%3A%2F%2Fflaviar.com%2Fproducts%2Fsilkie-dark-irish-whiskey-750&intsrc=PUI2_15277)
+I have never had a peated Irish whiskey and all I can say is hoooooly shit - buckle up butter cup cuz this is going to punch you 
+right in the back of the tongue with smokey, peaty, char. It goes on and on and on and on. I could smell the smoke, but was not 
+prepared for how much stronger it would be on the taste.  Barb took one sip and handed the rest to 
+me. Imagine my surprise when her glass (with ice) _tasted even more smokey_. How the fuck does that work? I swear to you 
+it tastes like brimstone and fire with water added. Somehow the peat flavor is more obnoxious than my bottle of 
+[Octomore 12.1](https://flaviar.5d3x.net/c/5043138/1891753/3334?prodsku=8530547081498&u=https%3A%2F%2Fflaviar.com%2Fproducts%2Fbruichladdich-octomore-12-1-750&intsrc=PUI2_15277). Don't get me wrong - the Octomore is 100% more 
+smokey, but somehow leaves more of a charred burning flavor in my mouth.
+
+I do like some of those funky flavors in a peated whiskey, but this wasn't my favorite. I might pick up a bottle 
+just to torture my friends with though. 
+### [Sprinkle Donuts](https://www.sugarfina.com/ca/sprinkle-donuts-canada)
+These looked really cute, but I didn't love the taste. It wasn't terrible, just not for me.
+
+
