@@ -1,6 +1,6 @@
 ---
 title: "What Books I'm Reading 2023"
-date:  2023-11-30
+date:  2023-12-13
 draft: false
 tags : [media,books,2023]
 categories : [books]
@@ -229,13 +229,54 @@ and there's not a lot of action, so if your looking for action maybe stay away. 
 two (Blue Mars and Green Mars), but I'll probably hit a few other books first (**MURDERBOT!!!!**)
 
 ## System Collapse (Murderbot Diaries)
-### Martha Wells
+### _Martha Wells_
 What can I say other than **fuck.yes.MURDERBOT!!!** The only bad thing about a new Murderbot book is that you're gonna 
 blow through it super fast and then you have no more Murderbot. Still worth it though!
 
 Murderbot returns and is trying to help some colonists get away from some ancient tech that is turning all their 
 technology into indiscriminate killing machines. That is to say - right were we left off in the last book! Murderbot 
-is trying it's best but is having problems because of **[REDACTED]**[^murderbot]. 
+is trying it's best but is having problems because of **[REDACTED]** [^murderbot]. On top of that, there's still the 
+evil Barish-Estranza corporate goons to avoid and a secret group of colonists that need to be located and assisted. 
+Wells delves even deeper into the themes of trauma in this one and the only complaint I can make is that it wasn't 
+nearly as long as I wanted it to be.
+
+## The Order of Time
+### _Carl Rovelli_
+This one was quite delightful and as an extra cherry on top it's read by Benedict Cumberbatch. Reading this book came out 
+of a discussion with [a friend](https://nathanbweller.com/) who had asked me if I knew of any books on 
+[determinism](https://en.wikipedia.org/wiki/Determinism) a subject which he was becoming interested. Having studied physics 
+I was familiar with the subject but didn't have anything to recommend, however this book seemed like it might have 
+potential. Rovelli doesn't go so far as to declare that time isn't real and the only reason we perceive the "flow" of 
+time is due to the nature of how our brains work and entropy, he does come dangerously close. Very approachable, but 
+might make your head hurt if you're not already familiar with the territory, this book will probably bring up more questions 
+than it answers. Then again, isn't that the nature of science? And at any rate if you get the audiobook you get to listen 
+to Benedict read you the whole thing and that's just delightful.
+
+## Third Eye
+### _Felicia Day_
+This is a delightful [Audible](https://audible.com) exclusive that turns all the tropes on their head. It ask questions like:
+What if the "chosen one" failed and ruined the entire world? What if fairies were dicks? What if you couldn't tell the difference 
+between Sean Astin and Patton Oswalt and spent several days gushing over Oswalt's performance before realizing you're a complete 
+tool? If you're already a fan of Felicia Day you'll almost certainly love this story. Funny, quirky and more than a little 
+irreverent, it's everything I would expect from her. Apparently Day had originally hoped to produce this as a TV show and I'm 
+more than a little hopeful that some day she will get the chance. If you'd like to check it out you 
+can [find _Third Eye_ here](https://amzn.to/3tfBgvk).
+
+## Straight
+### _Chuck Tingle_
+My first foray into the phenomenon that is [Chuck Tingle](https://www.chucktingle.com/). If you're not aware, Mr. Tingle 
+(do I have to tell you that's not his real name?) started out in a very _very_ niche genre of gay erotica that doesn't just 
+border on the absurd, it dives right in. Some of his more entertaining titles include: [The Physical Manifestation Of Wurdle Pounds My Butt As A Slightly Frustrating But Ultimately Rewarding And Meditative Daily Routine](https://amzn.to/48keIbP), [Buttception: A Butt Within A Butt Within A Butt](https://amzn.to/3Re4Jxy) and the [Space Raptor Butt Trilogy](https://amzn.to/48hvXKy). Obviously 
+his earlier work is a little… esoteric, but some of his more serious outings seemed to be, well, more serious. 
+
+Given the title you can probably get that while the ridiculousness might be lacking the queerness is not. In universe the earth starts 
+passing through a mysterious void once a year which causes all the straight folks to turn into vengeful zombies 
+and start attacking members of the LGBTQIA+ community. Our narrator, a bisexual man living in LA, is heading out on the 3rd 
+"Saturation Day" to the [Joshua Tree National Park](https://www.nps.gov/jotr/index.htm) to hide out with his other queer 
+buddies. Most everyone is in a good mood, looking at this more as a vacation than anything else because in the 2 years 
+since the first occurrence of Saturation Day a vaccine has been developed and most everyone has had it. 
+
+You can [find _Straight_ here](https://amzn.to/3Tj0a80)
 
 [^scalzi]: YES ANOTHER ONE I LIKE HIS WORK OKAY??!?!
 [^WWZ]: Even if you like the movie it sucks okay? It's alright on it's own but putting Brad Pitt in this was the worst possible 

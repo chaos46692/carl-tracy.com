@@ -1,7 +1,7 @@
 ---
 title: "Advent Calendar 2023"
 date: 2023-12-11T06:00:00-05:00
-draft: true
+draft: false
 tags : [whiskey,nerd,Christmas]
 categories : [nerd,whiskey,advent calendar]
 chart: true

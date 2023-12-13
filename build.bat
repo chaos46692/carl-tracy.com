@@ -1,2 +1,2 @@
 cd %~dp0
-hugo -D --destination ..\carltracy.com\
+hugo --destination ..\carltracy.com\

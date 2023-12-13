@@ -1,7 +1,7 @@
 ---
 title: "Hénon map"
 date: 2023-11-16T17:39:00-05:00
-draft: true
+draft: false
 tags : [nerd,math,chaos]
 categories : [nerd,math]
 chart: true
