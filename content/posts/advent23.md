@@ -126,4 +126,30 @@ just to torture my friends with though.
 ### [Sprinkle Donuts](https://www.sugarfina.com/ca/sprinkle-donuts-canada)
 These looked really cute, but I didn't love the taste. It wasn't terrible, just not for me.
 
+## Day 12
+### [Sonoma Cherrywood Smoked Rye](https://flaviar.com/products/sonoma-cherrywood-smoked-rye-whiskey-700)
+This was surprisingly good for a rye, lots of vanilla and fruity flavors with less of the [stereotypical rye](https://flaviar.5d3x.net/c/5043138/1891753/3334?prodsku=8530687852826&u=https%3A%2F%2Fflaviar.com%2Fproducts%2Frossville-union-straight-rye-whiskey-750&intsrc=APIG_15277) flavors 
+### [Birthday Cake Cookies](https://www.sugarfina.com/birthday-cake-cookies-small)
+These were pretty tasty and a nice diversion from gummies. They are sugar cookie bites wrapped in white chocolate and 
+they tasted about exactly how you would expect. 
+
+## Day 13
+### [Lochlea Our Barley Single Malt](https://flaviar.com/products/lochlea-our-barley-single-malt-scotch-whisky-700)
+This was delightful. Very sweet and definitely could pick out the pear flavors. One of the reviews stated that 
+"it doesn't have much to say" which I tend to agree with, this isn't going to grab you by the shoulders and shake you real hard. 
+The flavors are more subtle than a lot of single malts. I liked this one and Barb _really_ liked this one.
+### [Candy Cane Caramels](https://www.sugarfina.com/sugarfina-holiday-2023-candy-cane-chocolate-caramels)
+I love caramel and these did not disappoint, they were _fantastic_! 
+
+## Day 14
+### [Yellowstone American Single Malt](https://flaviar.5d3x.net/c/5043138/1891753/3334?prodsku=8530934595866&u=https%3A%2F%2Fflaviar.com%2Fproducts%2Fyellowstone-american-single-malt-whiskey-750&intsrc=APIG_15277)
+Another malt! Less pear than yesterday, but still there. More fruity and sweet. I didn't realize that 
+[Yellowstone](https://flaviar.5d3x.net/c/5043138/1891753/3334?prodsku=8530611699994&u=https%3A%2F%2Fflaviar.com%2Fproducts%2Fyellowstone-select-kentucky-straight-bourbon-whiskey-750&intsrc=APIG_15277) was 
+[MGP](https://www.mgpingredients.com/)'s in-house brand or I would have tried it earlier. Barb liked this one as well, so it's an all 
+around winner.
+### [Peach Bums](https://www.sugarfina.com/peach-bum-sugarfina-gummy)
+No idea why these are called "bums" but these are fantastic! Apparently they are made with real peach puree and it 
+shows in both the smell and taste. The texture isn't chewy at all, just the right resistance as you bight through. 
+We really loved these, enough to want to get some more
+
 

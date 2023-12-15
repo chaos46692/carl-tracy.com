@@ -2,6 +2,7 @@
 {{ if $featured_image }}
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   {{ $featured_image := (trim $featured_image "/") | absURL }}
+  
   <header class="cover bg-top" style="background-image: url('{{ $featured_image }}');">
     <div class="{{ .Site.Params.cover_dimming_class | default "bg-black-60" }}">
       {{ partial "site-navigation.html" .}}
@@ -33,4 +34,19 @@
       </div>
     </div>
   </header>
+
+
+
 {{ end }}
+<!--
+<div style="position:fixed;top:0;left:0; padding:1em">
+  <a href="{{ .Site.Home.RelPermalink }}" class="" >
+    {{ with .Site.Params.site_logo }}
+      <img src="{{ . }}" class="w100 mw5-ns" alt="{{ $.Site.Title }}" />
+    {{ else }}
+      {{ .Site.Title }}
+    {{ end }}
+  </a>  
+</div>
+
+-->

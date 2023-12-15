@@ -1,6 +1,6 @@
 ---
 title: "What Books I'm Reading 2023"
-date:  2023-12-13
+date:  2023-12-14
 draft: false
 tags : [media,books,2023]
 categories : [books]
@@ -274,8 +274,15 @@ passing through a mysterious void once a year which causes all the straight folk
 and start attacking members of the LGBTQIA+ community. Our narrator, a bisexual man living in LA, is heading out on the 3rd 
 "Saturation Day" to the [Joshua Tree National Park](https://www.nps.gov/jotr/index.htm) to hide out with his other queer 
 buddies. Most everyone is in a good mood, looking at this more as a vacation than anything else because in the 2 years 
-since the first occurrence of Saturation Day a vaccine has been developed and most everyone has had it. 
+since the first occurrence of Saturation Day a vaccine has been developed and most everyone has had it. Of course it doesn't work 
+out that way and it all turns into a disaster when they run into folks who either haven't gotten the vaccine or for whom the 
+vaccine didn't work. Now our heros must make their way back to Palm Springs where the gay militia has built a fortress and 
+ride out the rest of Saturation Day. 
 
+Mr. Tingle does a great job of interweaving queer politics into a horror story. From the frustration of not being "queer enough" 
+as a bisexual man to the frustration with allies who only show up when it's easy to the straight up assholes who would rather 
+see queer folks dead than put even a minimal amount of effort. Chuck don't give a fuck and he's not pulling his punches. I really 
+liked this book and it's made me quite excited to read [Camp Damascus](https://amzn.to/41oHWns). 
 You can [find _Straight_ here](https://amzn.to/3Tj0a80)
 
 [^scalzi]: YES ANOTHER ONE I LIKE HIS WORK OKAY??!?!
