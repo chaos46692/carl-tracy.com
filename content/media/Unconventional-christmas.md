@@ -1,7 +1,7 @@
 ---
 title: "Unconventional Christmas Movies"
 description: "Movies "
-date:  2023-12-04
+date:  2023-12-16
 draft: false
 tags : [media,movies,2023]
 categories : [movies]
@@ -87,6 +87,11 @@ rampaging murderer. Now she must stop him again to get back to her family. This 
 "It's a Wonderful Life", with one of the other characters even commenting she wasn't sure which of them was Clarence and which 
 was George Bailey. I loved Justin Long as the bad guy and you can never go wrong with Joel McHale as Winnie's dad.
 
+## [Christmas Bloody Christmas](https://amzn.to/3Rs810h)
+### 5/10 ★
+This one wasn't unwatchable, but I didn't love it. A robotic Santa comes to life and begins a murderous spree. It's fun for what it 
+is - a slasher B movie that just happens to have (an unstoppable [Terminator](https://amzn.to/3GLBnlv)) Santa as the bad guy. Ultimately, 
+the best indicator is that completely forgot to write this review until a few weeks after we'd watched it. 
 
 
 

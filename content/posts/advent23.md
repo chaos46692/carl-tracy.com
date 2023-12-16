@@ -1,6 +1,6 @@
 ---
 title: "Advent Calendar 2023"
-date: 2023-12-11T06:00:00-05:00
+date: 2023-12-16T10:00:00-05:00
 draft: false
 tags : [whiskey,nerd,Christmas]
 categories : [nerd,whiskey,advent calendar]
@@ -152,4 +152,11 @@ No idea why these are called "bums" but these are fantastic! Apparently they are
 shows in both the smell and taste. The texture isn't chewy at all, just the right resistance as you bight through. 
 We really loved these, enough to want to get some more
 
+## Day 15
+### [Bushmills 12 Year Single Malt](https://flaviar.5d3x.net/c/5043138/1891753/3334?prodsku=8530850021658&u=https%3A%2F%2Fflaviar.com%2Fproducts%2Fbushmills-12-year-old-single-malt-irish-whiskey-750&intsrc=APIG_15277)
+Another day, another single malt that Barb likes. I can't complain. This isn't the most complex but it was very smooth with lots of 
+sweet flavors.
+### [Peach Hearts](https://www.sugarfina.com/peach-bellini)
+Sugarfina apparently loves them some peach. We definitely cannot complain because we love peach and these were pretty great yet 
+again. Very peachy this time with a slightly harder chew to them than yesterday's Peach Bums
 
