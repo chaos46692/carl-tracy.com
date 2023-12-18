@@ -1,6 +1,6 @@
 ---
 title: "Advent Calendar 2023"
-date: 2023-12-16T10:00:00-05:00
+date: 2023-12-17T20:00:00-05:00
 draft: false
 tags : [whiskey,nerd,Christmas]
 categories : [nerd,whiskey,advent calendar]
@@ -160,3 +160,17 @@ sweet flavors.
 Sugarfina apparently loves them some peach. We definitely cannot complain because we love peach and these were pretty great yet 
 again. Very peachy this time with a slightly harder chew to them than yesterday's Peach Bums
 
+## Day 16
+### [Ichiro Malt and Grain](https://flaviar.com/products/ichiros-malt-grain-whisky-750?_pos=1&_sid=193521318&_ss=r)
+Japanese whiskey can be a [little sketchy](https://www.forbes.com/sites/joemicallef/2021/09/11/understanding-japanese-whisky-why-it-isnt-always-what-it-seems/?sh=279b1f4b310f) 
+a lot of it is quite nice and often is very similar in flavor to a Speyside malt and this isn't any different. Not nearly as 
+malty as you would expect but very fruity and sweet. Of course you know what's coming - Barb liked this one (and I do too).
+### [Island Pineapples](https://www.sugarfina.com/island-pineapples)
+These were a very nice change of pace from all that peach! Lovely vegan pineapple gummies.
+
+## Day 17
+### [Copper Fox Rye](https://flaviar.5d3x.net/c/5043138/1891753/3334?prodsku=8530811060506&u=https%3A%2F%2Fflaviar.com%2Fproducts%2Fcopper-fox-rye-1-750&intsrc=APIG_15277)
+Pretty standard rye. Not sure I would seek it out with all the fantastic ryes out there, but it was fun to try. Barb was indifferent because she has 
+a head cold and couldn't taste anything.
+### [Banana Gummies](https://www.sugarfina.com/cabana-banana-gummy-sugarfina)
+These were adorable banana shaped gummies with a fantastic banana flavor.
