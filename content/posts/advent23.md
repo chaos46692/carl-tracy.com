@@ -1,6 +1,6 @@
 ---
 title: "Advent Calendar 2023"
-date: 2023-12-17T20:00:00-05:00
+date: 2023-12-20T20:00:00-05:00
 draft: false
 tags : [whiskey,nerd,Christmas]
 categories : [nerd,whiskey,advent calendar]
@@ -174,3 +174,21 @@ Pretty standard rye. Not sure I would seek it out with all the fantastic ryes ou
 a head cold and couldn't taste anything.
 ### [Banana Gummies](https://www.sugarfina.com/cabana-banana-gummy-sugarfina)
 These were adorable banana shaped gummies with a fantastic banana flavor.
+
+## Day 18
+### [Naked Malt](https://flaviar.5d3x.net/c/5043138/1891753/3334?prodsku=8586352886042&u=https%3A%2F%2Fflaviar.com%2Fproducts%2Fnaked-malt-blended-malt-scotch-whisky-750&intsrc=PUI2_15277)
+This was delightful surprise. The tasting notes list smoky but this is probably the smoothest "smoky" Scotch I've ever had. Even Barb liked this one. 
+Not sure that I would go out of my way to get this, but if it was available locally it would be a great every day drinker at $40.
+### [Apple Frogs](https://www.sugarfina.com/apple-frogs)
+These were pretty adorable gummies with a great apple flavor in a cute little frog shape.
+
+## Day 18
+### [Journeyman Fetherbond Cask Strength Bourbon](https://flaviar.5d3x.net/c/5043138/1891753/3334?prodsku=8530956222746&u=https%3A%2F%2Fflaviar.com%2Fproducts%2Fjourneyman-featherbone-cask-strength-bourbon-whiskey-750&intsrc=PUI2_15277)
+I'll be the first to admit that my taste in whiskey is not totally rock solid. This is a pretty solid bourbon that does everything a bourbon should. 
+Even Barb loved it!
+### [Santa's Trees](https://www.sugarfina.com/ca/sugarfina-holiday-santas-trees-gummy-candy-cube)
+Another day, another gummy. These are red (raspberry) and green (apple) flavored Christmas trees. They were good, but we're getting a little tired 
+of gummies and wish there was more variety.
+
+
+
