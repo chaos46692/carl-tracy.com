@@ -196,10 +196,13 @@ This was a nice, solid rye. Even Barb liked it, which is somewhat unusual for a 
 ### [Rainbow Bears](https://www.sugarfina.com/rainbow-bears)
 Another day, more gummies. The yellow ones were very intense. Not much else to say about them. Definitely burning out on gummies.
 
-
 ## Day 21
-### []()
-### []()
+### [Limavady Single Barrel Irish](https://flaviar.com/products/limavady-single-malt-irish-whiskey-750?_pos=1&_sid=4d4819bc5&_ss=r)
+Definitely not what I would think of as a typical Irish whiskey, which means I liked it. Nothing extraordinary but decent. 
+Barb wasn't a fan, but we couldn't put our finger on what it was that she didn't like.
+### [Baby Whales](https://www.sugarfina.com/baby-whales)
+These were super cute but made me feel weird. Who would eat a baby whale? That's just horrible!
+
 
 
 
