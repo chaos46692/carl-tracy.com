@@ -182,13 +182,24 @@ Not sure that I would go out of my way to get this, but if it was available loca
 ### [Apple Frogs](https://www.sugarfina.com/apple-frogs)
 These were pretty adorable gummies with a great apple flavor in a cute little frog shape.
 
-## Day 18
+## Day 19
 ### [Journeyman Fetherbond Cask Strength Bourbon](https://flaviar.5d3x.net/c/5043138/1891753/3334?prodsku=8530956222746&u=https%3A%2F%2Fflaviar.com%2Fproducts%2Fjourneyman-featherbone-cask-strength-bourbon-whiskey-750&intsrc=PUI2_15277)
 I'll be the first to admit that my taste in whiskey is not totally rock solid. This is a pretty solid bourbon that does everything a bourbon should. 
 Even Barb loved it!
 ### [Santa's Trees](https://www.sugarfina.com/ca/sugarfina-holiday-santas-trees-gummy-candy-cube)
 Another day, another gummy. These are red (raspberry) and green (apple) flavored Christmas trees. They were good, but we're getting a little tired 
 of gummies and wish there was more variety.
+
+## Day 20
+### [Minor Case Rye](https://flaviar.com/products/minor-case-rye-750)
+This was a nice, solid rye. Even Barb liked it, which is somewhat unusual for a rye.
+### [Rainbow Bears](https://www.sugarfina.com/rainbow-bears)
+Another day, more gummies. The yellow ones were very intense. Not much else to say about them. Definitely burning out on gummies.
+
+
+## Day 21
+### []()
+### []()
 
 
 
