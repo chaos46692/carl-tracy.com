@@ -1,6 +1,6 @@
 ---
 title: "Advent Calendar 2023"
-date: 2023-12-20T20:00:00-05:00
+date: 2024-01-19T16:00:00-05:00
 draft: false
 tags : [whiskey,nerd,Christmas]
 categories : [nerd,whiskey,advent calendar]
@@ -203,6 +203,22 @@ Barb wasn't a fan, but we couldn't put our finger on what it was that she didn't
 ### [Baby Whales](https://www.sugarfina.com/baby-whales)
 These were super cute but made me feel weird. Who would eat a baby whale? That's just horrible!
 
+## Day 22
+### [High Wire Distilling Jimmy Red Straight Bourbon](https://flaviar.5d3x.net/c/5043138/1891753/3334?prodsku=8530955993370&u=https%3A%2F%2Fflaviar.com%2Fproducts%2Fjimmy-red-straight-bourbon-whiskey-750&intsrc=PUI2_15277)
+This was alright, but there are definitely better bourbons out there IMO
+### [Heavenly Sours](https://www.sugarfina.com/heavenly-sours)
+More gummies. Didn't make a huge impression
 
+## Day 23
+### [Pōkeno Whisky Origin]()
+I rather liked this one, but I don't remember Barb being a big fan
+
+I also forgot to save what the candy was, so all the people who don't read this blog will be horribly disappointed with met =P
+
+## Day 24
+### Deer, Bear & Moose Highland 2007
+We both liked this one quite a bit. Barb seems to like Highland single malts, so it wasn't surprising that she liked this
+### [Milk Chocolate Donuts](https://www.belleandblush.com/products/sugarfina-vampire-donuts-milk-chocolate-candy-cube)
+I couldn't find a link for the exact ones so you get vampire donuts lol. These were pretty good and a nice change for all the goddamn gummies
 
 
