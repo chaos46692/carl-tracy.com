@@ -91,4 +91,4 @@ W & = { N \\left[P_o r D_N \\right] - P_0 \over r P_0 } \\\\[10pt]
 \end{align}
 $$
 
-[^1]: This is left as an exercise to the reader
+[^1]: This is left as an exercise to the reader _or_ if you really want you can read my writeup [here]({{< ref "wal-formula.md" >}})

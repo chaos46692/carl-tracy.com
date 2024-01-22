@@ -35,7 +35,7 @@ In usual fashion I slapped the [2023 reading list]({{<ref books-23>}}) together 
 
 ## Brute Force
 ### _Scott Meyer_
-This was a pretty entertaining stand alone book by [Scott Meyer](https://scottmeyer.rocks/) and the first one outside the [Magic 2.0(https://amzn.to/48ZNCH9)][^magic20] 
+This was a pretty entertaining stand alone book by [Scott Meyer](https://scottmeyer.rocks/) and the first one outside the [Magic 2.0](https://amzn.to/48ZNCH9)[^magic20] 
 universe.  A peaceful alliance of aliens has a problem - they've been overtaken by a violent species and need help from humans. Humans aren't doing so well, as they've 
 managed to bomb themselves into near oblivion (which they refer to as "the bad week"), but they are the most violent species that they know, so they figure we can help them 
 fix their civilization. Our hero Cross Agarwal leads a band of post-apocalyptic raiders who less than a week ago were trying to kill each other to save the aliens from this 
