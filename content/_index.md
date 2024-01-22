@@ -1,10 +1,12 @@
 ---
 title: "Carl Tracy's Website"
 featured_image: '/images/bumpy1200.webp'
-description: "I finally got around to building a new website where I can ramble into the void about whatever I want, come join me!"
+description: "Yes I have two first names, thanks for noticing"
 ---
 # Howdy! 
-As you can probably tell - my name is Carl Tracy. This is my website, there are many like it, but this one is mine. 
+As you can probably tell - my name is Carl Tracy. I'm a nerd who likes to do nerd shit and as such I finally got around to building a new website where I can ramble into the void about whatever I want, come join me!
+
+This is my website, there are many like it, but this one is mine. 
 I've had a website of one kind or another for just about as long as 
 websites were a thing. However, for a while there it wasn't anything more than a terrible static page with not much on it. I finally decided to build something 
 right around the time the dude who had been [sitting on this domain gave up]({{<ref "posts/history.md" >}}#carltracy) and I managed to get it for myself. 

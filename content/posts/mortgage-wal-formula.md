@@ -21,7 +21,7 @@ D_n &= {1 \over 1-d^n}
 $$ 
 
 That formula is pretty convenient because it means given a rate and a WAL we can solve pretty easily for how long the loan has to be in order to have a particular WAL without doing a bunch of infinite sums. So where does that fomula come from? Originally I found it [here](https://welltemperedspreadsheet.wordpress.com/2011/07/14/fast-formulas-1-average-life-of-mortgage-as-scheduled/), but I wanted to see if I could derive it.
-
+<!--more--> 
 ## Definitions
 Let's start with defining a few things:
 

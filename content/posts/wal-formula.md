@@ -23,7 +23,7 @@ In [a previous blog post]({{< ref "mortgage-wal-formula.md" >}} ) I had presente
 $$
 WAL = {\sum{Par_n} \over Par_0} \\\\
 $$
-without any context, other than to leave it to the reader to prove. I first encountered this formula in a [Milliman](https://integrate.milliman.com/en/) 
+without any context, other than to leave it to the reader to prove. <!--more--> I first encountered this formula in a [Milliman](https://integrate.milliman.com/en/) 
 MG-ALFA model, and it took me a bit to understand how it works. Computationally it is much, _much_ easier to calculate than the traditional way and that 
 sometimes makes it easier to use when calculating closed form solutions to things. I certainly hadn't seen it before (or at least had completely forgotten 
 that I had) and I think that's mostly because while it's computationally convenient, it doesn't give folks much of a feel for what the weighted average life 
