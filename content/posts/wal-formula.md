@@ -38,7 +38,7 @@ WAL \cdot Par_0 =& \sum_{n=1}^{N}{n \cdot Prin_n} \\\\[7pt]
     =& Prin_1 + 2 Prin_2 + 3 Prin_3 + \ldots \\\\[7pt]
 \end{aligned}
 $$
-rearranging the terms and recognizing that $\sum_{i=n}^N{Prin_n}$ is just the principal remaining at the beginning of time i, which is $Par_i$:
+rearranging the terms and recognizing that $\sum_{i=n}^N{Prin_i}$ is just the principal remaining at the beginning of time i, which is $Par_i$:
 $$
 \begin{aligned}
 WAL= & Prin_1 &+ Prin_2&+ Prin_3 &+ Prin_4 & + \ldots & + Prin_N  & \qquad \left( = Par_0 \right) \\\\[7pt]
