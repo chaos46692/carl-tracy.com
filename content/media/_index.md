@@ -52,7 +52,29 @@ book he sure as shit did better than I could have. I'm very much looking forward
 [You can find Camp Damascus here](https://amzn.to/3vRPEuw)
 
 
+## A Desolation Call Peace
+### _Arkady Martine_
+Once again we join Mahit Dzmare and Three Seagrass as they attempt to communicate with strange alines that seem bend on destroying everything they come across. If they 
+succeed they could save the Teixcalaan Empire from destruction and allow it's continued expansion. If they fail it could mean an endless war. The story jumps between 
+Mahit and Three Seagrass, Yaotlek Nine Hibiscus - a fleet captain who has been charged with preventing this newly discovered species from interrupting the empire 
+and her right hand Twenty Cicada, and Eight Antidote - the soon-to-be Emperor who is learning about how the empire functions and who he will eventually become as 
+Emperor of Teixcalaan.
 
+I liked this book quite a bit. I'm a bit sad that this will be the last of the duology, but I'm looking forward to more Teixcalaan books!
+[You can find A Desolation Called Peace here](https://amzn.to/49uo3hI)
+
+## The Colour of Magic
+### Terry Pratchett
+I'm a little late to the [Discworld series](https://en.wikipedia.org/wiki/Discworld), but I'm glad I finally got around to reading one of his books. 
+I love a little bit of comedy mixed in with my fantasy and _The Colour of Magic_ certainly doesn't disappoint. The book is set in another universe where 
+the world is a disc sitting atop four giant elephants, who in turn are on the back of a giant spacefaring turtle. We follow the story of Rincewind, 
+an incompetent (and yet _very_ hard to kill) flunky wizard, as he attempts to guide the continent's first tourist. The duo, accompanied by Twoflower's 
+luggage which is made of magical sentient wood that will follow Twoflower anywhere he goes, proceed to get themselves into all the trouble there is to 
+get into. They explore magical caverns and enchanted trees, an upside down mountain filled with magic, and eventually making it to the edge of the world. 
+
+_The Colour of Magic_ did a lot of world building which I found a little slow at the beginning, but by the end I found the characters and story to be quite enjoyable. 
+Perhaps not as much as some of the other series I've been reading, but on the other hand the Discworld has 41 novels to explore, so there is hope that it 
+will get much, much better. I can't wait!
 
 [^magic20]: _There is nothing to say that it doesn't fit into the Magic 2.0 universe and I'm sure at some point he could retcon it in if he wanted to_
 

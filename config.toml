@@ -68,3 +68,4 @@ googleAnalytics = "UA-5215367-2"
 [markup.goldmark.parser.attribute]
 block = true
 title = true
+
