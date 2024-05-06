@@ -64,7 +64,7 @@ I liked this book quite a bit. I'm a bit sad that this will be the last of the d
 [You can find A Desolation Called Peace here](https://amzn.to/49uo3hI)
 
 ## The Colour of Magic
-### Terry Pratchett
+### _Terry Pratchett_
 I'm a little late to the [Discworld series](https://en.wikipedia.org/wiki/Discworld), but I'm glad I finally got around to reading one of his books. 
 I love a little bit of comedy mixed in with my fantasy and _The Colour of Magic_ certainly doesn't disappoint. The book is set in another universe where 
 the world is a disc sitting atop four giant elephants, who in turn are on the back of a giant spacefaring turtle. We follow the story of Rincewind, 
@@ -75,6 +75,88 @@ get into. They explore magical caverns and enchanted trees, an upside down mount
 _The Colour of Magic_ did a lot of world building which I found a little slow at the beginning, but by the end I found the characters and story to be quite enjoyable. 
 Perhaps not as much as some of the other series I've been reading, but on the other hand the Discworld has 41 novels to explore, so there is hope that it 
 will get much, much better. I can't wait!
+[You can find The Colour of Magic here](https://amzn.to/3QuHEra)
+
+## A Country of Ghosts
+### _Margaret Killjoy_
+This one was recommended by [Elle](https://bsky.app/profile/ellearmageddon.bsky.social) and it read pretty much as I would have expected from them lol. 
+A Country of Ghosts follows a Borolian journalist who travels to a far away land as a war correspondent and gets involved with the local anarchists as they 
+attempt to push back the invading Borolian forces. The book is basically half novel, half anarchism 101.
+
+[You can find A Country of Ghosts here](https://amzn.to/4biVwwI)
+
+## The Dark Tower I: The Gunslinger
+### _Stephen King_
+This one goes along with Pratchett's Discworld in that I really wanted a series that I knew would be good and would last me a while. Stephen King doesn't 
+disappoint and this was quite the listen. The book (and I'm assuming series, although I'm not through it yet) follows Roland Deschain, the last gunslinger, 
+searching for a mysterious man in black. We soon discover that Roland doesn't live in our universe, but there does seem to be some connection — Jake, a 
+young boy that Rolland discovers in a way station, died in our world (under dubious circumstances) and was transported to Roland's world. They travel 
+through the wasteland fighting demons and succubi, search for oracles and the man in black, all while trying to find the mysterious dark tower. Roland eventually 
+catches the man in black, who tells him about "the three" - thee people he will encounter on his way to the Dark Tower. The Prisoner, The Lady of Shadows, and The Pusher.  
+The book ends with Roland defeating the man in black, but at a great cost. 
+
+[You can find The Gunslinger here](https://amzn.to/3yg4r3o)
+
+## The Dark Tower II: The Drawing of the Three
+### _Stephen King_
+The first book was so good and ended on a "where the hell is he going from here?" note that I had to immediately dive into the second novel. This one got 
+super weird but also very fun. Not long after the previous novel Roland wakes up on a beach being attacked by some large, nasty crustaceans. The attack leaves 
+him injured and weakened, but he soldiers on to find the three and eventually finds a door that appears to go to nowhere. However, when opened Roland realizes 
+that he can see through someone else's eyes. When he goes through the door he inhabits the body of Eddie Dean, a young heroin addict in 1987 in the process of smuggling 
+drugs into New York for a mob boss. Of course everything goes sideways and Roland helps Eddie get out of the situation and eventually escape to Roland's world.
+
+Eventually Roland and Eddie find the next door where we meet Odetta Holmes, a black woman with 
+[dissociative identity disorder](https://en.wikipedia.org/wiki/Dissociative_identity_disorder). Odetta lost her legs when someone pushed her in front of a 
+subway train years ago. She is completely unaware of her alternate personality - Detta Walker - who is as violent and nasty as Odetta is kind and gentle. 
+Odetta gets pulled into Roland's world as well and proceeds to wreak havoc on Roland and Eddie. Roland is becoming increasingly more sick from his injuries on 
+the beach. Eddie goes ahead with Odetta to find the last door, and when he finds it he leaves Odetta there and brings back her wheelchair to bring Roland 
+to the final door.
+
+Given the pattern, we're sort of expecting a final companion, but what we get is Jack Mort - a sociopath who takes pleasure in injuring and killing strangers. 
+We soon realize that Mort's story is interwoven with the others. Randall takes over Jack's body to procure some wares that are needed (such as medicine for his 
+infection). Through the process Odetta and Detta are forced to confront the trauma that caused the split and they merge into a third, personality - Susannah Dean. 
+
+The group leave the beach in search of the tower. At the end both Eddie and Susannah have been saved by Roland, who is aware that he very likely may have to sacrifice them at some point to reach the Tower.
+
+[You can find The Drawing of the Three here](https://amzn.to/3yg3JDi)
+
+
+## The Light Fantastic
+### _Terry Pratchett_
+Back to Discworld! We pick up shortly after the ending of _The Colour of Magic_ as Rincewind and Twoflower are rescued by the Octavo from falling over the edge of the 
+world. The actions of the Octavo cause quite a disturbance, which leads some wizards to summon Death to try to get an explanation of what happened. Death explains 
+that the Discworld will soon be destroyed by a red star unless the eight spells of the Octavo are read. 
+
+Rincewind and Twoflower go on a bunch of bumbling adventures, meeting Druids who are building a computer and Death's adopted daughter who wants to keep her new 
+friends (by killing them of course!). They meet up with one of the greatest warriors in the land, who is old and toothless but incredibly fierce. As the world 
+gets closer to the red star people star getting a little crazy and attacking anyone associated with magic. Eventually the 8 spells are all said and this causes 
+eight moons of the red star to crack open, giving birth to eight infant worlds (turtles). The Luggage is given to Rincewind as a gift (after eating the Octavo) 
+and Twoflower decides that it is time to return home. He gives the Luggage to Rincewind as a parting gift and Rincewind decides to enroll in University, 
+supposing now that the spell is out of his mind he may finally be able to learn magic. 
+
+[You can find The Light Fantastic here](https://amzn.to/44xf6D5)
+
+## The Saint of Bright Doors
+### _Vajra Chandrasekera_
+I had read quite a few of the [2024 Hugo nominees for Best Novel](https://www.thehugoawards.org/hugo-history/2024-hugo-awards/) so I decided to read the rest. This 
+was the first of the 3 I hadn't already read. I was quite imaginative and enjoyable. Fetter is raised from a young age by his mother to kill his father. Except he doesn't 
+really want to, so he moves to the city and tries to live his life. He joins a support group for other cult members that were almost the ones to take over, but not quite. 
+The setting is very unusual in that it combines mystic and magical themes in a modern setting. The book feels like it's wandering at times, but somehow is always moving 
+along, even if we don't know where it's going. The story is incredibly original a quite fun to read, I liked it quite a bit. 
+
+[You can find The Saint of Bright Doors here](https://amzn.to/3QBeNkN)
+
+## The Adventures of Amina al-Sirafi 
+### Shannon Chakraborty
+This is the second of the Hugo nominees that I hadn't read, and I'm quite glad I did! 
+This was a delightful tale of Amina al-Sirafi, a pirate on the Indian Ocean who is tracked down in her retirement by a wealthy widow who want's her help 
+in getting her kidnapped granddaughter back from a very bad man. As we go along we realize no everything is as it was presented and taking the job has put 
+Amina in a very bad place. She reunites with her old crew and they discover that the very bad man is a very bad sorcerer who controls tremendous magic, 
+much to Amina's chagrin because she really, _really_ is not fond of magic. As the book progresses she finds it harder and harder to complete her task while 
+keeping everyone safe. This was a fantastically fun read and I very much hope that there are more to come!
+
+
+[You can find The Adventures of Amina al-Sirafi here](https://amzn.to/3UryQU5)
 
 [^magic20]: _There is nothing to say that it doesn't fit into the Magic 2.0 universe and I'm sure at some point he could retcon it in if he wanted to_
 
