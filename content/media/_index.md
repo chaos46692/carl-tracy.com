@@ -155,8 +155,36 @@ Amina in a very bad place. She reunites with her old crew and they discover that
 much to Amina's chagrin because she really, _really_ is not fond of magic. As the book progresses she finds it harder and harder to complete her task while 
 keeping everyone safe. This was a fantastically fun read and I very much hope that there are more to come!
 
-
 [You can find The Adventures of Amina al-Sirafi here](https://amzn.to/3UryQU5)
+
+
+## Witch King
+### Martha Wells
+If you've read the reviews up until now you're well aware that I am _obsessed_ with Wells' series
+[The Murderbot Diaries](https://amzn.to/3K2sFRF). Wells was a very accomplished author in the fantasy space before 
+[All Systems Red](https://en.wikipedia.org/wiki/All_Systems_Red) came out, but I wasn't sure what to expect from this. Some of the 
+reviews I read said that it was hard to follow. The scope of _Witch King_ is certainly much, much more expansive than any given 
+Murderbot book, but I didn't find it overly hard to follow. 
+
+The story is set in a magical world of witches, magicians (called expositors), demons, mortal and immortal beings. The demons are beings who dwell in the 
+underearth, but can be summoned to posses the bodies of the recently deceased. Among the nomadic tribes who practice this the 
+demons become part of the deceased's extended family. They have magical powers and children born out of the unions between demons 
+and mortals become witches, who also posses magical powers, usually in the ability to control certain elemental forces. 
+
+The story follows Kai-Enna (Kai), a demon who lives among the nomadic plain tribes and inhabits the body of a young girl who's family 
+wished to know what her final thoughts were, since when a demon inhabits the recently deceased they take on their knowledge. The story 
+jumps between the present and the past as Kai retraces the path that lead him from a peaceful nomadic life to overthrowing 
+the Hierarchs, the big bad(dies) who aim to overthrow the world, and the present where he seeks to maintain the peaceful coalition 
+he helped to build. 
+
+The story is a fairly straight forward good vs evil deal, which I found quite entertaining. Many reviewers point out that it has a decidedly [90s sci-fi feel](https://www.nytimes.com/2023/12/04/books/review/best-science-fiction-fantasy-2023.html), although 
+I can't claim to have read enough sci-fi (yet) to agree or disagree with that. Lovers of Murderbot will find a lot to like in Kai, 
+who is the [introvirtuous](https://www.urbandictionary.com/define.php?term=introvirtuous) hero who reluctantly steps up to save the 
+day, even if he'd rather just stay at home and chill. It didn't take long at all for me to get completely immersed in _Witch King_ 
+and I was definitely sad when it was finished.
+
+[You can find Witch King here](https://amzn.to/3QJ4L0X)
+
 
 [^magic20]: _There is nothing to say that it doesn't fit into the Magic 2.0 universe and I'm sure at some point he could retcon it in if he wanted to_
 

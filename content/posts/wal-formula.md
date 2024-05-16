@@ -46,7 +46,7 @@ WAL= & Prin_1 &+ Prin_2&+ Prin_3 &+ Prin_4 & + \ldots & + Prin_N  & \qquad \left
     &  &  & + Prin_3 &+ Prin_4 & + \ldots & + Prin_N & \qquad \left( = Par_2 \right) \\\\[7pt]
     &  &  &   &+ Prin_4 & + \ldots & + Prin_N & \qquad \left( = Par_3 \right) \\\\[7pt]
     & \ldots \\\\
-    &  &  &   &  &   & + Prin_N & \qquad \left( = Par_N \right) \\\\[7pt]
+    &  &  &   &  &   & + Prin_N & \qquad \left( = Par_{N-1} \right) \\\\[7pt]
 \end{aligned}
 $$
 
@@ -54,7 +54,7 @@ Leaving us with our final formula:
 
 $$
 \begin{aligned}
-WAL \cdot Par_0 &=& \sum_{N=1}^{N}{Par_n} \\\\[7pt]
+WAL \cdot Par_0 &=& \sum_{n=1}^{N}{Par_n} \\\\[7pt]
 WAL &=& {  \sum_{n=0}^{N}{Par_n} \over  Par_0  } 
 \end{aligned}
 $$
