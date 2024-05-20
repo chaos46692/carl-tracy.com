@@ -51,10 +51,10 @@ src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js">
 <form>
     <!-- <button  type="button" onclick="javascript:runProj();">Run</button > <br/> -->
     <label>a=</label>
-    <input type="range" min="1" max="100" value="70" class="slider" id="henonA" onchange="setA(this.value)" style="width:18em">
+    <input type="range" min="1" max="1000" value="70" class="slider" id="henonA" onchange="setA(this.value)" style="width:18em">
     <input type="text" id="lbla" value="1.4" onchange="setA2(this.value)"></input>
     <br/>
-    <label>b=</label><input type="range" min="1" max="100" value="30" class="slider" id="henonB" onchange="setB(this.value)"  style="width:18em">
+    <label>b=</label><input type="range" min="1" max="1000" value="30" class="slider" id="henonB" onchange="setB(this.value)"  style="width:18em">
     <input type="text" id="lblb" value="0.3" onchange="setB2(this.value)"></input><br/>
 </form>
 
@@ -65,8 +65,8 @@ src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js">
 <script>
     var a = 1.4;
     var b = 0.3; 
-    const aMult = 0.02;
-    const bMult = 0.005;
+    const aMult = 0.002; 
+    const bMult = 0.0005;
     var thechart = 0;
 
     function setValues(a1,b1) {
@@ -145,6 +145,8 @@ src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js">
     function runProj() {
         //alert("CLEAR!");
         var chrt  = document.getElementById("plot").getContext("2d");
+        //chrt.options.animation = false; 
+        //chart.options.animation = false;
         //var data = [{x:1,y:2},{x:10,y:-2},{x:5,y:3}];
         var mapdat = projectHenon(a,b);
         //console.log(mapdat);
@@ -160,6 +162,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js">
             type: 'scatter',
             data: data,
             options: {
+                animation : false,
                 tooltips: {enabled: false},
                 hover: {mode: null},
                 responsive: true,
@@ -206,4 +209,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js">
 
 
 {{< /rawhtml >}}
+
+### Note 1
+A minor update was made to this page on May 20, 2024 to remove animations from the plot and make the sliding controls more fine.
 
