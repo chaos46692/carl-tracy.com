@@ -41,7 +41,7 @@ managed to bomb themselves into near oblivion (which they refer to as "the bad w
 fix their civilization. Our hero Cross Agarwal leads a band of post-apocalyptic raiders who less than a week ago were trying to kill each other to save the aliens from this 
 other species. In standard Scott Meyer form we get some great characters such as the cannibal _Meat Machine_ and _The Pile_ - sentient, quantum entangled sand that is aware 
 of everything that happens anywhere one of it's piles happens to be. I liked this book quite a bit and am very much looking forward to Meyer's new books.
-[You can find Brute Force here](https://amzn.to/3S8w7O0)
+[You can purchase Brute Force here](https://amzn.to/3S8w7O0)
 
 ## Camp Damascus
 ### _Chuck Tingle_
@@ -49,7 +49,7 @@ I loved my first Chuck Tingle book and this one again did not disappoint. Rose i
 best gay conversion camp in the world (100% success rate!). Not everything is as it seems, and we follow Rose as she begins to question the motivations of her family 
 and church before discovering the horrific truth about it all. There were some sections where I feel like the book dragged, but given this is Chuck's first 
 book he sure as shit did better than I could have. I'm very much looking forward to his [next book](https://amzn.to/3vJk0j2).
-[You can find Camp Damascus here](https://amzn.to/3vRPEuw)
+[You can v Camp Damascus here](https://amzn.to/3vRPEuw)
 
 
 ## A Desolation Call Peace
@@ -61,7 +61,7 @@ and her right hand Twenty Cicada, and Eight Antidote - the soon-to-be Emperor wh
 Emperor of Teixcalaan.
 
 I liked this book quite a bit. I'm a bit sad that this will be the last of the duology, but I'm looking forward to more Teixcalaan books!
-[You can find A Desolation Called Peace here](https://amzn.to/49uo3hI)
+[You can purchase A Desolation Called Peace here](https://amzn.to/49uo3hI)
 
 ## The Colour of Magic
 ### _Terry Pratchett_
@@ -75,7 +75,7 @@ get into. They explore magical caverns and enchanted trees, an upside down mount
 _The Colour of Magic_ did a lot of world building which I found a little slow at the beginning, but by the end I found the characters and story to be quite enjoyable. 
 Perhaps not as much as some of the other series I've been reading, but on the other hand the Discworld has 41 novels to explore, so there is hope that it 
 will get much, much better. I can't wait!
-[You can find The Colour of Magic here](https://amzn.to/3QuHEra)
+[You can purchase The Colour of Magic here](https://amzn.to/3QuHEra)
 
 ## A Country of Ghosts
 ### _Margaret Killjoy_
@@ -83,7 +83,7 @@ This one was recommended by [Elle](https://bsky.app/profile/ellearmageddon.bsky.
 A Country of Ghosts follows a Borolian journalist who travels to a far away land as a war correspondent and gets involved with the local anarchists as they 
 attempt to push back the invading Borolian forces. The book is basically half novel, half anarchism 101.
 
-[You can find A Country of Ghosts here](https://amzn.to/4biVwwI)
+[You can purchase A Country of Ghosts here](https://amzn.to/4biVwwI)
 
 ## The Dark Tower I: The Gunslinger
 ### _Stephen King_
@@ -95,7 +95,7 @@ through the wasteland fighting demons and succubi, search for oracles and the ma
 catches the man in black, who tells him about "the three" - thee people he will encounter on his way to the Dark Tower. The Prisoner, The Lady of Shadows, and The Pusher.  
 The book ends with Roland defeating the man in black, but at a great cost. 
 
-[You can find The Gunslinger here](https://amzn.to/3yg4r3o)
+[You can purchase The Gunslinger here](https://amzn.to/3yg4r3o)
 
 ## The Dark Tower II: The Drawing of the Three
 ### _Stephen King_
@@ -118,7 +118,7 @@ infection). Through the process Odetta and Detta are forced to confront the trau
 
 The group leave the beach in search of the tower. At the end both Eddie and Susannah have been saved by Roland, who is aware that he very likely may have to sacrifice them at some point to reach the Tower.
 
-[You can find The Drawing of the Three here](https://amzn.to/3yg3JDi)
+[You can purchase The Drawing of the Three here](https://amzn.to/3yg3JDi)
 
 
 ## The Light Fantastic
@@ -134,7 +134,7 @@ eight moons of the red star to crack open, giving birth to eight infant worlds (
 and Twoflower decides that it is time to return home. He gives the Luggage to Rincewind as a parting gift and Rincewind decides to enroll in University, 
 supposing now that the spell is out of his mind he may finally be able to learn magic. 
 
-[You can find The Light Fantastic here](https://amzn.to/44xf6D5)
+[You can purchase The Light Fantastic here](https://amzn.to/44xf6D5)
 
 ## The Saint of Bright Doors
 ### _Vajra Chandrasekera_
@@ -144,7 +144,7 @@ really want to, so he moves to the city and tries to live his life. He joins a s
 The setting is very unusual in that it combines mystic and magical themes in a modern setting. The book feels like it's wandering at times, but somehow is always moving 
 along, even if we don't know where it's going. The story is incredibly original a quite fun to read, I liked it quite a bit. 
 
-[You can find The Saint of Bright Doors here](https://amzn.to/3QBeNkN)
+[You can purchase The Saint of Bright Doors here](https://amzn.to/3QBeNkN)
 
 ## The Adventures of Amina al-Sirafi 
 ### Shannon Chakraborty
@@ -155,7 +155,7 @@ Amina in a very bad place. She reunites with her old crew and they discover that
 much to Amina's chagrin because she really, _really_ is not fond of magic. As the book progresses she finds it harder and harder to complete her task while 
 keeping everyone safe. This was a fantastically fun read and I very much hope that there are more to come!
 
-[You can find The Adventures of Amina al-Sirafi here](https://amzn.to/3UryQU5)
+[You can purchase The Adventures of Amina al-Sirafi here](https://amzn.to/3UryQU5)
 
 
 ## Witch King
@@ -183,8 +183,27 @@ who is the [introvirtuous](https://www.urbandictionary.com/define.php?term=intro
 day, even if he'd rather just stay at home and chill. It didn't take long at all for me to get completely immersed in _Witch King_ 
 and I was definitely sad when it was finished.
 
-[You can find Witch King here](https://amzn.to/3QJ4L0X)
+[You can purchase Witch King here](https://amzn.to/3QJ4L0X)
 
+## The Dark Tower III: The Waste Lands
+### Stephen King
+Continuing on where the last book left off book 3 follows Roland, Susannah and Eddie as they make their way from the Western Seat into Mid-World along the path of 
+"The Beam". We find that Roland is slowly losing his mind. Due to having killed Jack Mort (in book 2) before Jack had a chance to kill Jake (in book 1) Roland has 
+created a paradox and now has two sets of memories that are fighting it out in his head, one where Jake showed up at the way station and followed Roland into the 
+mountain and eventually died, and one where he went into the mountain alone and Jake still lives. Back in NYC Jake is experiencing a similar fate, slowly going 
+mad from two sets of memories trying to resolve themselves. 
+
+Roland, Susannah and Eddie defeat a giant cybernetic bear named Shardik, which we learn is one of the twelve guardians of The Beams. We learn that the Beams criss-cross the continent and have something to do with the Dark Tower. After defeating Shardik the trio follows the path of the beam and come to a place of power where they are able to 
+construct a door which allows Jake to enter the Gunslinger's world. The group (referred to as a ka-tet, meaning a group of people brought together by destiny) continue along 
+the beam to the town of Lud. Lud is an ancient high tech city with an ancient AI named Blaine that has slowly gone insane over the centuries. To get where they are 
+going they must defeat the inhabitants of Lud and convince the erratic Blaine to take them along the beam toward the Dark Tower. The book ends with a stand between 
+Blaine and the ka-tet as Blaine takes them via monorail to Topeka, the end of the line.
+
+I'm liking this series more each book. I was tempted to dive right in, but decided instead to start Green Mars by Kim Stanley Robinson to give myself a little break (while 
+also continuing my dive into older classic series).
+
+
+[You can purchase The Waste Lands here](https://amzn.to/4aNsiW3)
 
 [^magic20]: _There is nothing to say that it doesn't fit into the Magic 2.0 universe and I'm sure at some point he could retcon it in if he wanted to_
 
