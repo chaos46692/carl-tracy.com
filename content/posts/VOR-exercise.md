@@ -59,7 +59,7 @@ me do that on my computer. Hooray!
 
 <script>
     var running = false;
-    var timeLimit = 3.0;
+    var timeLimit = 60.0;
     var speed = 70;
     var delay = 1000.0 * 60.0 / speed;
     var tick = new Audio('/metronome.mp3');
