@@ -50,7 +50,7 @@ me do that on my computer. Hooray!
     <br/>
     <br/>
     <label>Total Time=</label>
-    <input type="text" id="timelimit" value="3.0" onchange="setTime(this.value)"></input> minutes
+    <input type="text" id="timelimit" value="60" onchange="setTime(this.value)"></input> seconds
     <br/>
     <br/>
     <button type="button" onclick="run();">Run</button>
@@ -95,7 +95,7 @@ me do that on my computer. Hooray!
         console.log(timeLimit);
         document.getElementById("theletter").style.display="block";
         var dt = new Date();
-        endTime = new Date(dt.getTime() + 1000 * 60 * timeLimit); // Date.now() + timeLimit*60000;
+        endTime = new Date(dt.getTime() + 1000 * timeLimit); // Date.now() + timeLimit*60000;
         console.log('run');
         running = true;
         runSub();
