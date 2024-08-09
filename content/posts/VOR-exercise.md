@@ -87,13 +87,15 @@ me do that on my computer. Hooray!
     }
 
     function setTime(v) {
-        timiLimit = v;
+        console.log(v);
+        timeLimit = v;
     }    
  
     function run() {
+        console.log(timeLimit);
         document.getElementById("theletter").style.display="block";
         var dt = new Date();
-        endTime = new Date(dt.getTime() + 1000 * timeLimit); // Date.now() + timeLimit*60000;
+        endTime = new Date(dt.getTime() + 1000 * 60 * timeLimit); // Date.now() + timeLimit*60000;
         console.log('run');
         running = true;
         runSub();
