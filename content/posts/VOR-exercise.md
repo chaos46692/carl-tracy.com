@@ -170,7 +170,7 @@ Yeah it looks like shit, whatever. It works.
 {{< /rawhtml >}}
 
 ## So how does it work?
-The metronome part was surprisingly easy. 
+The metronome is not all that complicated. Basically we just need to calculate the delay in milliseconds between ticks, which will be used later with a javascript setTimeout call using that delay
 {{< rawhtml >}}
 
 <pre>
