@@ -67,7 +67,7 @@ https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js
     }
 
     #TargetSpan{
-        border:1px solid red;
+        border: none;
     }
   </style>
 <!--
@@ -286,18 +286,22 @@ Yeah it looks like shit, whatever. It works.
         //console.log(test2);
         
 
-        if (test2["top"]) {
+        if ( (typeof test2["top"] !== 'undefined') && (typeof test2["left"] !== 'undefined'))   {
             console.log("Cookie!")
             calcTop = test2["top"];
             calcLeft = test2["left"];
-            fontScaler = test2["fontScaler"];
-            // /fontSize
-            console.log(fontScaler);
-            document.getElementById("fontSize").value =   fontScaler
         } else {
+            calcTop = 0;
+            calcLeft = 0;
             console.log("No cookie!");
         }
 
+        if (typeof test2["fontScaler"] !== 'undefined') {
+            fontScaler = test2["fontScaler"];
+        } else {
+            fontScaler = 24;
+        }
+        document.getElementById("fontSize").value =   fontScaler
 
         
 
