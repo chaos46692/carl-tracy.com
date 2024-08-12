@@ -1,10 +1,10 @@
 ---
-title: " Vestibulo-ocular Reflex Therapy"
-date: 2024-08-09T14:39:00-05:00
-draft: false
+title: " Vestibulo-ocular Reflex Test"
+date: 2024-08-12T09:39:00-05:00
+draft: true
 tags : [nerd,physical therapy]
 categories : [nerd]
-chart: false
+chart: true
 ---
 
 {{< rawhtml >}}
