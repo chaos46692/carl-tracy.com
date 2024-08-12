@@ -14,7 +14,7 @@ https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js
 
 <style>
     .target {
-        font-size:60pt;
+        font-size:36pt;
         font-weight:bold;
         position:sticky;
         border: none; /* solid 1px red; */
@@ -65,6 +65,10 @@ https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js
         display:block;
         position:absolute;
     }
+
+    #TargetSpan{
+        border:1px solid red;
+    }
   </style>
 <!--
 <div class='target' id="theletter">A
@@ -102,6 +106,10 @@ Yeah it looks like shit, whatever. It works.
     <input type="text" id="timelimit" value="60" onchange="setTime(this.value)"></input> seconds
     <br/>
     <br/>
+    <label>Font Scale</label><br/>
+    <input type="text" id="fontSize" value="100" onchange="setFontScale(this.value)"></input> pt
+    <br/>
+    <br/>
     <button type="button" onclick="run();">Run</button>
     <button type="button" onclick="stop();">Stop</button>
     <!-- <button type="button" onclick="show();">Show!</button> -->
@@ -118,6 +126,7 @@ Yeah it looks like shit, whatever. It works.
 
     var calcTop = 0;
     var calcLeft = 0;
+    var fontScalar = 24;
     //audio.play();
 
     function isNumber(value) {
@@ -135,14 +144,21 @@ Yeah it looks like shit, whatever. It works.
         tempo = v;
         delay = 1000.0 * 60.0 / tempo - 24.0;
         document.getElementById("tempo").value = tempo;
-        //runProj();
+        //runProj(); 
+    }
+
+    function setFontScale(v) {
+        fontScaler = v;
+        console.log(fontScaler);
+        document.getElementById("TargetSpan").style.fontSize = v + "pt"
+
     }
 
     function setTime(v) {
         console.log(v);
         timeLimit = v;
     }    
- 
+  
     function run() {
         console.log(timeLimit);
         document.getElementById("theletter").style.display="block";
@@ -171,18 +187,27 @@ Yeah it looks like shit, whatever. It works.
     function show() {
         document.getElementById("theletter").style.display="block";
         dragElement(document.getElementById("drag"));
+        console.log(document.getElementById("TargetSpan").offsetWidth)
     }
 
     function stop() {
         document.getElementById("theletter").style.display="none";
         running = false;
+
+        var cookie = createCookieValue(calcTop,calcLeft, fontScaler);
+        console.log(fontScaler);
+        setCookie("vor.carltracy.com",cookie,24);
+
+
     }
 
     
-    function createCookieValue(top,left) {
+    function createCookieValue(top,left,fs) {
         var obj = new Object();
         obj.top = top;
         obj.left = left;
+        obj.fontScaler = fs;
+        console.log(fs);
         var ret = JSON.stringify(obj);
         return obj;
     }
@@ -245,7 +270,7 @@ Yeah it looks like shit, whatever. It works.
 
             console.log(calcTop);
             console.log(calcLeft);
-            var cookie = createCookieValue(calcTop,calcLeft);
+            var cookie = createCookieValue(calcTop,calcLeft, fontScaler);
             console.log(cookie);
             setCookie("vor.carltracy.com",cookie,24);
 
@@ -255,13 +280,26 @@ Yeah it looks like shit, whatever. It works.
 
     window.onload = function() {
         var test = Cookies.get("vor.carltracy.com"); // getCookie("vor.carltracy.com");
-        console.log("COOKIE!");
-        console.log(test);
+        //console.log("COOKIE!");
+        //console.log(test);
         var test2 = JSON.parse(test);
-        console.log(test2);
+        //console.log(test2);
+        
 
-        calcTop = test2["top"];
-        calcLeft = test2["left"];
+        if (test2["top"]) {
+            console.log("Cookie!")
+            calcTop = test2["top"];
+            calcLeft = test2["left"];
+            fontScaler = test2["fontScaler"];
+            // /fontSize
+            console.log(fontScaler);
+            document.getElementById("fontSize").value =   fontScaler
+        } else {
+            console.log("No cookie!");
+        }
+
+
+        
 
     }
 /*
@@ -279,7 +317,7 @@ Yeah it looks like shit, whatever. It works.
     div.classList.add('target');
     div.id='theletter'
     div.innerHTML = '<div class="container"><div id="note">Drag the "A" so that it is directly in front of your eyes. The page will save the position in a cookie for the next time you visit!</div>'+
-        '<div id="drag">A<br/><form> <button type="button" onclick="stop();">Stop</button></form></div></div>'
+        '<div id="drag"><span id="TargetSpan">A</span><br/><form> <button type="button" onclick="stop();">Stop</button></form></div></div>'
     parent.insertBefore(div, parent.firstChild);    
 
 </script>

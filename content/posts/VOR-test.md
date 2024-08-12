@@ -14,7 +14,7 @@ https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js
 
 <style>
     .target {
-        font-size:60pt;
+        font-size:36pt;
         font-weight:bold;
         position:sticky;
         border: none; /* solid 1px red; */
