@@ -69,7 +69,11 @@ https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js
     #TargetSpan{
         border: none;
     }
-  </style>
+
+    .point:hover {
+        cursor:pointer;
+    }
+  </style> 
 <!--
 <div class='target' id="theletter">A
 <br>
@@ -90,8 +94,18 @@ The exercise basically is staring at a letter that is straight in front of me wh
 my personal information, or I could have way more fun building a javascript app to do it. So I build a javascript app because as we all 
 know I'm a big giant nerd.
 
-## Behold my invincible nuclear VOR App!
-Yeah it looks like shit, whatever. It works.
+{{< rawhtml >}}
+<script>
+    var mutants = new Audio('/inm.mp3');
+
+    function playMutants() {
+        mutants.play();
+    }
+</script>
+
+<h2 class="point" onClick='playMutants()'>Behold my invincible nuclear VOR App!</h2>
+{{< /rawhtml >}}
+Yeah not the sexiest thing I've ever built, whatever. It works.
 
 {{< rawhtml >}}
 <form>
@@ -160,6 +174,7 @@ Yeah it looks like shit, whatever. It works.
     }    
   
     function run() {
+        tick = new Audio('/metronome.mp3');
         console.log(timeLimit);
         document.getElementById("theletter").style.display="block";
         dragElement(document.getElementById("drag"));
@@ -169,6 +184,7 @@ Yeah it looks like shit, whatever. It works.
         console.log('run');
         running = true;
         runSub();
+        
     }
 
     function runSub() {
@@ -329,105 +345,9 @@ Yeah it looks like shit, whatever. It works.
 
 {{< /rawhtml >}}
 
-## So how does it work?
-The metronome is not all that complicated. Basically we just need to calculate the delay in milliseconds between ticks, which will be used later with a javascript setTimeout call using that delay
-{{< rawhtml >}}
+## Coming Soon
+I originally had a long description of how I build this, but I'm going to leave that for a future article for now because for a 
+stupid little app things got complicated after adding a bunch of features!
 
-<pre>
-function settempo(v) {
-    tempo = v
-    delay = 1000.0 * 60.0 / tempo -24.0;
-    document.getElementById("tempoText").value = tempo;
-}
-</pre>
-
-{{< /rawhtml >}}
-
-the parameter v is just the value coming from the form inputs. delay is the timeout between clicks, the -24 is to account for the 
-length of the clicking audio clip. That probably doesn't make a huge difference, but if we're going to do it we might as well do it right.
-
-## DIVs are a pain in my ass
-The absolute biggest problem in building this was getting the damn div to take up the entire screen. The first thing we need is for the 
-div to stick to the top left and take up the entire screen.
-{{< rawhtml >}}
-
-<pre>
-&lt;style&gt;
-.target {
-    position:sticky;
-    background:white;
-    width:100%;
-    height:100vh;
-    top:0;
-    left:0;
-    z-index:100000;
-    text-align: center;
-    vertical-align: middle;  
-    padding-top:calc(50vh - 30pt);
-    display:none;
-}
-
-&lt;/style&gt;
-</pre>
-
-{{< /rawhtml >}}
-That gives me most of what I want:
-* puts the div at the top left
-* puts it in front (z-index) and makes the background white
-* takes up the entire screen 
-* puts the first element right in the center with the text-align and padding-top
-* * calc(50hv - 30pt) is being extra nerdy - because I'm using 60pt font the -30pt gets it (mostly) centered vertically
-* display:none ensures that it doesn't pop up until the Run button is clicked.
-
-The problem with this is that the position:sticky puts it within the containing div, which if I just add it to the top of my article 
-doesn't really work. I need it to be at the very tippity top of the body before any other html. To do that I can't just put it in the article, I need to insert it with javascript:
-{{< rawhtml >}}
-
-<pre>
-var parent = document.body;  
-var div = document.createElement('div');
-div.classList.add('target');
-div.id='theletter'
-div.innerHTML = 'A&lt;br/&gt;&lt;form&gt;' +
- &lt;button type="button" onclick="stop();"&gt;Stop&lt;/button&gt;&lt;/form&gt;'
-parent.insertBefore(div, parent.firstChild);
-
-</pre>
-
-{{< /rawhtml >}}
-The "A" is the target that I'm staring at when it runs and the stop button is just in case I need to stop for whatever reason. 
-
-The rest is just calculating how long it should run, showing the div with our target and stop button, then calling a subroutine 
-which calls itself every "delay" milliseconds until we reach the total time. Of course then we have to play a ridiculous bell sound.
-{{< rawhtml >}}
-<pre>
-var running = false;
-function run() {
-    console.log(timeLimit);
-    document.getElementById("theletter").style.display="block";
-
-    var dt = new Date();
-    endTime = new Date(dt.getTime() + 1000 * timeLimit);  
-    console.log('run');
-    running = true;
-    runSub();
-}
-
-function runSub() {
-    console.log("Current time: " + Date.now().toString() + " :: End Time: " + endTime.toString() );
-    if (Date.now() > endTime) {
-        running = false;
-        document.getElementById("theletter").style.display="none";
-        booong.play();
-    }
-    if (running) { 
-        tick.play();
-        setTimeout(runSub, delay);
-    } 
-}
-</pre>
-{{< /rawhtml >}}
-
-Overall it works pretty well for what I need. I even learned some fun CSS stuff along the way.
 
 
