@@ -17,7 +17,7 @@ https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js
         font-size:36pt;
         font-weight:bold;
         position:sticky;
-        border: none; /* solid 1px red; */
+        border: none;  
         background:white;
         width:100%;
         height:100vh;
@@ -48,7 +48,7 @@ https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js
         left:0;
         width:100%;
         height:100%;
-        border: 1px solid blue;
+        border: none; 
     }
 
     #note {
@@ -87,13 +87,15 @@ https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js
 ## VOR Physical therapy
 
 I recently have had some vestibular issues related to how my [brain and eyes communicate](https://www.physio-pedia.com/Vestibulo-Ocular_Reflex) (badly). My issues are basically due to my gaze not locking correctly / some issues with peripheral vision. Once the source of the issues were identified I was given some exercises to do to help with the gaze stabilization. 
-<!--more--> 
+
 
 The exercise basically is staring at a letter that is straight in front of me while turning my head side to side
 [like in this video](https://youtu.be/Mk7v9r4acQU?t=236). Now I could just download a metronome app for my phone that's going to steal 
 my personal information, or I could have way more fun building a javascript app to do it. So I build a javascript app because as we all 
 know I'm a big giant nerd.
 
+You can [read more about how I built it here]({{<ref VOR-app-build>}})
+<!--more--> 
 {{< rawhtml >}}
 <script>
     var mutants = new Audio('/inm.mp3');
@@ -156,7 +158,7 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
 
     function settempo2(v) {
         tempo = v;
-        delay = 1000.0 * 60.0 / tempo - 24.0;
+        delay = 1000.0 * 60.0 / tempo; // - 24.0;
         document.getElementById("tempo").value = tempo;
         //runProj(); 
     }
@@ -296,11 +298,7 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
 
     window.onload = function() {
         var test = Cookies.get("vor.carltracy.com"); // getCookie("vor.carltracy.com");
-        //console.log("COOKIE!");
-        //console.log(test);
-        var test2 = JSON.parse(test);
-        //console.log(test2);
-        
+        var test2 = JSON.parse(test);       
 
         if ( (typeof test2["top"] !== 'undefined') && (typeof test2["left"] !== 'undefined'))   {
             console.log("Cookie!")
@@ -317,21 +315,9 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
         } else {
             fontScaler = 24;
         }
-        document.getElementById("fontSize").value =   fontScaler
-
-        
-
+        document.getElementById("fontSize").value =   fontScaler;
     }
-/*
-    function findFirstDescendant(parent, tagname)
-    {
-        parent = document.getElementById(parent);
-        var descendants = parent.getElementsByTagName(tagname);
-        if ( descendants.length )
-            return descendants[0];
-        return null;
-    }
-*/
+
     var parent = document.body;  
     var div = document.createElement('div');
     div.classList.add('target');
