@@ -94,7 +94,7 @@ The exercise basically is staring at a letter that is straight in front of me wh
 my personal information, or I could have way more fun building a javascript app to do it. So I build a javascript app because as we all 
 know I'm a big giant nerd.
 
-You can [read more about how I built it here]({{<ref VOR-app-build>}})
+You can [read more about how I built it here]({{<ref "vor-app-build">}}) test
 <!--more--> 
 {{< rawhtml >}}
 <script>
@@ -331,9 +331,7 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
 
 {{< /rawhtml >}}
 
-## Coming Soon
-I originally had a long description of how I build this, but I'm going to leave that for a future article for now because for a 
-stupid little app things got complicated after adding a bunch of features!
+
 
 
 
