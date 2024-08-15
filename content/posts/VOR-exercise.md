@@ -176,17 +176,28 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
     }    
   
     function run() {
-        tick = new Audio('/metronome.mp3');
         console.log(timeLimit);
         document.getElementById("theletter").style.display="block";
         dragElement(document.getElementById("drag"));
-
-        var dt = new Date();
-        endTime = new Date(dt.getTime() + 1000 * timeLimit);  
         console.log('run');
         running = true;
-        runSub();
+
+        tick = new Audio('/metronome.mp3');
+        tick.addEventListener("ended",runFirst);
+        tick.play();
+
+
         
+    }
+
+    function runFirst() {
+        //tick.onended = nothing;
+        tick.removeEventListener("ended",runFirst);
+        var dt = new Date();
+        endTime = new Date(dt.getTime() + 1000 * timeLimit);  
+        //runSub();
+        setTimeout(runSub, delay);
+
     }
 
     function runSub() {

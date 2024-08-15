@@ -195,8 +195,9 @@ You'll notice that when we finish dragging there is code to save a cookie, I wil
 function dragElement(elmnt) {
     var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
     elmnt.onmousedown = dragMouseDown;
-    // These should be loaded from a cookie to save the position we want
-    // If they are zero there's no cookie saved so set it to the approximate
+    // These should be loaded from a cookie to save the 
+    // position we want If they are zero there's no 
+    // cookie saved so set it to the approximate
     // center of the screen
     if ((calcTop<1) || (calcLeft<1)) {
         calcTop = screen.height / 2.0 - elmnt.offsetHeight;
@@ -257,7 +258,8 @@ No, these aren't the type of cookies that spy on you. All I'm doing with this on
 as well as the font size. I tried to roll my own, but the end of the day [js-cookie](https://github.com/js-cookie/js-cookie) was just way easier. To add js-cookie all I needed to so was add this line to the top of my code:
 {{< rawhtml >}}
 <pre><code class="language-html">
-&lt;script src="https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js">
+&lt;script 
+  src="https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js">
 &lt;/script&gt;
 </code></pre>
 {{< /rawhtml >}}
@@ -280,10 +282,12 @@ function setCookie(cname,obj,exdays) {
 }
 
 window.onload = function() {
-    var test = Cookies.get("vor.carltracy.com"); // getCookie("vor.carltracy.com");
+    var test = Cookies.get("vor.carltracy.com");  
     var test2 = JSON.parse(test);       
-
-    if ( (typeof test2["top"] !== 'undefined') && (typeof test2["left"] !== 'undefined'))   {
+    
+    // Set default values if cookies not present
+    if ( (typeof test2["top"] !== 'undefined') && 
+      (typeof test2["left"] !== 'undefined'))   {
         console.log("Cookie!")
         calcTop = test2["top"];
         calcLeft = test2["left"];
@@ -329,7 +333,6 @@ function run() {
 }
 
 function runSub() {
-    console.log("Current time: " + Date.now().toString() + " :: End Time: " + endTime.toString() );
     if (Date.now() > endTime) {
         running = false;
         document.getElementById("theletter").style.display="none";
@@ -352,7 +355,58 @@ function stop() {
 
 }
 </code></pre>
+{{< /rawhtml >}}
 
+
+
+#### Update August 15 2024 - Getting rid of the "double tick"
+Everything worked mostly as expected, with one small exception. Occasionally the website will 
+have a little jitter where the first two ticks are very close together. More than likely this is 
+the browser being efficient and either flushing the audio file from memory or otherwise caching it 
+somehow. When that first tick happens it takes a bit to load the file and consequently the second 
+tick is way too close to the first one. 
+
+Not a big deal, but we can fix it! I added a new new procedure 
+named "runFirst" and added an event listener for the end of the first play. That function 
+sets the end time, removes the listener and sets a timeout to the original "runSub" function which 
+operates exactly as it was before.
+
+{{< rawhtml >}}
+<pre><code class="language-javascript">
+function run() {
+    console.log(timeLimit);
+    document.getElementById("theletter").style.display="block";
+    dragElement(document.getElementById("drag"));
+    console.log('run');
+    running = true;
+
+    tick = new Audio('/metronome.mp3');
+    tick.addEventListener("ended",runFirst);
+    tick.play();
+}
+
+function runFirst() {
+    //tick.onended = nothing;
+    tick.removeEventListener("ended",runFirst);
+    var dt = new Date();
+    endTime = new Date(dt.getTime() + 1000 * timeLimit);  
+    //runSub();
+    setTimeout(runSub, delay);
+
+}
+
+function runSub() {
+    if (Date.now() > endTime) {
+        running = false;
+        document.getElementById("theletter").style.display="none";
+        booong.play();
+    }
+    if (running) { 
+        tick.play();
+        setTimeout(runSub, delay);
+    } 
+}
+</code></pre>
 
 <script>
     hljs.highlightAll();
