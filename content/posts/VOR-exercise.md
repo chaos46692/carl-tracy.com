@@ -144,6 +144,7 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
     var calcLeft = 0;
     var fontScalar = 24;
     //audio.play();
+    var updatingFontSize = false;
 
     function isNumber(value) {
     return typeof value === 'number';
@@ -164,30 +165,40 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
     }
 
     function setFontScale(v) {
-        fontScaler = v;
-        console.log(fontScaler);
-        document.getElementById("TargetSpan").style.fontSize = v + "pt"
+        if (updatingFontSize) {return;}
 
+        fontScaler = parseInt(v);
+        //console.log(fontScaler);
+        document.getElementById("TargetSpan").style.fontSize = v + "pt"
+    }
+
+    function setFontScale2(v) {
+        //alert(v);
+        //setFontScale(v);
+        fontScaler = v;
+        updatingFontSize = true;
+        document.getElementById("TargetSpan").style.fontSize = v + "pt"
+        document.getElementById("fontSize").value = v;
+        updatingFontSize = false;
     }
 
     function setTime(v) {
-        console.log(v);
+        //console.log(v);
         timeLimit = v;
     }    
   
     function run() {
-        console.log(timeLimit);
+        keycapon();
+        disableScroll();
+        //console.log(timeLimit);
         document.getElementById("theletter").style.display="block";
         dragElement(document.getElementById("drag"));
-        console.log('run');
+        //console.log('run');
         running = true;
 
         tick = new Audio('/metronome.mp3');
         tick.addEventListener("ended",runFirst);
         tick.play();
-
-
-        
     }
 
     function runFirst() {
@@ -201,7 +212,7 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
     }
 
     function runSub() {
-        console.log("Current time: " + Date.now().toString() + " :: End Time: " + endTime.toString() );
+        //console.log("Current time: " + Date.now().toString() + " :: End Time: " + endTime.toString() );
         if (Date.now() > endTime) {
             running = false;
             document.getElementById("theletter").style.display="none";
@@ -216,16 +227,24 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
     function show() {
         document.getElementById("theletter").style.display="block";
         dragElement(document.getElementById("drag"));
-        console.log(document.getElementById("TargetSpan").offsetWidth)
+        //console.log(document.getElementById("TargetSpan").offsetWidth);
     }
 
     function stop() {
+        keycapoff();
         document.getElementById("theletter").style.display="none";
         running = false;
 
+        updatingFontSize = true;
+        //document.getElementById("TargetSpan").style.fontSize = fontScaler + "pt"
+        document.getElementById('fontSize').value = fontScaler;
+        updatingFontSize = false;
+
+
         var cookie = createCookieValue(calcTop,calcLeft, fontScaler);
-        console.log(fontScaler);
+        //console.log(fontScaler);
         setCookie("vor.carltracy.com",cookie,24);
+        enableScroll();
 
 
     }
@@ -236,7 +255,7 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
         obj.top = top;
         obj.left = left;
         obj.fontScaler = fs;
-        console.log(fs);
+        //console.log(fs);
         var ret = JSON.stringify(obj);
         return obj;
     }
@@ -257,7 +276,7 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
         if ((calcTop<1) || (calcLeft<1)) {
             calcTop = screen.height / 2.0 - elmnt.offsetHeight;
             calcLeft = screen.width / 2.0 - elmnt.offsetWidth;
-            console.log(calcLeft);
+            //console.log(calcLeft);
         }
         elmnt.style.top = calcTop + "px";
         elmnt.style.left = calcLeft + "px";
@@ -297,28 +316,90 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
             document.onmouseup = null;
             document.onmousemove = null;
 
-            console.log(calcTop);
-            console.log(calcLeft);
+            //console.log(calcTop);
+            //console.log(calcLeft);
             var cookie = createCookieValue(calcTop,calcLeft, fontScaler);
-            console.log(cookie);
+            //console.log(cookie);
             setCookie("vor.carltracy.com",cookie,24);
 
         }
     }
 
+    // capture keydown events
+    function keycapon() {
+        document.addEventListener('keydown', keycapcallback);
+
+    }
+
+    function keycapoff() {
+        document.removeEventListener('keydown',keycapcallback);
+    }
+
+    function keycapcallback(event) {
+
+        kc = event.keyCode;
+        //console.log(kc);
+
+        if (kc == 38) {
+            setFontScale2(parseInt(fontScaler) + 1);
+        }
+        if (kc== 40) {
+            setFontScale2(parseInt(fontScaler) - 1);
+        }
+        if (kc== 27) {
+            stop();
+            return;
+        }
+
+        var cookie = createCookieValue(calcTop,calcLeft, fontScaler);
+        //console.log(cookie);
+        setCookie("vor.carltracy.com",cookie,24);
+
+    }
+
+    var yOffset = 0;
+    function disableScroll() {
+        //alert('disable scroll');
+        console.log("disable scroll");
+        console.log(window.pageYOffset);
+        yOffset = window.pageYOffset;
+        // Get the current page scroll position
+        scrollTop =
+            window.pageYOffset ||
+            document.documentElement.scrollTop;
+        scrollLeft =
+            window.pageXOffset ||
+            document.documentElement.scrollLeft,
+
+            // if any scroll is attempted,
+            // set this to the previous value
+            window.onscroll = function () {
+                window.scrollTo(scrollLeft, scrollTop);
+            };
+    }
+
+    function enableScroll() {
+        //console.log(window.pageYOffset);
+        //window.pageYOffset = yOffset;  
+        window.scrollTo(0,yOffset);    
+        console.log(window.pageYOffset);
+
+        window.onscroll = function () { };
+
+    }
 
     window.onload = function() {
         var test = Cookies.get("vor.carltracy.com"); // getCookie("vor.carltracy.com");
         var test2 = JSON.parse(test);       
 
         if ( (typeof test2["top"] !== 'undefined') && (typeof test2["left"] !== 'undefined'))   {
-            console.log("Cookie!")
+            //console.log("Cookie!")
             calcTop = test2["top"];
             calcLeft = test2["left"];
         } else {
             calcTop = 0;
             calcLeft = 0;
-            console.log("No cookie!");
+            //console.log("No cookie!");
         }
 
         if (typeof test2["fontScaler"] !== 'undefined') {
@@ -326,17 +407,25 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
         } else {
             fontScaler = 24;
         }
-        document.getElementById("fontSize").value =   fontScaler;
+        setFontScale2(fontScaler);
+
+        //document.getElementById("fontSize").value =   fontScaler;
     }
 
     var parent = document.body;  
     var div = document.createElement('div');
     div.classList.add('target');
     div.id='theletter'
-    div.innerHTML = '<div class="container"><div id="note">Drag the "A" so that it is directly in front of your eyes. The page will save the position in a cookie for the next time you visit!</div>'+
-        '<div id="drag"><span id="TargetSpan">A</span><br/><form> <button type="button" onclick="stop();">Stop</button></form></div></div>'
+    div.innerHTML = '<div class="container"><div id="note"><p>Drag the "A" so that it is directly in front of your eyes. The page will save the position in a cookie for the next time you visit!</p>' + 
+    '<p><ul style="text-align:left"><li>Use the up arrow to increase font size</li>' + 
+    '<li>Use the down arrow to decrease font size</li>' + 
+    '<li>Use the escape key or the stop button to stop</li></ul></p>' + 
+    '<div style="clear:both"><form style="text-align:left"> <button type="button" onclick="stop();">Stop</button></form></div>' + 
+        '<div id="drag"><span id="TargetSpan">A</span><br/></div></div>'
+    '</div>'+
     parent.insertBefore(div, parent.firstChild);    
 
+    updatingFontSize = false;
 </script>
 
 
