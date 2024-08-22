@@ -105,12 +105,12 @@ You can [read more about how I built it here]({{<ref "vor-app-build">}}) test
     }
 </script>
 
-<h2 class="point" onClick='playMutants()'>Behold my invincible nuclear VOR App!</h2>
+<h2 id="vorform" class="point" onClick='playMutants()'>Behold my invincible nuclear VOR App!</h2>
 {{< /rawhtml >}}
 Yeah not the sexiest thing I've ever built, whatever. It works.
 
 {{< rawhtml >}}
-<form>
+<form >
     <!-- <button  type="button" onclick="javascript:runProj();">Run</button > <br/> -->
     <label>Metronome tempo</label><br/>
     <input type="range" min="30" max="150" value="70" class="slider" id="tempo" onchange="settempo(this.value)" style="width:18em">
