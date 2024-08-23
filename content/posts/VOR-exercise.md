@@ -154,6 +154,7 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
         tempo = v
         delay = 1000.0 * 60.0 / tempo - 24.0;
         document.getElementById("tempoText").value = tempo;
+        setCurrentCookie();
     }
 
 
@@ -161,7 +162,7 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
         tempo = v;
         delay = 1000.0 * 60.0 / tempo; // - 24.0;
         document.getElementById("tempo").value = tempo;
-        //runProj(); 
+        setCurrentCookie();
     }
 
     function setFontScale(v) {
@@ -170,6 +171,7 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
         fontScaler = parseInt(v);
         //console.log(fontScaler);
         document.getElementById("TargetSpan").style.fontSize = v + "pt"
+        setCurrentCookie();
     }
 
     function setFontScale2(v) {
@@ -180,6 +182,7 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
         document.getElementById("TargetSpan").style.fontSize = v + "pt"
         document.getElementById("fontSize").value = v;
         updatingFontSize = false;
+        setCurrentCookie();
     }
 
     function setTime(v) {
@@ -207,7 +210,7 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
         var dt = new Date();
         endTime = new Date(dt.getTime() + 1000 * timeLimit);  
         //runSub();
-        setTimeout(runSub, delay);
+        setTimeout(runSub, delay-60.0);
 
     }
 
@@ -240,21 +243,24 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
         document.getElementById('fontSize').value = fontScaler;
         updatingFontSize = false;
 
-
-        var cookie = createCookieValue(calcTop,calcLeft, fontScaler);
-        //console.log(fontScaler);
-        setCookie("vor.carltracy.com",cookie,24);
+        setCurrentCookie();
         enableScroll();
-
 
     }
 
+    function setCurrentCookie() {
+        var cookie = createCookieValue(calcTop,calcLeft, fontScaler, tempo);
+        //console.log(fontScaler);
+        setCookie("vor.carltracy.com",cookie,24);
+    }
+
     
-    function createCookieValue(top,left,fs) {
+    function createCookieValue(top,left,fs,tp) {
         var obj = new Object();
         obj.top = top;
         obj.left = left;
         obj.fontScaler = fs;
+        obj.tempo = tp;
         //console.log(fs);
         var ret = JSON.stringify(obj);
         return obj;
@@ -318,9 +324,7 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
 
             //console.log(calcTop);
             //console.log(calcLeft);
-            var cookie = createCookieValue(calcTop,calcLeft, fontScaler);
-            //console.log(cookie);
-            setCookie("vor.carltracy.com",cookie,24);
+            setCurrentCookie();
 
         }
     }
@@ -351,9 +355,7 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
             return;
         }
 
-        var cookie = createCookieValue(calcTop,calcLeft, fontScaler);
-        //console.log(cookie);
-        setCookie("vor.carltracy.com",cookie,24);
+        setCurrentCookie();
 
     }
 
@@ -408,6 +410,19 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
             fontScaler = 24;
         }
         setFontScale2(fontScaler);
+
+        //obj.tempo
+        if (typeof test2["tempo"] !== 'undefined') {
+            //console.log('got it');
+            //console.log(test2["tempo"]);
+            tempo = test2["tempo"];
+        } else {
+            console.log('boooo');
+            tempo = 70;
+        }
+        //setFontScale2(fontScaler);
+        settempo2(tempo);
+        settempo(tempo);
 
         //document.getElementById("fontSize").value =   fontScaler;
     }
