@@ -205,5 +205,60 @@ also continuing my dive into older classic series).
 
 [You can purchase The Waste Lands here](https://amzn.to/4aNsiW3)
 
+## Green Mars
+### Kim Stanley Robinson
+Green Mars is the second book in the Mars Trilogy, continues the epic story of humanity's colonization of Mars. Set several decades after the events of Red Mars, the novel explores the political and ecological transformation of the red planet as it undergoes terraforming. Mars is slowly "greening" as plants begin to thrive, and tensions rise between various factions—some pushing for full independence from Earth, while others want to maintain Earth's control.
+
+The novel delves into the lives of the original settlers, known as the First Hundred, and the new generation born on Mars. It explores themes of environmental stewardship, political revolution, and scientific advancement. Through complex character development and deep philosophical insights, Green Mars portrays a realistic, hard science-fiction vision of planetary colonization, revolution, and the ethical challenges of reshaping a world.
+
+The themes in Green Mars resonate strongly with today's economic and political climate, particularly in discussions around sustainability, autonomy, and the distribution of power. In the novel, Mars' colonists grapple with the ethics of terraforming, balancing technological progress with environmental stewardship—much like our current debates over climate change and the push for green energy. Politically, Green Mars explores tensions between corporate interests from Earth and Martian independence, echoing today's struggles between global corporations and local governance. Just as Mars’ colonists seek sovereignty and a more equitable society, movements across the globe today demand more localized power, economic reform, and environmental justice in the face of growing inequality and corporate control. The novel’s themes of revolution, resource management, and the consequences of unchecked corporate influence mirror our real-world challenges in navigating economic and political futures.
+
+
+[You can purchase Green Mars here](https://amzn.to/3XZeaWl)
+
+## The Dark Tower IV: Wizard and Glass
+### Stephen King
+The Dark Tower IV: Wizard and Glass is the fourth installment in the Dark Tower series, continuing the journey of Roland Deschain and his ka-tet—Eddie, Susannah, Jake, and Oy on their quest for the Dark Tower. Picking up where the previous novel left off, the group faces off against Blaine the Mono, an insane AI-controlled train that forces them into a deadly riddle contest. After defeating Blaine with a clever riddle from Eddie, they find themselves in a post-apocalyptic Kansas, a world reminiscent of The Stand. As they rest, Roland shares the haunting story of his past, revealing a pivotal chapter of his life in the Barony of Mejis.
+
+The novel then shifts into an extended flashback, detailing Roland’s younger days. After discovering his gunslinger heritage, a teenage Roland and his friends, Alain and Cuthbert, are sent to Mejis to lay low from political tensions in their home of Gilead. While there, Roland meets Susan Delgado, and the two fall deeply in love. However, their romance is doomed from the start, as Susan is already promised to Mayor Thorin. This secret affair unfolds against the backdrop of a dangerous conspiracy involving the powerful, malevolent wizard Marten and a group of rebels plotting to overthrow the Affiliation, the ruling body of Gilead.
+
+As Roland and his companions uncover a plot to steal oil stored in Mejis, which would be used in the coming war, they must navigate personal conflicts, betrayals, and the dangerous enforcers known as the Big Coffin Hunters. The flashback story is one of deep loss and tragedy, revealing Roland’s growth as a gunslinger and the hardening of his character. Susan’s tragic death, burned at the stake by her townspeople, marks one of the most profound losses in Roland’s life, cementing his commitment to his quest for the Dark Tower, even at the cost of those he loves.
+
+The novel ends back in the present, with Roland finishing his story and the ka-tet continuing their journey toward the Dark Tower. They come across the Emerald City, where they confront the wizard Marten (also known as Randall Flagg), who taunts them before disappearing. The novel closes with the ka-tet’s resolve strengthened, but the emotional weight of Roland’s past lingers, illustrating the cost of his obsession with reaching the Tower. Wizard and Glass serves as both a continuation of the series and a deep dive into Roland’s backstory, highlighting the themes of love, loss, and destiny that permeate The Dark Tower saga.
+
+I am very much enjoying the Dark Tower series and simultaneously looking forward to reading more while trying to not burn through the entire series all at once. Thankfully I have another series that will take me literally years to work through. Speaking of which…
+
+[You can purchase Wizard and Glass here](https://amzn.to/47McYc6)
+
+## Sourcery
+### Terry Pratchett
+I'm sticking with the Rincewind track on the [Reddit Discworld Reading Order Guide 2.2](https://www.reddit.com/r/discworld/comments/10eon2l/discworld_reading_order_guide/), although I _may_ have bought a few of the Death novels because I'm really loving Death as a character. Anyway, on to the review!
+
+Sourcery is the fifth novel in the Discworld series, and it follows the story of the return of sourcery—an ancient and powerful form of magic long thought to be extinct. The novel begins with Ipslore the Red, a bitter and power-hungry wizard, defying the natural order by fathering a child, Coin. Coin is no ordinary child but a sourcerer, capable of wielding immense magical power far beyond that of regular wizards. Ipslore gives Coin a staff imbued with his own spirit and sends him to the Unseen University, where his arrival disrupts the balance of power, as the wizards begin to realize that a sourcerer can not only bend reality but also rule the world.
+
+Meanwhile, Rincewind, the hapless wizard who barely knows any magic, finds himself unwittingly caught up in the chaos when the Archchancellor's Hat, a powerful magical artifact, commands him to flee the city with it. The Hat fears Coin’s immense power and the growing instability at the Unseen University. Rincewind is accompanied by Conina, a skilled barbarian hairdresser and daughter of the legendary hero Cohen the Barbarian, and Nijel the Destroyer, an awkward young man attempting to live out his dreams of becoming a barbarian hero. Together, they try to protect the Hat and escape the growing threat of Coin's rising dominance.
+
+As Coin's power grows, the wizards begin launching an all-out war on the world, breaking the long-held truce that magic should not interfere with ordinary people’s lives. Coin, manipulated by Ipslore’s spirit within his staff, starts remaking the world according to his father’s vision, causing chaos across the Disc. Rincewind, despite his lack of magical prowess, feels compelled to return to face the danger. In a climactic showdown, Rincewind and Coin confront each other, and Rincewind’s bumbling courage helps Coin see the danger of the power he wields, leading him to break free from his father’s control.
+
+In the end, Coin sacrifices his staff and his magic, choosing a different path than the one his father intended. The balance of magic is restored, the wizards are humbled, and Rincewind, once again, finds himself lost in the great unknown. Sourcery explores themes of power, destiny, and free will, all while delivering Pratchett’s signature blend of humor, satire, and sharp commentary on the nature of authority and human ambition. It offers a witty and engaging tale that also reflects on the corrupting influence of unchecked power and the importance of individual choice.
+
+[You can purchase Sourcery here](https://amzn.to/3XDoMIY)
+
+## Not Till We Are Lost (Bobiverse Book 5)
+### Dennis E. Taylor
+Sometimes I buy a book when it's announced and then basically explode with joy when it is released. This is definitely the case with the new Bobiverse book. As soon as I was done with Sourcery I dived right in and burned through this in record time (this book may have single handedly jump started me out of a funk and back into getting out of the house as an excuse to listen to more of it). I fell like Taylor had his work cut out for him on this one - things were so tenuous after book 4 but I feel like he did a fantastic job with this one. It has all the same humor and insightfulness of the earlier installments and continues the story well.
+
+Not Till We Are Lost continues the adventures of Bob and his many clones. It interweaves the stories of Bob and some of the original clones who are trying to figure out how to navigate the current political situation with the humans and other newly discovered races, the integration of Quinlans into the virtual world and the Skippys attempts to create a super-intelligent AI. While in the background two clones who left long ago for the galactic core (Icarus and Daedalus) discover a network of ancient civilizations and a huge threat to the galaxy and its current occupants. 
+
+If you like Dennis E. Taylor's previous Bobiverse offerings I'm fairly certain you will like this one as well. There were multiple instances where I laughed so hard I almost had to pull off the road. It's no surprise given the other books that he continues to explore themes of individuality, consciousness, and the burdens and obligations of immortality. As always Ray Porter who narrates the audiobook is fantastic and does a phenomenal job of voicing the characters.
+
+[You can purchase Not Till We Are Lost here](https://amzn.to/3TNkxd1)
+
+## On deck next:
+## Bury Your Gays
+### Chuck Tingle 
+
+[You can purchase Bury Your Gays here](https://amzn.to/4gMGMJK)
+
 [^magic20]: _There is nothing to say that it doesn't fit into the Magic 2.0 universe and I'm sure at some point he could retcon it in if he wanted to_
 
