@@ -168,8 +168,8 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
     function setFontScale(v) {
         if (updatingFontSize) {return;}
 
-        fontScaler = parseInt(v);
-        //console.log(fontScaler);
+        fontScalar = parseInt(v);
+        //console.log(fontScalar);
         document.getElementById("TargetSpan").style.fontSize = v + "pt"
         setCurrentCookie();
     }
@@ -177,7 +177,7 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
     function setFontScale2(v) {
         //alert(v);
         //setFontScale(v);
-        fontScaler = v;
+        fontScalar = v;
         updatingFontSize = true;
         document.getElementById("TargetSpan").style.fontSize = v + "pt"
         document.getElementById("fontSize").value = v;
@@ -188,6 +188,10 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
     function setTime(v) {
         //console.log(v);
         timeLimit = v;
+    }
+    
+    function setTime2(v) {
+        document.getElementById("timelimit").value = v;
     }    
   
     function run() {
@@ -220,7 +224,9 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
             running = false;
             document.getElementById("theletter").style.display="none";
             booong.play();
-        }
+            // Re-enable scrolling
+            setCurrentCookie();
+            enableScroll();        }
         if (running) { 
             tick.play();
             setTimeout(runSub, delay);
@@ -239,8 +245,8 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
         running = false;
 
         updatingFontSize = true;
-        //document.getElementById("TargetSpan").style.fontSize = fontScaler + "pt"
-        document.getElementById('fontSize').value = fontScaler;
+        //document.getElementById("TargetSpan").style.fontSize = fontScalar + "pt"
+        document.getElementById('fontSize').value = fontScalar;
         updatingFontSize = false;
 
         setCurrentCookie();
@@ -249,18 +255,19 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
     }
 
     function setCurrentCookie() {
-        var cookie = createCookieValue(calcTop,calcLeft, fontScaler, tempo);
-        //console.log(fontScaler);
+        var cookie = createCookieValue(calcTop,calcLeft, fontScalar, tempo,timeLimit);
+        //console.log(fontScalar);
         setCookie("vor.carltracy.com",cookie,24);
     }
 
     
-    function createCookieValue(top,left,fs,tp) {
+    function createCookieValue(top,left,fs,tp,tl) {
         var obj = new Object();
         obj.top = top;
         obj.left = left;
-        obj.fontScaler = fs;
+        obj.fontScalar = fs;
         obj.tempo = tp;
+        obj.timeLimit = tl;
         //console.log(fs);
         var ret = JSON.stringify(obj);
         return obj;
@@ -345,10 +352,10 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
         //console.log(kc);
 
         if (kc == 38) {
-            setFontScale2(parseInt(fontScaler) + 1);
+            setFontScale2(parseInt(fontScalar) + 1);
         }
         if (kc== 40) {
-            setFontScale2(parseInt(fontScaler) - 1);
+            setFontScale2(parseInt(fontScalar) - 1);
         }
         if (kc== 27) {
             stop();
@@ -373,20 +380,24 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
             window.pageXOffset ||
             document.documentElement.scrollLeft,
 
-            // if any scroll is attempted,
-            // set this to the previous value
-            window.onscroll = function () {
-                window.scrollTo(scrollLeft, scrollTop);
-            };
+        // if any scroll is attempted,
+        // set this to the previous value
+        window.onscroll = function () {
+            window.scrollTo(scrollLeft, scrollTop);
+        };
     }
 
     function enableScroll() {
         //console.log(window.pageYOffset);
         //window.pageYOffset = yOffset;  
         window.scrollTo(0,yOffset);    
+        console.log("Enable Scroll")
         console.log(window.pageYOffset);
 
-        window.onscroll = function () { };
+        //window.onscroll = function () { };
+        window.onscroll = function () {
+            show.innerHTML = document.documentElement.scrollTop || document.body.scrollTop;
+        };        
 
     }
 
@@ -404,12 +415,19 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
             //console.log("No cookie!");
         }
 
-        if (typeof test2["fontScaler"] !== 'undefined') {
-            fontScaler = test2["fontScaler"];
+        if (typeof test2["fontScalar"] !== 'undefined') {
+            fontScalar = test2["fontScalar"];
         } else {
-            fontScaler = 24;
+            fontScalar = 24;
         }
-        setFontScale2(fontScaler);
+        setFontScale2(fontScalar);
+
+        if (typeof test2["timeLimit"] !== 'undefined') {
+            timeLimit = test2["timeLimit"];
+        } else {
+            timeLimit = 60;
+        }
+        setTime2(timeLimit);        
 
         //obj.tempo
         if (typeof test2["tempo"] !== 'undefined') {
@@ -420,11 +438,16 @@ Yeah not the sexiest thing I've ever built, whatever. It works.
             console.log('boooo');
             tempo = 70;
         }
-        //setFontScale2(fontScaler);
+        //setFontScale2(fontScalar);
         settempo2(tempo);
         settempo(tempo);
 
-        //document.getElementById("fontSize").value =   fontScaler;
+        var tl
+
+        //obj.timeLimit = tl;
+
+
+        //document.getElementById("fontSize").value =   fontScalar;
     }
 
     var parent = document.body;  
