@@ -2,7 +2,7 @@
 title: "Craft Whiskey Festival Countdown"
 date: 2024-10-02T14:39:00-05:00
 draft: false
-tags : [nerd,physical therapy]
+tags : [nerd,whiskey]
 categories : [nerd]
 chart: false
 ---
