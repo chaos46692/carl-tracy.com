@@ -19,8 +19,8 @@ chart: false
 </style> 
 {{< /rawhtml >}}
 
-# Is It [Whiskey Festival](https://www.henmick.com/ohio-craft-whiskey-festival) Time???
-
+# Is It Whiskey Festival Time???
+Is it time for the [Ohio Craft Whiskey Festival](https://www.henmick.com/ohio-craft-whiskey-festival)??
 
 
 
@@ -28,16 +28,19 @@ chart: false
 
 {{< rawhtml >}}
 <div id="WHISKEY"> &nbsp; </div>
+<div id="NOTE"> &nbsp; </div>
 
 <script>
 
     var whiskey = document.getElementById("WHISKEY");
+    var note = document.getElementById("NOTE");
+    
 
-
-    const date1 = new Date('October 19, 2024 00:00:00');
-    //const date1 = new Date('October 19, 2023 00:00:00');
+    const date1 = new Date('October 18, 2024 00:00:00');
+    //const date1 = new Date('October 18, 2023 00:00:00');
     if (Date.now() > date1) {
-        whiskey.innerHTML = "YES &#128516;"
+        whiskey.innerHTML = '<p>YES &#128516; </p>'
+        note.innerHTML = ' <p>The <a href="https://www.henmick.com/ohio-craft-whiskey-festival" target="_blank">Ohio Craft Whiskey Festival </a> is this weekend. <b>Start driving Louise! </b></p>'
         const duration = 20 * 1000,
         animationEnd = Date.now() + duration,
         defaults = { startVelocity: 30, spread: 360, ticks: 60, zIndex: 0 };
