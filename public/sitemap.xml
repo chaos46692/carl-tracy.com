@@ -203,12 +203,13 @@
     <loc>http://localhost:1313/posts/it-worked/</loc>
     <lastmod>2021-03-03T17:02:14-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/it-is-alive/</loc>
+    <lastmod>2021-03-03T13:14:19-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/contact-me/iframe/</loc>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/contact-me/</loc>
-  </url><url>
-    <loc>http://localhost:1313/posts/it-is-alive/</loc>
   </url>
 </urlset>

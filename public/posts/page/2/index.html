@@ -7,7 +7,7 @@
     <title>Carl&#39;s New Website | Carl&#39;s New Website</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="This be me blog">
-    <meta name="generator" content="Hugo 0.134.0">
+    <meta name="generator" content="Hugo 0.135.0">
     
     
       <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
@@ -364,6 +364,17 @@ and use the opportunity to move from my old domain to this one! While I&rsquo;m 
    that was just hatching, I couldn&rsquo;t find anything about embedding Tiktoks into Hugo. I tried just pasting the embed code into a markdown page, but it didn&rsquo;t work so I wrote a quick and dirty shortcode to do it:</p>
 <h2 id="tiktokhtml">tiktok.html:</h2>
 <p>Save this code in \layouts\shortcodes\tiktok.html</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">script</span> <span style="color:#a6e22e">async</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.tiktok.com/embed.js&#34;</span>&gt;&lt;/<span style="color:#f92672">script</span>&gt; 
+</span></span><span style="display:flex;"><span>   
+</span></span><span style="display:flex;"><span>&lt;<span style="color:#f92672">blockquote</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;tiktok-embed&#34;</span> <span style="color:#a6e22e">cite</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.tiktok.com/{{ .Get &#34;</span><span style="color:#a6e22e">usr</span><span style="color:#960050;background-color:#1e0010">&#34;</span> <span style="color:#960050;background-color:#1e0010">}}/</span><span style="color:#a6e22e">video</span><span style="color:#960050;background-color:#1e0010">/{{</span> <span style="color:#960050;background-color:#1e0010">.</span><span style="color:#a6e22e">Get</span> <span style="color:#960050;background-color:#1e0010">&#34;</span><span style="color:#a6e22e">id</span><span style="color:#960050;background-color:#1e0010">&#34;</span> <span style="color:#960050;background-color:#1e0010">}}&#34;</span> <span style="color:#a6e22e">data-video-id</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{{ .Get &#34;</span><span style="color:#a6e22e">id</span><span style="color:#960050;background-color:#1e0010">&#34;</span> <span style="color:#960050;background-color:#1e0010">}}&#34;</span> <span style="color:#a6e22e">style</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;max-width: 605px;min-width: 325px;&#34;</span> &gt; 
+</span></span><span style="display:flex;"><span>&lt;<span style="color:#f92672">section</span>&gt; 
+</span></span><span style="display:flex;"><span>   	&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">target</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;_blank&#34;</span> <span style="color:#a6e22e">title</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;@chaos46692&#34;</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.tiktok.com/@chaos46692&#34;</span>&gt;@chaos46692&lt;/<span style="color:#f92672">a</span>&gt; 
+</span></span><span style="display:flex;"><span>   	&lt;<span style="color:#f92672">p</span>&gt;&lt;/<span style="color:#f92672">p</span>&gt; 
+</span></span><span style="display:flex;"><span>   	&lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">target</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;_blank&#34;</span> <span style="color:#a6e22e">title</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Music&#34;</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://www.tiktok.com/music/{{ .Get &#34;</span><span style="color:#a6e22e">music</span><span style="color:#960050;background-color:#1e0010">&#34;</span> <span style="color:#960050;background-color:#1e0010">}}&#34;</span>&gt;Music&lt;/<span style="color:#f92672">a</span>&gt; 
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">section</span>&gt; 
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">blockquote</span>&gt; 
+</span></span></code></pre></div><h2 id="parameters">Parameters</h2>
+<p>On a tiktok video when you select &ldquo;Share&rdquo; there will be an option to Embed</p>
     </div>
   </div>
 </div>
