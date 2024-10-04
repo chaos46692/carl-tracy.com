@@ -1,78 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>media on Carl&#39;s New Website</title>
-    <link>https://carltracy.com/tags/media/</link>
-    <description>Recent content in media on Carl&#39;s New Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Media on Carl&#39;s New Website</title>
+    <link>http://localhost:1313/tags/media/</link>
+    <description>Recent content in Media on Carl&#39;s New Website</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carltracy.com/tags/media/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/media/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unconventional Christmas Movies</title>
+      <link>http://localhost:1313/media/unconventional-christmas/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/media/unconventional-christmas/</guid>
+      <description>&lt;p&gt; &#xD;&#xA;&#xD;&#xA;&lt;style&gt;&#xD;&#xA;    h3 {&#xD;&#xA;        margin-top: 0.5em!important;&#xD;&#xA;        line-height: 1;&#xD;&#xA;        padding: 0;&#xD;&#xA;        margin-bottom:0!important;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    h1, h2 {&#xD;&#xA;        margin-top: 1.2em!important;&#xD;&#xA;        line-height: 1;&#xD;&#xA;        padding: 0;&#xD;&#xA;        margin-bottom:0!important;&#xD;&#xA;    }&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&#xA;I like unconventional stories and I especially love a good movie that turns normal conventions on it&amp;rsquo;s head.&#xA;I&amp;rsquo;ve separated this into two sections - my absolute favorites / go to holiday season movies, followed by&#xA;other movies as we watch them. This will probably take me most of December to write so it will morph over time.&lt;/p&gt;&#xA;&lt;p&gt;We already had a good start of our favorite unconventional Christmas movies and because it&amp;rsquo;s sort of our thing&#xA;our friend Louise sent &lt;a href=&#34;https://www.goodhousekeeping.com/holidays/christmas-ideas/g29994860/best-christmas-horror-movies/&#34; target=&#34;_blank&#34; &gt;this list&lt;/a&gt;&#xD;&#xA; &#xA;to us and we started watching even more!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>What Books I&#39;m Reading 2023</title>
-      <link>https://carltracy.com/media/books-23/</link>
-      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://carltracy.com/media/books-23/</guid>
-      <description>&lt;style&gt;
-    h3 {
-        margin-top: 0.5em!important;
-        line-height: 1;
-        padding: 0;
-        margin-bottom:0!important;
-    }
-
-    h1, h2 {
-        margin-top: 1.2em!important;
-        line-height: 1;
-        padding: 0;
-        margin-bottom:0!important;
-    }
-&lt;/style&gt;
-
-
-&lt;p&gt;Once again inspired by my friend &lt;a href=&#34;https://jenmyers.net&#34;&gt;Jen&lt;/a&gt;, here is the media I&amp;rsquo;ve been consuming. I&amp;rsquo;m still on the &lt;a href=&#34;https://www.audible.com/&#34;&gt;Audible&lt;/a&gt;
-train and at their maximum subscriber level and buying books when they go on sale to boot. I love listening to books while I commute / travel. In the past
-I would get annoyed when Waze would butt in with commentary, but now I&amp;rsquo;ve started to find it amusing. So many random insertions &lt;em&gt;Arkady said &lt;em&gt;in one mile, use the
-right lane to turn right at the light&lt;/em&gt;&lt;/em&gt;. I laugh every time.&lt;/p&gt;</description>
+      <link>http://localhost:1313/media/books-23/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/media/books-23/</guid>
+      <description>&lt;style&gt;&#xD;&#xA;    h3 {&#xD;&#xA;        margin-top: 0.5em!important;&#xD;&#xA;        line-height: 1;&#xD;&#xA;        padding: 0;&#xD;&#xA;        margin-bottom:0!important;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    h1, h2 {&#xD;&#xA;        margin-top: 1.2em!important;&#xD;&#xA;        line-height: 1;&#xD;&#xA;        padding: 0;&#xD;&#xA;        margin-bottom:0!important;&#xD;&#xA;    }&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;p&gt;Once again inspired by my friend &lt;a href=&#34;https://jenmyers.net&#34; target=&#34;_blank&#34; &gt;Jen&lt;/a&gt;&#xD;&#xA; , here is the media I&amp;rsquo;ve been consuming. I&amp;rsquo;m still on the &lt;a href=&#34;https://www.audible.com/&#34; target=&#34;_blank&#34; &gt;Audible&lt;/a&gt;&#xD;&#xA; &#xA;train and at their maximum subscriber level and buying books when they go on sale to boot. I love listening to books while I commute / travel. In the past&#xA;I would get annoyed when Waze would butt in with commentary, but now I&amp;rsquo;ve started to find it amusing. So many random insertions &lt;em&gt;Arkady said &lt;em&gt;in one mile, use the&#xA;right lane to turn right at the light&lt;/em&gt;&lt;/em&gt;. I laugh every time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Media</title>
-      <link>https://carltracy.com/posts/media/</link>
+      <link>http://localhost:1313/posts/media-23/</link>
+      <pubDate>Tue, 05 Dec 2023 11:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/media-23/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Stack of Books&#34; src=&#34;http://localhost:1313/images/books.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Well it&amp;rsquo;s the end of the year so it&amp;rsquo;s that time that I tell you to go check out my media wrap up for the year!  Inspired by my friend  &lt;a href=&#34;https://jenmyers.net&#34; target=&#34;_blank&#34; &gt;Jen&lt;/a&gt;&#xD;&#xA;  I started&#xA;a media log, or at least keeping some kind of track of all the books I read, Jen catalogs all her media and I am not nearly that organized or ambitious. &lt;em&gt;However&lt;/em&gt;, I did&#xA;add a new entry this year for &lt;a href=&#34;http://localhost:1313/media/unconventional-christmas/&#34; &gt;Unconventional Christmas Movies&lt;/a&gt;&#xD;&#xA;  where I ramble on about Christmas horror movies in addition&#xA;to my &lt;a href=&#34;http://localhost:1313/media/books-23/&#34; &gt;annual book writeup&lt;/a&gt;&#xD;&#xA;   (that usually gets procrastinated until the end of the year lol)&lt;/p&gt;&#xA;&lt;p&gt;You can check out the entirety of my media log &lt;a href=&#34;http://localhost:1313/media/&#34; &gt;here&lt;/a&gt;&#xD;&#xA; &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Die Hard is a Christmas Movie</title>
+      <link>http://localhost:1313/posts/diehard/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/diehard/</guid>
+      <description>&lt;h2 id=&#34;die-hard-is-a-christmas-movie&#34;&gt;Die Hard is a Christmas Movie&lt;/h2&gt;&#xA;&lt;p&gt;I said what I said. Read more of my weird assed takes on Christmas movies in my post &lt;a href=&#34;http://localhost:1313/media/unconventional-christmas/&#34; &gt;Unconventional Christmas Movies&lt;/a&gt;&#xD;&#xA; &lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/diehard.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Media</title>
+      <link>http://localhost:1313/posts/media/</link>
       <pubDate>Sun, 29 Jan 2023 12:13:53 -0500</pubDate>
-      <guid>https://carltracy.com/posts/media/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://carltracy.com/images/books.webp&#34; alt=&#34;Stack of Books&#34;&gt;&lt;/p&gt;
-&lt;p&gt;In 2022 I started listening to audio books on Audible and I read a &lt;em&gt;lot&lt;/em&gt; of books. Inspired by my friend  &lt;a href=&#34;https://jenmyers.net&#34;&gt;Jen&lt;/a&gt; I started
-a media log. Jen catalogs all her media and I am not nearly that ambitious and I actually wanted to start writing short reviews and that really
-doesn&amp;rsquo;t work with my work load/ADHD. So for the most part my media log is more like a running list of very short summaries of books I&amp;rsquo;ve read.
-I am certain that nobody really gives a shit but I&amp;rsquo;m not doing this for them anyway =)&lt;/p&gt;
-&lt;p&gt;You can check out my media log &lt;a href=&#34;https://carltracy.com/media/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/media/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Stack of Books&#34; src=&#34;http://localhost:1313/images/books.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;In 2022 I started listening to audio books on Audible and I read a &lt;em&gt;lot&lt;/em&gt; of books. Inspired by my friend  &lt;a href=&#34;https://jenmyers.net&#34; target=&#34;_blank&#34; &gt;Jen&lt;/a&gt;&#xD;&#xA;  I started&#xA;a media log. Jen catalogs all her media and I am not nearly that ambitious and I actually wanted to start writing short reviews and that really&#xA;doesn&amp;rsquo;t work with my work load/ADHD. So for the most part my media log is more like a running list of very short summaries of books I&amp;rsquo;ve read.&#xA;I am certain that nobody really gives a shit but I&amp;rsquo;m not doing this for them anyway =)&lt;/p&gt;&#xA;&lt;p&gt;You can check out my media log &lt;a href=&#34;http://localhost:1313/media/&#34; &gt;here&lt;/a&gt;&#xD;&#xA; &lt;/p&gt;</description>
     </item>
     <item>
       <title>What Books I&#39;m Reading 2022</title>
-      <link>https://carltracy.com/media/books-22/</link>
+      <link>http://localhost:1313/media/books-22/</link>
       <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://carltracy.com/media/books-22/</guid>
-      <description>&lt;p&gt; 
-
-&lt;style&gt;
-    h3 {
-        margin-top: 0.5em!important;
-        line-height: 1;
-        padding: 0;
-        margin-bottom:0!important;
-    }
-
-    h1, h2 {
-        margin-top: 1.2em!important;
-        line-height: 1;
-        padding: 0;
-        margin-bottom:0!important;
-    }
-&lt;/style&gt;
-
-Inspired by my friend &lt;a href=&#34;https://jenmyers.net&#34;&gt;Jen&lt;/a&gt;, here is the media I&amp;rsquo;ve been consuming. I&amp;rsquo;ve always had a hard time reading books and recently started
-using &lt;a href=&#34;https://www.audible.com/&#34;&gt;Audible&lt;/a&gt; to listen to audio books. I had put it off for a long time, figuring that I wouldn&amp;rsquo;t use it and I would just
-waste money. Oh boy was I wrong. I burned through tons of books and very much outpaced the one credit a month I got from Audible.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/media/books-22/</guid>
+      <description>&lt;p&gt; &#xD;&#xA;&#xD;&#xA;&lt;style&gt;&#xD;&#xA;    h3 {&#xD;&#xA;        margin-top: 0.5em!important;&#xD;&#xA;        line-height: 1;&#xD;&#xA;        padding: 0;&#xD;&#xA;        margin-bottom:0!important;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    h1, h2 {&#xD;&#xA;        margin-top: 1.2em!important;&#xD;&#xA;        line-height: 1;&#xD;&#xA;        padding: 0;&#xD;&#xA;        margin-bottom:0!important;&#xD;&#xA;    }&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&#xA;Inspired by my friend &lt;a href=&#34;https://jenmyers.net&#34; target=&#34;_blank&#34; &gt;Jen&lt;/a&gt;&#xD;&#xA; , here is the media I&amp;rsquo;ve been consuming. I&amp;rsquo;ve always had a hard time reading books and recently started&#xA;using &lt;a href=&#34;https://www.audible.com/&#34; target=&#34;_blank&#34; &gt;Audible&lt;/a&gt;&#xD;&#xA;  to listen to audio books. I had put it off for a long time, figuring that I wouldn&amp;rsquo;t use it and I would just&#xA;waste money. Oh boy was I wrong. I burned through tons of books and very much outpaced the one credit a month I got from Audible.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,10 @@
+Watching for changes in C:\Users\carlt\code\carl-tracy.com\{archetypes,content,layouts,static,themes}
+Watching for config changes in C:\Users\carlt\code\carl-tracy.com\config.toml, C:\Users\carlt\code\carl-tracy.com\themes\ananke\config.yaml
+Start building sites … 
+hugo v0.134.0-77df7bbbff8ce6b56ed693270088de973a87d5ce windows/amd64 BuildDate=2024-09-03T09:54:22Z VendorInfo=gohugoio
+
+WARN  Google Analytics 4 (GA4) replaced Google Universal Analytics (UA) effective 1 July 2023. See https://support.google.com/analytics/answer/11583528. Create a GA4 property and data stream, then replace the Google Analytics ID in your site configuration with the new value.
+WARN  deprecated: .Site.Social was deprecated in Hugo v0.124.0 and will be removed in a future release. Use .Site.Params instead.
+ERROR deprecated: .Site.DisqusShortname was deprecated in Hugo v0.120.0 and will be removed in Hugo 0.135.0. Use .Site.Config.Services.Disqus.Shortname instead.
+Built in 195 ms
+Error: error building site: logged 1 error(s)

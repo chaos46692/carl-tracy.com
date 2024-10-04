@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on Carl&#39;s New Website</title>
+    <link>http://localhost:1313/tags/code/</link>
+    <description>Recent content in Code on Carl&#39;s New Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 14 Aug 2024 12:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Building the VOR Rehab App</title>
+      <link>http://localhost:1313/posts/vor-app-build/</link>
+      <pubDate>Wed, 14 Aug 2024 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/vor-app-build/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/default.min.css&#34;&gt;&#xD;&#xA;&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&lt;style&gt;&#xD;&#xA;    pre {&#xD;&#xA;        font-size: 10pt;&#xD;&#xA;        font-weight: normal;&#xD;&#xA;    }&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&#xA;&lt;p&gt;Previously I had build a &lt;a href=&#34;http://localhost:1313/posts/vor-exercise/&#34; &gt;Vestibulo-ocular Reflex Therapy App&lt;/a&gt;&#xD;&#xA; . I had put the details about building it&#xA;in the page, but it got kind of long after I started adding features so I figured why have one article when you can have two, right?&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-form&#34;&gt;The Form&lt;/h3&gt;&#xA;&lt;p&gt;The first thing we need is a form. Each of the inputs will call a javascript function to perform it&amp;rsquo;s function. The&#xA;tempo can be input with a slider or a text box, and each will update the other. We also need a time limit and a&#xA;font scale. If I knew a better way to calculate the actual size of the letter on the screen I could get around this,&#xA;but alas I could not figure out a reliable way to do that. Maybe in the future!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>history on Carl&#39;s New Website</title>
-    <link>https://carltracy.com/tags/history/</link>
-    <description>Recent content in history on Carl&#39;s New Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>History on Carl&#39;s New Website</title>
+    <link>http://localhost:1313/tags/history/</link>
+    <description>Recent content in History on Carl&#39;s New Website</description>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Mar 2021 12:45:26 -0500</lastBuildDate>
-    <atom:link href="https://carltracy.com/tags/history/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/history/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>History of carltracy.com</title>
-      <link>https://carltracy.com/posts/history/</link>
+      <link>http://localhost:1313/posts/history/</link>
       <pubDate>Fri, 12 Mar 2021 12:45:26 -0500</pubDate>
-      <guid>https://carltracy.com/posts/history/</guid>
-      <description>Disclaimer First off let me say that I am by no means an authority on web technology, I wanted to re-do my website and part of that is making content. Writing is one of the things that I really suck at doing so I&amp;rsquo;m basically forcing myself to do it here, and part of that is discussing the technologies I&amp;rsquo;ve used over the years to build it.
-How my websites were built The early days Back in the mid to late 90s, around the time I was graduating from college, the web started to become a thing.</description>
+      <guid>http://localhost:1313/posts/history/</guid>
+      <description>&lt;h2 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h2&gt;&#xA;&lt;p&gt;First off let me say that I am by no means an authority on web technology, I wanted to re-do my website and part of that is making content. Writing is one of the things that I really suck at doing so I&amp;rsquo;m basically forcing myself to do it here, and part of that is discussing the technologies I&amp;rsquo;ve used over the years to build it.&lt;/p&gt;&#xA;&lt;h1 id=&#34;how-my-websites-were-built&#34;&gt;How my websites were built&lt;/h1&gt;&#xA;&lt;h2 id=&#34;the-early-days&#34;&gt;The early days&lt;/h2&gt;&#xA;&lt;p&gt;Back in the mid to late 90s, around the time I was graduating from college, the web started to become a thing. It was this neat new tool that would allow you build something that anyone in the world could see. The functionality was pretty limited and a good portion of the content was written in HTML (hypertext markup language), by hand, in text files and had to be set up manually on your system (usually in a directory like ~\public_html\). You had to set permissions and do all sorts of crazy stuff to make it work and even beyond that you had to have &lt;em&gt;access&lt;/em&gt; to a computer system that allowed you to host websites.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

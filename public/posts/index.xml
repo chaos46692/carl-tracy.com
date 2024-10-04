@@ -2,196 +2,158 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carl&#39;s New Website</title>
-    <link>https://carltracy.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content on Carl&#39;s New Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Nov 2023 12:00:00 -0500</lastBuildDate>
-    <atom:link href="https://carltracy.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Oct 2024 14:39:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Craft Whiskey Festival Countdown</title>
+      <link>http://localhost:1313/posts/craft-bourbon-countdown/</link>
+      <pubDate>Wed, 02 Oct 2024 14:39:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/craft-bourbon-countdown/</guid>
+      <description>&lt;script src=&#34;https://cdn.jsdelivr.net/npm/@tsparticles/confetti@3.0.3/tsparticles.confetti.bundle.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&lt;style&gt;&#xD;&#xA;    #WHISKEY {&#xD;&#xA;        font-size: 40pt;&#xD;&#xA;        color: black;&#xD;&#xA;&#xD;&#xA;    }&#xD;&#xA;&lt;/style&gt; &#xD;&#xA;&#xA;&lt;h1 id=&#34;is-it-whiskey-festival-time&#34;&gt;Is It Whiskey Festival Time???&lt;/h1&gt;&#xA;&lt;p&gt;Is it time for the &lt;a href=&#34;https://www.henmick.com/ohio-craft-whiskey-festival&#34; target=&#34;_blank&#34; &gt;Ohio Craft Whiskey Festival&lt;/a&gt;&#xD;&#xA; ??&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> Building the VOR Rehab App</title>
+      <link>http://localhost:1313/posts/vor-app-build/</link>
+      <pubDate>Wed, 14 Aug 2024 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/vor-app-build/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/default.min.css&#34;&gt;&#xD;&#xA;&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&lt;style&gt;&#xD;&#xA;    pre {&#xD;&#xA;        font-size: 10pt;&#xD;&#xA;        font-weight: normal;&#xD;&#xA;    }&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&#xA;&lt;p&gt;Previously I had build a &lt;a href=&#34;http://localhost:1313/posts/vor-exercise/&#34; &gt;Vestibulo-ocular Reflex Therapy App&lt;/a&gt;&#xD;&#xA; . I had put the details about building it&#xA;in the page, but it got kind of long after I started adding features so I figured why have one article when you can have two, right?&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-form&#34;&gt;The Form&lt;/h3&gt;&#xA;&lt;p&gt;The first thing we need is a form. Each of the inputs will call a javascript function to perform it&amp;rsquo;s function. The&#xA;tempo can be input with a slider or a text box, and each will update the other. We also need a time limit and a&#xA;font scale. If I knew a better way to calculate the actual size of the letter on the screen I could get around this,&#xA;but alas I could not figure out a reliable way to do that. Maybe in the future!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> Vestibulo-ocular Reflex Therapy</title>
+      <link>http://localhost:1313/posts/vor-exercise/</link>
+      <pubDate>Fri, 09 Aug 2024 14:39:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/vor-exercise/</guid>
+      <description>&lt;script src=&#34;&#xD;&#xA;https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js&#xD;&#xA;&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&lt;style&gt;&#xD;&#xA;    .target {&#xD;&#xA;        font-size:36pt;&#xD;&#xA;        font-weight:bold;&#xD;&#xA;        position:sticky;&#xD;&#xA;        border: none;  &#xD;&#xA;        background:white;&#xD;&#xA;        width:100%;&#xD;&#xA;        height:100vh;&#xD;&#xA;        top:0;&#xD;&#xA;        left:0;&#xD;&#xA;        z-index:100000;&#xD;&#xA;        text-align: center;&#xD;&#xA;        vertical-align: middle;  &#xD;&#xA;        padding-top:calc(50vh - 30pt);&#xD;&#xA;        display:none;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    .target button {&#xD;&#xA;        font-size:12pt;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    label, button {&#xD;&#xA;        font-weight:bold;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    pre {&#xD;&#xA;        font-size:80%;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    .container {&#xD;&#xA;        position:absolute;&#xD;&#xA;        top:0;&#xD;&#xA;        left:0;&#xD;&#xA;        width:100%;&#xD;&#xA;        height:100%;&#xD;&#xA;        border: none; &#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    #note {&#xD;&#xA;        font-size:12pt;&#xD;&#xA;        font-weight:normal;&#xD;&#xA;        color:black;&#xD;&#xA;        position:absolute;&#xD;&#xA;        top:0;&#xD;&#xA;        left:0;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    #drag{&#xD;&#xA;        border:none; &#xD;&#xA;        display:block;&#xD;&#xA;        position:absolute;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    #TargetSpan{&#xD;&#xA;        border: none;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    .point:hover {&#xD;&#xA;        cursor:pointer;&#xD;&#xA;    }&#xD;&#xA;  &lt;/style&gt; &#xD;&#xA;&lt;!--&#xD;&#xA;&lt;div class=&#39;target&#39; id=&#34;theletter&#34;&gt;A&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;form&gt;&#xD;&#xA;&lt;button type=&#34;button&#34; onclick=&#34;stop();&#34;&gt;Stop&lt;/button&gt;&#xD;&#xA;&lt;/form&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;--&gt;&#xD;&#xA;&#xA;&lt;h2 id=&#34;vor-physical-therapy&#34;&gt;VOR Physical therapy&lt;/h2&gt;&#xA;&lt;p&gt;I recently have had some vestibular issues related to how my &lt;a href=&#34;https://www.physio-pedia.com/Vestibulo-Ocular_Reflex&#34; target=&#34;_blank&#34; &gt;brain and eyes communicate&lt;/a&gt;&#xD;&#xA;  (badly). My issues are basically due to my gaze not locking correctly / some issues with peripheral vision. Once the source of the issues were identified I was given some exercises to do to help with the gaze stabilization.&lt;/p&gt;&#xA;&lt;p&gt;The exercise basically is staring at a letter that is straight in front of me while turning my head side to side&#xA;&lt;a href=&#34;https://youtu.be/Mk7v9r4acQU?t=236&#34; target=&#34;_blank&#34; &gt;like in this video&lt;/a&gt;&#xD;&#xA; . Now I could just download a metronome app for my phone that&amp;rsquo;s going to steal&#xA;my personal information, or I could have way more fun building a javascript app to do it. So I build a javascript app because as we all&#xA;know I&amp;rsquo;m a big giant nerd.&lt;/p&gt;&#xA;&lt;p&gt;You can &lt;a href=&#34;http://localhost:1313/posts/vor-app-build/&#34; &gt;read more about how I built it here&lt;/a&gt;&#xD;&#xA;  test&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Alternative formulation of Weighted Average Life</title>
+      <link>http://localhost:1313/posts/wal-formula/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/wal-formula/</guid>
+      <description>&lt;p&gt;Normally when folks calculate an asset&amp;rsquo;s weighted average life they use the formula&#xA;$$&#xA;WAL = {{\sum_n{n \cdot Prin_n}} \over Par_0}&#xA;$$&#xA;where&#xA;$$&#xA;Par_n = \hbox{Par value at time n} \\[7pt]&#xA;$$&#xA;and&#xA;$$&#xA;Prin_n = \hbox{Principal payment at time n} \\[7pt]&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;In &lt;a href=&#34;http://localhost:1313/posts/mortgage-wal-formula/&#34; &gt;a previous blog post&lt;/a&gt;&#xD;&#xA;  I had presented this formula&#xA;$$&#xA;WAL = {\sum{Par_n} \over Par_0} \\&#xA;$$&#xA;without any context, other than to leave it to the reader to prove.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Advent Calendar 2023</title>
-      <link>https://carltracy.com/posts/advent23/</link>
-      <pubDate>Wed, 22 Nov 2023 12:00:00 -0500</pubDate>
-      <guid>https://carltracy.com/posts/advent23/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://carltracy.com/images/xmaswhiskey.webp&#34; alt=&#34;Advent Calendars&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;advent-calendars&#34;&gt;Advent Calendars&lt;/h2&gt;
-&lt;p&gt;I bought a candy advent calendar for my wife and a whiskey advent calendar for me. I hope to write reviews
-for both every day, but I&amp;rsquo;ll give the over under at April for when I actually write it lol =P&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hénon map</title>
-      <link>https://carltracy.com/posts/henon/</link>
-      <pubDate>Thu, 16 Nov 2023 17:39:00 -0500</pubDate>
-      <guid>https://carltracy.com/posts/henon/</guid>
-      <description>&lt;h2 id=&#34;building-a-hénon-map-with-javascript&#34;&gt;Building a Hénon map with javascript&lt;/h2&gt;
-&lt;p&gt;I first found out about the Hénon map as an undergrad and have loved it ever since. Can I simulate it in javascript? Let&amp;rsquo;s find out!&lt;/p&gt;
-&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/H%C3%A9non_map&#34;&gt;Hénon map&lt;/a&gt; is a dynamical system that exhibits chaotic behavior. It takes two
-parameters a and b. Depending on the values the map can exhibit
- 
- &lt;a href=&#34;javascript:setValues(0.5,0.2);&#34;&gt;periodic&lt;/a&gt; 
-, &lt;a href=&#34;javascript:setValues(1.4,0.2);&#34;&gt;chaotic&lt;/a&gt;  or intermittent  (switching back and forth between
-chaotic and stable orbits).  It is described by the formula:&lt;/p&gt;
-&lt;p&gt;$$
-\begin{aligned}&lt;br&gt;
-x_{n+1} &amp;amp;=  1 - ax_n^2+y_n\\
-y_{n+1}  &amp;amp;= bx_n
-\end{aligned}&lt;br&gt;
-$$&lt;/p&gt;
-&lt;p&gt;The Hénon map is basically taking the x-y plane and stretches, folds and squishes it like kneading bread. For some parameters it will
-tend toward a fixed point or set of points, but for others it exhibits chaotic dynamics - which means that no matter how accurately
-you describe the current position, it will be impossible to predict where it will be in the future (other than within the bounds
-of the attractor).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Wheel o Meditation</title>
-      <link>https://carltracy.com/posts/wheel-o-meditation/</link>
-      <pubDate>Wed, 01 Nov 2023 10:39:00 -0500</pubDate>
-      <guid>https://carltracy.com/posts/wheel-o-meditation/</guid>
-      <description>&lt;h2 id=&#34;my-random-meditation-video-generator&#34;&gt;My Random Meditation Video Generator&lt;/h2&gt;
- 
-
-&lt;style&gt;
-@-webkit-keyframes rotate {
-  from {
-    -webkit-transform: rotate(360deg);
-  }
-  to { 
-    -webkit-transform: rotate(0deg);
-  }
-}
-
-.spin {
-    -webkit-animation-name:            rotate; 
-    -webkit-animation-duration:        2.0s; 
-    -webkit-animation-iteration-count: infinite;
-    -webkit-animation-timing-function: linear;
-	max-width: 200px;
-	height: auto;
-}
-&lt;/style&gt;
-
-&lt;p class=&#34;spin&#34;&gt;&lt;img src=&#34;https://carltracy.com/images/wheel3.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve been collecting a group of meditation videos on YouTube that I use to manage anxiety. This is mostly a place for me to come, press a button and get a random meditaiton video.
-So if you&amp;rsquo;d like a random meditation video to help with anxiety click the button below!&lt;/p&gt;</description>
+      <link>http://localhost:1313/posts/advent23/</link>
+      <pubDate>Fri, 19 Jan 2024 16:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/advent23/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Advent Calendars&#34; src=&#34;http://localhost:1313/images/xmaswhiskey.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;advent-calendars&#34;&gt;Advent Calendars&lt;/h2&gt;&#xA;&lt;p&gt;I bought a candy advent calendar for my wife and a whiskey advent calendar for me. I hope to write reviews&#xA;for both every day, but I&amp;rsquo;ll give the over under at April for when I actually write it lol =P.&lt;/p&gt;&#xA;&lt;p&gt;In previous years we got Advent calendars for the animals. Funny thing - dog Advent calendars are almost always&#xA;treats, cat advent calendars are almost always toys, and horse Advent calendars… okay those don&amp;rsquo;t exist to my&#xA;knowledge (or would be very expense). At the end of the day we were left with a bunch of cat toys that that the&#xA;cats leave everywhere for the Roomba to eat&lt;/p&gt;&#xA;&lt;p&gt;This year we got the &lt;a href=&#34;https://amzn.to/3GsPj3B&#34; target=&#34;_blank&#34; &gt;Sugarfina Advent Calendar&lt;/a&gt;&#xD;&#xA;  as well as the&#xA;&lt;a href=&#34;https://flaviar.5d3x.net/c/5043138/1891753/3334?prodsku=8792051122458&amp;amp;u=https%3A%2F%2Fflaviar.com%2Fproducts%2Fadvent-calendar-2023-offline&amp;amp;intsrc=PUI2_15277&#34; target=&#34;_blank&#34; &gt;2023 Flaviar Whiskey Advent Calendar&lt;/a&gt;&#xD;&#xA; . I was content to leave the candy to Barb and the&#xA;Whiskey to me, but Barb decided she wants to try whiskey, so now I have to share. At least the calendar came with&#xA;two glasses!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Media</title>
-      <link>https://carltracy.com/posts/media/</link>
+      <link>http://localhost:1313/posts/media-23/</link>
+      <pubDate>Tue, 05 Dec 2023 11:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/media-23/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Stack of Books&#34; src=&#34;http://localhost:1313/images/books.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Well it&amp;rsquo;s the end of the year so it&amp;rsquo;s that time that I tell you to go check out my media wrap up for the year!  Inspired by my friend  &lt;a href=&#34;https://jenmyers.net&#34; target=&#34;_blank&#34; &gt;Jen&lt;/a&gt;&#xD;&#xA;  I started&#xA;a media log, or at least keeping some kind of track of all the books I read, Jen catalogs all her media and I am not nearly that organized or ambitious. &lt;em&gt;However&lt;/em&gt;, I did&#xA;add a new entry this year for &lt;a href=&#34;http://localhost:1313/media/unconventional-christmas/&#34; &gt;Unconventional Christmas Movies&lt;/a&gt;&#xD;&#xA;  where I ramble on about Christmas horror movies in addition&#xA;to my &lt;a href=&#34;http://localhost:1313/media/books-23/&#34; &gt;annual book writeup&lt;/a&gt;&#xD;&#xA;   (that usually gets procrastinated until the end of the year lol)&lt;/p&gt;&#xA;&lt;p&gt;You can check out the entirety of my media log &lt;a href=&#34;http://localhost:1313/media/&#34; &gt;here&lt;/a&gt;&#xD;&#xA; &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Die Hard is a Christmas Movie</title>
+      <link>http://localhost:1313/posts/diehard/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/diehard/</guid>
+      <description>&lt;h2 id=&#34;die-hard-is-a-christmas-movie&#34;&gt;Die Hard is a Christmas Movie&lt;/h2&gt;&#xA;&lt;p&gt;I said what I said. Read more of my weird assed takes on Christmas movies in my post &lt;a href=&#34;http://localhost:1313/media/unconventional-christmas/&#34; &gt;Unconventional Christmas Movies&lt;/a&gt;&#xD;&#xA; &lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/diehard.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hénon map</title>
+      <link>http://localhost:1313/posts/henon/</link>
+      <pubDate>Thu, 16 Nov 2023 17:39:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/henon/</guid>
+      <description>&lt;h2 id=&#34;building-a-hénon-map-with-javascript&#34;&gt;Building a Hénon map with javascript&lt;/h2&gt;&#xA;&lt;p&gt;I first found out about the Hénon map as an undergrad and have loved it ever since. Can I simulate it in javascript? Let&amp;rsquo;s find out!&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/H%C3%A9non_map&#34; target=&#34;_blank&#34; &gt;Hénon map&lt;/a&gt;&#xD;&#xA;  is a dynamical system that exhibits chaotic behavior. It takes two&#xA;parameters a and b. Depending on the values the map can exhibit&#xA; &#xD;&#xA; &lt;a href=&#34;javascript:setValues(0.5,0.2);&#34;&gt;periodic&lt;/a&gt; &#xD;&#xA;, &lt;a href=&#34;javascript:setValues(1.4,0.2);&#34;&gt;chaotic&lt;/a&gt;  or intermittent  (switching back and forth between&#xA;chaotic and stable orbits).  It is described by the formula:&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;\begin{aligned}&lt;br&gt;&#xA;x_{n+1} &amp;amp;=  1 - ax_n^2+y_n\\&#xA;y_{n+1}  &amp;amp;= bx_n&#xA;\end{aligned}&lt;br&gt;&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;The Hénon map is basically taking the x-y plane and stretches, folds and squishes it like kneading bread. For some parameters it will&#xA;tend toward a fixed point or set of points, but for others it exhibits chaotic dynamics - which means that no matter how accurately&#xA;you describe the current position, it will be impossible to predict where it will be in the future (other than within the bounds&#xA;of the attractor).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wheel o Meditation</title>
+      <link>http://localhost:1313/posts/wheel-o-meditation/</link>
+      <pubDate>Wed, 01 Nov 2023 10:39:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/wheel-o-meditation/</guid>
+      <description>&lt;h2 id=&#34;my-random-meditation-video-generator&#34;&gt;My Random Meditation Video Generator&lt;/h2&gt;&#xA; &#xD;&#xA;&#xD;&#xA;&lt;style&gt;&#xD;&#xA;@-webkit-keyframes rotate {&#xD;&#xA;  from {&#xD;&#xA;    -webkit-transform: rotate(-360deg);&#xD;&#xA;  }&#xD;&#xA;  to { &#xD;&#xA;    -webkit-transform: rotate(0deg);&#xD;&#xA;  }&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.spin {&#xD;&#xA;    -webkit-animation-name:            rotate; &#xD;&#xA;    -webkit-animation-duration:        2.0s; &#xD;&#xA;    -webkit-animation-iteration-count: infinite;&#xD;&#xA;    -webkit-animation-timing-function: linear;&#xD;&#xA;&#x9;max-width: 200px;&#xD;&#xA;&#x9;height: auto;&#xD;&#xA;}&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&#xA;&lt;p class=&#34;spin&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/wheel3.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been collecting a group of meditation videos on YouTube that I use to manage anxiety. This is mostly a place for me to come, press a button and get a random meditaiton video.&#xA;So if you&amp;rsquo;d like a random meditation video to help with anxiety click the button below!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Media</title>
+      <link>http://localhost:1313/posts/media/</link>
       <pubDate>Sun, 29 Jan 2023 12:13:53 -0500</pubDate>
-      <guid>https://carltracy.com/posts/media/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://carltracy.com/images/books.webp&#34; alt=&#34;Stack of Books&#34;&gt;&lt;/p&gt;
-&lt;p&gt;In 2022 I started listening to audio books on Audible and I read a &lt;em&gt;lot&lt;/em&gt; of books. Inspired by my friend  &lt;a href=&#34;https://jenmyers.net&#34;&gt;Jen&lt;/a&gt; I started
-a media log. Jen catalogs all her media and I am not nearly that ambitious and I actually wanted to start writing short reviews and that really
-doesn&amp;rsquo;t work with my work load/ADHD. So for the most part my media log is more like a running list of very short summaries of books I&amp;rsquo;ve read.
-I am certain that nobody really gives a shit but I&amp;rsquo;m not doing this for them anyway =)&lt;/p&gt;
-&lt;p&gt;You can check out my media log &lt;a href=&#34;https://carltracy.com/media/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/media/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Stack of Books&#34; src=&#34;http://localhost:1313/images/books.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;In 2022 I started listening to audio books on Audible and I read a &lt;em&gt;lot&lt;/em&gt; of books. Inspired by my friend  &lt;a href=&#34;https://jenmyers.net&#34; target=&#34;_blank&#34; &gt;Jen&lt;/a&gt;&#xD;&#xA;  I started&#xA;a media log. Jen catalogs all her media and I am not nearly that ambitious and I actually wanted to start writing short reviews and that really&#xA;doesn&amp;rsquo;t work with my work load/ADHD. So for the most part my media log is more like a running list of very short summaries of books I&amp;rsquo;ve read.&#xA;I am certain that nobody really gives a shit but I&amp;rsquo;m not doing this for them anyway =)&lt;/p&gt;&#xA;&lt;p&gt;You can check out my media log &lt;a href=&#34;http://localhost:1313/media/&#34; &gt;here&lt;/a&gt;&#xD;&#xA; &lt;/p&gt;</description>
     </item>
     <item>
       <title>Reality Christmas with Over the Rhine</title>
-      <link>https://carltracy.com/posts/reality-christmas/</link>
+      <link>http://localhost:1313/posts/reality-christmas/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://carltracy.com/posts/reality-christmas/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://carltracy.com/images/OtR_2022_xmas.webp&#34; alt=&#34;OtR 2022 Xmas&#34;&gt;&lt;/p&gt;
-&lt;p&gt;My group at work recently got moved to a different department. I don&amp;rsquo;t necessarily view it is a bad thing, but it certainly wasn&amp;rsquo;t expected.
-Being moved from Investments into Risk Management almost certainly makes sense given the type of work that we do, I get to keep my manager
-who is amazing and his new boss is somebody I haven&amp;rsquo;t worked with before, but I knew socially when he worked on our floor and is a pretty
-good guy. One of the nice things about the Risk group is they do a lot more social things, which I appreciate because while I&amp;rsquo;m not
-&lt;em&gt;against&lt;/em&gt; social gatherings, I generally won&amp;rsquo;t think to organize them on my own. So far the events seem to be well thought out and just the
-right amount of fun while also being appropriate for the workplace. This year as part of one of our larger meetings there was a poll about our favorite
-holiday activities, foods, songs, etc. The question about favorite holiday song made me laugh because my favorite holiday songs are almost certainly
-not the same as most folks.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/reality-christmas/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;OtR 2022 Xmas&#34; src=&#34;http://localhost:1313/images/OtR_2022_xmas.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;My group at work recently got moved to a different department. I don&amp;rsquo;t necessarily view it is a bad thing, but it certainly wasn&amp;rsquo;t expected.&#xA;Being moved from Investments into Risk Management almost certainly makes sense given the type of work that we do, I get to keep my manager&#xA;who is amazing and his new boss is somebody I haven&amp;rsquo;t worked with before, but I knew socially when he worked on our floor and is a pretty&#xA;good guy. One of the nice things about the Risk group is they do a lot more social things, which I appreciate because while I&amp;rsquo;m not&#xA;&lt;em&gt;against&lt;/em&gt; social gatherings, I generally won&amp;rsquo;t think to organize them on my own. So far the events seem to be well thought out and just the&#xA;right amount of fun while also being appropriate for the workplace. This year as part of one of our larger meetings there was a poll about our favorite&#xA;holiday activities, foods, songs, etc. The question about favorite holiday song made me laugh because my favorite holiday songs are almost certainly&#xA;not the same as most folks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>We are not a cat rescue</title>
-      <link>https://carltracy.com/posts/not-a-cat-rescue/</link>
+      <link>http://localhost:1313/posts/not-a-cat-rescue/</link>
       <pubDate>Wed, 30 Nov 2022 16:50:38 -0500</pubDate>
-      <guid>https://carltracy.com/posts/not-a-cat-rescue/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://carltracy.com/images/number17.webp&#34; alt=&#34;Number 17&#34;&gt;&lt;/p&gt;
-&lt;p&gt;This is #17. He&amp;rsquo;s named #17 because over the last several years we have caught, neutered and rehomed or released &lt;em&gt;more&lt;/em&gt; than 17 cats (sometimes we get kittens so we end up with 7a, 7b, 7c, 7d - I&amp;rsquo;m pretty sure we entertain the vet office very much). Thankfully our vet is absolutely amazing and gives us a deal when we fix strays. Because we live right off the freeway, are a bit out of Columbus, and because for some damn reason folks think barns are a great place to drop off cats without asking we end up with a lot of cats that get dropped off.  Over the years we&amp;rsquo;ve begun to refer to ourselves as &amp;ldquo;Not a cat rescue&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;If you dear reader have ever considered dropping your cat off in the country because you couldn&amp;rsquo;t take care of them anymore, please consider a few things:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/not-a-cat-rescue/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Number 17&#34; src=&#34;http://localhost:1313/images/number17.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is #17. He&amp;rsquo;s named #17 because over the last several years we have caught, neutered and rehomed or released &lt;em&gt;more&lt;/em&gt; than 17 cats (sometimes we get kittens so we end up with 7a, 7b, 7c, 7d - I&amp;rsquo;m pretty sure we entertain the vet office very much). Thankfully our vet is absolutely amazing and gives us a deal when we fix strays. Because we live right off the freeway, are a bit out of Columbus, and because for some damn reason folks think barns are a great place to drop off cats without asking we end up with a lot of cats that get dropped off.  Over the years we&amp;rsquo;ve begun to refer to ourselves as &amp;ldquo;Not a cat rescue&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;If you dear reader have ever considered dropping your cat off in the country because you couldn&amp;rsquo;t take care of them anymore, please consider a few things:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hosting from AWS with GitHub</title>
-      <link>https://carltracy.com/posts/hosting-from-github-with-aws/</link>
+      <link>http://localhost:1313/posts/hosting-from-github-with-aws/</link>
       <pubDate>Sun, 06 Nov 2022 09:02:38 -0500</pubDate>
-      <guid>https://carltracy.com/posts/hosting-from-github-with-aws/</guid>
-      <description>Back at it again Well I certainly haven&amp;rsquo;t done much with this lately. Part of that is I just feel like I didn&amp;rsquo;t have much to say and part of it is the setup I had was a little too much of a pain to deploy. Because, you know, actually having to log in and push 2 or 3 buttons is so much of a pain. Anyway, I got a bug up my butt and figured out how to build things with AWS and GitHub and did a small project over at Evil Peep which has been sitting dormant for around 12 years.</description>
+      <guid>http://localhost:1313/posts/hosting-from-github-with-aws/</guid>
+      <description>&lt;h1 id=&#34;back-at-it-again&#34;&gt;Back at it again&lt;/h1&gt;&#xA;&lt;p&gt;Well I certainly haven&amp;rsquo;t done much with this lately. Part of that is I just feel like I didn&amp;rsquo;t have much to say and part of it is the setup I had was a little too much of a pain to deploy.&#xA;Because, you know, actually having to log in and push 2 or 3 buttons is &lt;strong&gt;so&lt;/strong&gt; much of a pain. Anyway, I got a bug up my butt and figured out how to build things with AWS and GitHub and did&#xA;a small project over at &lt;a href=&#34;https://www.evilpeep.com&#34; target=&#34;_blank&#34; &gt;Evil Peep&lt;/a&gt;&#xD;&#xA;  which has been sitting dormant for around 12 years. I figured while I was at it I might was well implement it for my site&#xA;and use the opportunity to move from my old domain to this one! While I&amp;rsquo;m at it I figured I&amp;rsquo;d document what I did to make it all work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>History of carltracy.com</title>
-      <link>https://carltracy.com/posts/history/</link>
+      <link>http://localhost:1313/posts/history/</link>
       <pubDate>Fri, 12 Mar 2021 12:45:26 -0500</pubDate>
-      <guid>https://carltracy.com/posts/history/</guid>
-      <description>Disclaimer First off let me say that I am by no means an authority on web technology, I wanted to re-do my website and part of that is making content. Writing is one of the things that I really suck at doing so I&amp;rsquo;m basically forcing myself to do it here, and part of that is discussing the technologies I&amp;rsquo;ve used over the years to build it.
-How my websites were built The early days Back in the mid to late 90s, around the time I was graduating from college, the web started to become a thing.</description>
+      <guid>http://localhost:1313/posts/history/</guid>
+      <description>&lt;h2 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h2&gt;&#xA;&lt;p&gt;First off let me say that I am by no means an authority on web technology, I wanted to re-do my website and part of that is making content. Writing is one of the things that I really suck at doing so I&amp;rsquo;m basically forcing myself to do it here, and part of that is discussing the technologies I&amp;rsquo;ve used over the years to build it.&lt;/p&gt;&#xA;&lt;h1 id=&#34;how-my-websites-were-built&#34;&gt;How my websites were built&lt;/h1&gt;&#xA;&lt;h2 id=&#34;the-early-days&#34;&gt;The early days&lt;/h2&gt;&#xA;&lt;p&gt;Back in the mid to late 90s, around the time I was graduating from college, the web started to become a thing. It was this neat new tool that would allow you build something that anyone in the world could see. The functionality was pretty limited and a good portion of the content was written in HTML (hypertext markup language), by hand, in text files and had to be set up manually on your system (usually in a directory like ~\public_html\). You had to set permissions and do all sorts of crazy stuff to make it work and even beyond that you had to have &lt;em&gt;access&lt;/em&gt; to a computer system that allowed you to host websites.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tiktok Shortcode for Hugo</title>
-      <link>https://carltracy.com/posts/tiktok-shortcode-for-hugo/</link>
+      <link>http://localhost:1313/posts/tiktok-shortcode-for-hugo/</link>
       <pubDate>Wed, 10 Mar 2021 10:15:30 -0500</pubDate>
-      <guid>https://carltracy.com/posts/tiktok-shortcode-for-hugo/</guid>
-      <description>Tiktok shortcode for Hugo When i was trying to post my adorable Tiktok of a wee baby duck that was just hatching, I couldn&amp;rsquo;t find anything about embedding Tiktoks into Hugo. I tried just pasting the embed code into a markdown page, but it didn&amp;rsquo;t work so I wrote a quick and dirty shortcode to do it:
-tiktok.html: Save this code in \layouts\shortcodes\tiktok.html
-&amp;lt;script async src=&amp;#34;https://www.tiktok.com/embed.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;blockquote class=&amp;#34;tiktok-embed&amp;#34; cite=&amp;#34;https://www.tiktok.com/{{ .Get &amp;#34;usr&amp;#34; }}/video/{{ .</description>
+      <guid>http://localhost:1313/posts/tiktok-shortcode-for-hugo/</guid>
+      <description>&lt;h1 id=&#34;tiktok-shortcode-for-hugo&#34;&gt;Tiktok shortcode for Hugo&lt;/h1&gt;&#xA;&lt;p&gt;When i was trying to post my &lt;strong&gt;adorable&lt;/strong&gt; &lt;a href=&#34;http://localhost:1313/posts/baby-duck/&#34; &gt;Tiktok of a wee baby duck&lt;/a&gt;&#xD;&#xA;   that was just hatching, I couldn&amp;rsquo;t find anything about embedding Tiktoks into Hugo. I tried just pasting the embed code into a markdown page, but it didn&amp;rsquo;t work so I wrote a quick and dirty shortcode to do it:&lt;/p&gt;&#xA;&lt;h2 id=&#34;tiktokhtml&#34;&gt;tiktok.html:&lt;/h2&gt;&#xA;&lt;p&gt;Save this code in \layouts\shortcodes\tiktok.html&lt;/p&gt;</description>
     </item>
     <item>
       <title>Baby Duck</title>
-      <link>https://carltracy.com/posts/baby-duck/</link>
+      <link>http://localhost:1313/posts/baby-duck/</link>
       <pubDate>Wed, 10 Mar 2021 10:02:03 -0500</pubDate>
-      <guid>https://carltracy.com/posts/baby-duck/</guid>
-      <description>&lt;h2 id=&#34;please-enjoy-this-tiktok-of-a-baby-duck-hatching-&#34;&gt;Please enjoy this Tiktok of a baby duck hatching =)&lt;/h2&gt;
-
-&lt;script async src=&#34;https://www.tiktok.com/embed.js&#34;&gt;&lt;/script&gt; 
-
-
-&lt;blockquote class=&#34;tiktok-embed&#34; cite=&#34;https://www.tiktok.com/@chaos46692/video/6938028068116237573&#34; data-video-id=&#34;6938028068116237573&#34; style=&#34;max-width: 605px;min-width: 325px;&#34; &gt; 
-	&lt;section&gt; 
-		&lt;a target=&#34;_blank&#34; title=&#34;@chaos46692&#34; href=&#34;https://www.tiktok.com/@chaos46692&#34;&gt;@chaos46692&lt;/a&gt; 
-		&lt;p&gt;&lt;/p&gt; 
-		&lt;a target=&#34;_blank&#34; title=&#34;Music&#34; href=&#34;https://www.tiktok.com/music/ily-i-love-you-baby-6798329661525854210&#34;&gt;Music&lt;/a&gt; 
-	&lt;/section&gt; 
-&lt;/blockquote&gt;</description>
+      <guid>http://localhost:1313/posts/baby-duck/</guid>
+      <description>&lt;h2 id=&#34;please-enjoy-this-tiktok-of-a-baby-duck-hatching-&#34;&gt;Please enjoy this Tiktok of a baby duck hatching =)&lt;/h2&gt;&#xA;&#xD;&#xA;&lt;script async src=&#34;https://www.tiktok.com/embed.js&#34;&gt;&lt;/script&gt; &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;blockquote class=&#34;tiktok-embed&#34; cite=&#34;https://www.tiktok.com/@chaos46692/video/6938028068116237573&#34; data-video-id=&#34;6938028068116237573&#34; style=&#34;max-width: 605px;min-width: 325px;&#34; &gt; &#xD;&#xA;&#x9;&lt;section&gt; &#xD;&#xA;&#x9;&#x9;&lt;a target=&#34;_blank&#34; title=&#34;@chaos46692&#34; href=&#34;https://www.tiktok.com/@chaos46692&#34;&gt;@chaos46692&lt;/a&gt; &#xD;&#xA;&#x9;&#x9;&lt;p&gt;&lt;/p&gt; &#xD;&#xA;&#x9;&#x9;&lt;a target=&#34;_blank&#34; title=&#34;Music&#34; href=&#34;https://www.tiktok.com/music/ily-i-love-you-baby-6798329661525854210&#34;&gt;Music&lt;/a&gt; &#xD;&#xA;&#x9;&lt;/section&gt; &#xD;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Formula for the Weighted Average Life of a Mortgage</title>
-      <link>https://carltracy.com/posts/mortgage-wal-formula/</link>
+      <link>http://localhost:1313/posts/mortgage-wal-formula/</link>
       <pubDate>Mon, 08 Mar 2021 11:35:08 -0500</pubDate>
-      <guid>https://carltracy.com/posts/mortgage-wal-formula/</guid>
-      <description>A while ago for work I had created a process that required a formula for the weighted average life (WAL) of a mortgage with level payments. I found one online:
-$$ W = N D_N - \frac{1}{r} $$
-where:
-$$ \begin{aligned}
-d &amp;amp;= { 1 \over 1 + r} = \hbox{one month discount factor} \\[7pt] r &amp;amp;= {a \over 12} = \hbox{monthly discount} \\[10pt] N &amp;amp;= \hbox{Loan period in months} \\[10pt] D_n &amp;amp;= {1 \over 1-d^n} \end{aligned}</description>
+      <guid>http://localhost:1313/posts/mortgage-wal-formula/</guid>
+      <description>&lt;p&gt;A while ago for work I had created a process that required a formula for the weighted average life (WAL) of a mortgage with level payments. I found one online:&lt;/p&gt;&#xA;&lt;p&gt;$$ W = N D_N - \frac{1}{r} $$&lt;/p&gt;&#xA;&lt;p&gt;where:&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;\begin{aligned}&lt;br&gt;&#xA;d &amp;amp;= { 1 \over 1 + r} = \hbox{one month discount factor} \\[7pt]&#xA;r &amp;amp;= {a \over 12} = \hbox{monthly discount} \\[10pt]&#xA;N &amp;amp;= \hbox{Loan period in months}  \\[10pt]&#xA;D_n &amp;amp;= {1 \over 1-d^n}&#xA;\end{aligned}&lt;br&gt;&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;That formula is pretty convenient because it means given a rate and a WAL we can solve pretty easily for how long the loan has to be in order to have a particular WAL without doing a bunch of infinite sums. So where does that fomula come from? Originally I found it &lt;a href=&#34;https://welltemperedspreadsheet.wordpress.com/2011/07/14/fast-formulas-1-average-life-of-mortgage-as-scheduled/&#34; target=&#34;_blank&#34; &gt;here&lt;/a&gt;&#xD;&#xA; , but I wanted to see if I could derive it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Setting Up Hugo with SSL and MathJax</title>
-      <link>https://carltracy.com/posts/setting-up-hugo/</link>
+      <link>http://localhost:1313/posts/setting-up-hugo/</link>
       <pubDate>Sat, 06 Mar 2021 09:44:41 -0500</pubDate>
-      <guid>https://carltracy.com/posts/setting-up-hugo/</guid>
-      <description>I&amp;rsquo;ve had a lot of fun setting up Hugo to set it up how I want. I will caveat this with a few things - I tried to do things the right way (not editing the theme directly) but I&amp;rsquo;m really really really fucking impatient and in a lot of cases I just edited the theme because I don&amp;rsquo;t want to deal with this shit. I&amp;rsquo;m never going to update it so screw it.</description>
+      <guid>http://localhost:1313/posts/setting-up-hugo/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve had a lot of fun setting up Hugo to set it up how I want. I will caveat this with a few things - I &lt;em&gt;tried&lt;/em&gt; to do things the right way (not editing the theme directly) but I&amp;rsquo;m  &lt;em&gt;really&lt;/em&gt; &lt;strong&gt;really&lt;/strong&gt; &lt;em&gt;&lt;strong&gt;really&lt;/strong&gt;&lt;/em&gt; fucking impatient and in a lot of cases I just edited the theme because I don&amp;rsquo;t want to deal with this shit. I&amp;rsquo;m never going to update it so screw it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Setting Up an SSL cetificate</title>
-      <link>https://carltracy.com/posts/setting-up-ssl/</link>
+      <link>http://localhost:1313/posts/setting-up-ssl/</link>
       <pubDate>Sat, 06 Mar 2021 09:02:38 -0500</pubDate>
-      <guid>https://carltracy.com/posts/setting-up-ssl/</guid>
-      <description>While setting up this website I was constantly greeted by this in my address bar:
-I have no real reason for it to piss me off but it surely did. This must be remedied.
-My hosting is different from my registrar/DNS so accomplishing it took a little more work than it might if you have all that stuff in one place. I use namecheap as my registrar/DNS and HostPapa for my hosting (mostly because I used to use Lunarpages and they got bought by HostPapa).</description>
+      <guid>http://localhost:1313/posts/setting-up-ssl/</guid>
+      <description>&lt;p&gt;While setting up this website I was constantly greeted by this in my address bar:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;site not secure&#34; src=&#34;http://localhost:1313/images/not-secure.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I have no real reason for it to piss me off but it surely did. This must be remedied.&lt;/p&gt;&#xA;&lt;p&gt;My hosting is different from my registrar/DNS so accomplishing it took a little more work than it might if you have all that stuff in one place.  I use &lt;a href=&#34;http://namecheap.com/&#34; target=&#34;_blank&#34; &gt;namecheap&lt;/a&gt;&#xD;&#xA;  as my registrar/DNS and &lt;a href=&#34;https://www.hostpapa.com/&#34; target=&#34;_blank&#34; &gt;HostPapa&lt;/a&gt;&#xD;&#xA;  for my hosting (mostly because I used to use Lunarpages and they got bought by HostPapa). I don&amp;rsquo;t necessarily recommend any of these services - I am lazy and interia accounts for &lt;em&gt;a lot&lt;/em&gt; of why I&amp;rsquo;m with them, I&amp;rsquo;m just telling you where I&amp;rsquo;m coming from.&lt;/p&gt;</description>
     </item>
     <item>
       <title>It Worked</title>
-      <link>https://carltracy.com/posts/it-worked/</link>
+      <link>http://localhost:1313/posts/it-worked/</link>
       <pubDate>Wed, 03 Mar 2021 17:02:14 -0500</pubDate>
-      <guid>https://carltracy.com/posts/it-worked/</guid>
-      <description>Well hey look it worked! That&amp;rsquo;s pretty rad. I don&amp;rsquo;t have a lot to add to this, mostly this post is to make sure the script that I wrote to autobuild and commit to [GitHub](git commit -a &amp;ndash;allow-empty-message) works =)</description>
+      <guid>http://localhost:1313/posts/it-worked/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Well hey look it worked!&lt;/strong&gt;&lt;/em&gt; That&amp;rsquo;s pretty rad. I don&amp;rsquo;t have a lot to add to this, mostly this post is to make sure the script that I wrote to autobuild and commit to [GitHub](git commit -a &amp;ndash;allow-empty-message) works =)&lt;/p&gt;</description>
     </item>
     <item>
       <title>It&#39;s Alive</title>
-      <link>https://carltracy.com/posts/it-is-alive/</link>
+      <link>http://localhost:1313/posts/it-is-alive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://carltracy.com/posts/it-is-alive/</guid>
-      <description>Hello World! It&amp;rsquo;s been a while since I did anything with this site. I finally got around to building something with Hugo. I kind of dig the idea of a static site generator but I generally run Windows machines so it was kind of a pain in the ass. I finally got around to installing Linux Mint on a virtual machine so now it was much easier to check out.</description>
+      <guid>http://localhost:1313/posts/it-is-alive/</guid>
+      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h2&gt;&#xA;&lt;p&gt;It&amp;rsquo;s been a while since I did anything with this site. I finally got around to building something with &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; &gt;Hugo&lt;/a&gt;&#xD;&#xA; . I kind of dig the idea of a static site generator but I generally run Windows machines so it was kind of a pain in the ass. I finally got around to installing &lt;a href=&#34;https://linuxmint.com/&#34; target=&#34;_blank&#34; &gt;Linux Mint&lt;/a&gt;&#xD;&#xA;  on a virtual machine so now it was much easier to check out.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

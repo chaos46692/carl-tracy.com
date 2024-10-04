@@ -2,73 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Carl&#39;s New Website</title>
-    <link>https://carltracy.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Carl&#39;s New Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carltracy.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Oct 2024 14:39:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>books</title>
-      <link>https://carltracy.com/categories/books/</link>
-      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://carltracy.com/categories/books/</guid>
+      <title>Nerd</title>
+      <link>http://localhost:1313/categories/nerd/</link>
+      <pubDate>Wed, 02 Oct 2024 14:39:00 -0500</pubDate>
+      <guid>http://localhost:1313/categories/nerd/</guid>
       <description></description>
     </item>
     <item>
-      <title>advent calendar</title>
-      <link>https://carltracy.com/categories/advent-calendar/</link>
-      <pubDate>Wed, 22 Nov 2023 12:00:00 -0500</pubDate>
-      <guid>https://carltracy.com/categories/advent-calendar/</guid>
+      <title>Advent Calendar</title>
+      <link>http://localhost:1313/categories/advent-calendar/</link>
+      <pubDate>Fri, 19 Jan 2024 16:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/categories/advent-calendar/</guid>
       <description></description>
     </item>
     <item>
-      <title>nerd</title>
-      <link>https://carltracy.com/categories/nerd/</link>
-      <pubDate>Wed, 22 Nov 2023 12:00:00 -0500</pubDate>
-      <guid>https://carltracy.com/categories/nerd/</guid>
+      <title>Whiskey</title>
+      <link>http://localhost:1313/categories/whiskey/</link>
+      <pubDate>Fri, 19 Jan 2024 16:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/categories/whiskey/</guid>
       <description></description>
     </item>
     <item>
-      <title>whiskey</title>
-      <link>https://carltracy.com/categories/whiskey/</link>
-      <pubDate>Wed, 22 Nov 2023 12:00:00 -0500</pubDate>
-      <guid>https://carltracy.com/categories/whiskey/</guid>
+      <title>Movies</title>
+      <link>http://localhost:1313/categories/movies/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/movies/</guid>
       <description></description>
     </item>
     <item>
-      <title>math</title>
-      <link>https://carltracy.com/categories/math/</link>
+      <title>Books</title>
+      <link>http://localhost:1313/categories/books/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Math</title>
+      <link>http://localhost:1313/categories/math/</link>
       <pubDate>Thu, 16 Nov 2023 17:39:00 -0500</pubDate>
-      <guid>https://carltracy.com/categories/math/</guid>
+      <guid>http://localhost:1313/categories/math/</guid>
       <description></description>
     </item>
     <item>
-      <title>mental health</title>
-      <link>https://carltracy.com/categories/mental-health/</link>
+      <title>Mental Health</title>
+      <link>http://localhost:1313/categories/mental-health/</link>
       <pubDate>Wed, 01 Nov 2023 10:39:00 -0500</pubDate>
-      <guid>https://carltracy.com/categories/mental-health/</guid>
+      <guid>http://localhost:1313/categories/mental-health/</guid>
       <description></description>
     </item>
     <item>
-      <title>music</title>
-      <link>https://carltracy.com/categories/music/</link>
+      <title>Music</title>
+      <link>http://localhost:1313/categories/music/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://carltracy.com/categories/music/</guid>
+      <guid>http://localhost:1313/categories/music/</guid>
       <description></description>
     </item>
     <item>
-      <title>animals</title>
-      <link>https://carltracy.com/categories/animals/</link>
+      <title>Animals</title>
+      <link>http://localhost:1313/categories/animals/</link>
       <pubDate>Wed, 30 Nov 2022 16:50:38 -0500</pubDate>
-      <guid>https://carltracy.com/categories/animals/</guid>
+      <guid>http://localhost:1313/categories/animals/</guid>
       <description></description>
     </item>
     <item>
-      <title>farm</title>
-      <link>https://carltracy.com/categories/farm/</link>
+      <title>Farm</title>
+      <link>http://localhost:1313/categories/farm/</link>
       <pubDate>Wed, 10 Mar 2021 10:02:03 -0500</pubDate>
-      <guid>https://carltracy.com/categories/farm/</guid>
+      <guid>http://localhost:1313/categories/farm/</guid>
       <description></description>
     </item>
   </channel>

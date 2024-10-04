@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movies on Carl&#39;s New Website</title>
+    <link>http://localhost:1313/categories/movies/</link>
+    <description>Recent content in Movies on Carl&#39;s New Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 16 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/movies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unconventional Christmas Movies</title>
+      <link>http://localhost:1313/media/unconventional-christmas/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/media/unconventional-christmas/</guid>
+      <description>&lt;p&gt; &#xD;&#xA;&#xD;&#xA;&lt;style&gt;&#xD;&#xA;    h3 {&#xD;&#xA;        margin-top: 0.5em!important;&#xD;&#xA;        line-height: 1;&#xD;&#xA;        padding: 0;&#xD;&#xA;        margin-bottom:0!important;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    h1, h2 {&#xD;&#xA;        margin-top: 1.2em!important;&#xD;&#xA;        line-height: 1;&#xD;&#xA;        padding: 0;&#xD;&#xA;        margin-bottom:0!important;&#xD;&#xA;    }&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&#xA;I like unconventional stories and I especially love a good movie that turns normal conventions on it&amp;rsquo;s head.&#xA;I&amp;rsquo;ve separated this into two sections - my absolute favorites / go to holiday season movies, followed by&#xA;other movies as we watch them. This will probably take me most of December to write so it will morph over time.&lt;/p&gt;&#xA;&lt;p&gt;We already had a good start of our favorite unconventional Christmas movies and because it&amp;rsquo;s sort of our thing&#xA;our friend Louise sent &lt;a href=&#34;https://www.goodhousekeeping.com/holidays/christmas-ideas/g29994860/best-christmas-horror-movies/&#34; target=&#34;_blank&#34; &gt;this list&lt;/a&gt;&#xD;&#xA; &#xA;to us and we started watching even more!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Die Hard is a Christmas Movie</title>
+      <link>http://localhost:1313/posts/diehard/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/diehard/</guid>
+      <description>&lt;h2 id=&#34;die-hard-is-a-christmas-movie&#34;&gt;Die Hard is a Christmas Movie&lt;/h2&gt;&#xA;&lt;p&gt;I said what I said. Read more of my weird assed takes on Christmas movies in my post &lt;a href=&#34;http://localhost:1313/media/unconventional-christmas/&#34; &gt;Unconventional Christmas Movies&lt;/a&gt;&#xD;&#xA; &lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/diehard.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

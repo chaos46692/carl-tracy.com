@@ -1,39 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tiktok on Carl&#39;s New Website</title>
-    <link>https://carltracy.com/tags/tiktok/</link>
-    <description>Recent content in tiktok on Carl&#39;s New Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Tiktok on Carl&#39;s New Website</title>
+    <link>http://localhost:1313/tags/tiktok/</link>
+    <description>Recent content in Tiktok on Carl&#39;s New Website</description>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 10 Mar 2021 10:15:30 -0500</lastBuildDate>
-    <atom:link href="https://carltracy.com/tags/tiktok/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tiktok/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tiktok Shortcode for Hugo</title>
-      <link>https://carltracy.com/posts/tiktok-shortcode-for-hugo/</link>
+      <link>http://localhost:1313/posts/tiktok-shortcode-for-hugo/</link>
       <pubDate>Wed, 10 Mar 2021 10:15:30 -0500</pubDate>
-      <guid>https://carltracy.com/posts/tiktok-shortcode-for-hugo/</guid>
-      <description>Tiktok shortcode for Hugo When i was trying to post my adorable Tiktok of a wee baby duck that was just hatching, I couldn&amp;rsquo;t find anything about embedding Tiktoks into Hugo. I tried just pasting the embed code into a markdown page, but it didn&amp;rsquo;t work so I wrote a quick and dirty shortcode to do it:
-tiktok.html: Save this code in \layouts\shortcodes\tiktok.html
-&amp;lt;script async src=&amp;#34;https://www.tiktok.com/embed.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;blockquote class=&amp;#34;tiktok-embed&amp;#34; cite=&amp;#34;https://www.tiktok.com/{{ .Get &amp;#34;usr&amp;#34; }}/video/{{ .</description>
+      <guid>http://localhost:1313/posts/tiktok-shortcode-for-hugo/</guid>
+      <description>&lt;h1 id=&#34;tiktok-shortcode-for-hugo&#34;&gt;Tiktok shortcode for Hugo&lt;/h1&gt;&#xA;&lt;p&gt;When i was trying to post my &lt;strong&gt;adorable&lt;/strong&gt; &lt;a href=&#34;http://localhost:1313/posts/baby-duck/&#34; &gt;Tiktok of a wee baby duck&lt;/a&gt;&#xD;&#xA;   that was just hatching, I couldn&amp;rsquo;t find anything about embedding Tiktoks into Hugo. I tried just pasting the embed code into a markdown page, but it didn&amp;rsquo;t work so I wrote a quick and dirty shortcode to do it:&lt;/p&gt;&#xA;&lt;h2 id=&#34;tiktokhtml&#34;&gt;tiktok.html:&lt;/h2&gt;&#xA;&lt;p&gt;Save this code in \layouts\shortcodes\tiktok.html&lt;/p&gt;</description>
     </item>
     <item>
       <title>Baby Duck</title>
-      <link>https://carltracy.com/posts/baby-duck/</link>
+      <link>http://localhost:1313/posts/baby-duck/</link>
       <pubDate>Wed, 10 Mar 2021 10:02:03 -0500</pubDate>
-      <guid>https://carltracy.com/posts/baby-duck/</guid>
-      <description>&lt;h2 id=&#34;please-enjoy-this-tiktok-of-a-baby-duck-hatching-&#34;&gt;Please enjoy this Tiktok of a baby duck hatching =)&lt;/h2&gt;
-
-&lt;script async src=&#34;https://www.tiktok.com/embed.js&#34;&gt;&lt;/script&gt; 
-
-
-&lt;blockquote class=&#34;tiktok-embed&#34; cite=&#34;https://www.tiktok.com/@chaos46692/video/6938028068116237573&#34; data-video-id=&#34;6938028068116237573&#34; style=&#34;max-width: 605px;min-width: 325px;&#34; &gt; 
-	&lt;section&gt; 
-		&lt;a target=&#34;_blank&#34; title=&#34;@chaos46692&#34; href=&#34;https://www.tiktok.com/@chaos46692&#34;&gt;@chaos46692&lt;/a&gt; 
-		&lt;p&gt;&lt;/p&gt; 
-		&lt;a target=&#34;_blank&#34; title=&#34;Music&#34; href=&#34;https://www.tiktok.com/music/ily-i-love-you-baby-6798329661525854210&#34;&gt;Music&lt;/a&gt; 
-	&lt;/section&gt; 
-&lt;/blockquote&gt;</description>
+      <guid>http://localhost:1313/posts/baby-duck/</guid>
+      <description>&lt;h2 id=&#34;please-enjoy-this-tiktok-of-a-baby-duck-hatching-&#34;&gt;Please enjoy this Tiktok of a baby duck hatching =)&lt;/h2&gt;&#xA;&#xD;&#xA;&lt;script async src=&#34;https://www.tiktok.com/embed.js&#34;&gt;&lt;/script&gt; &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;blockquote class=&#34;tiktok-embed&#34; cite=&#34;https://www.tiktok.com/@chaos46692/video/6938028068116237573&#34; data-video-id=&#34;6938028068116237573&#34; style=&#34;max-width: 605px;min-width: 325px;&#34; &gt; &#xD;&#xA;&#x9;&lt;section&gt; &#xD;&#xA;&#x9;&#x9;&lt;a target=&#34;_blank&#34; title=&#34;@chaos46692&#34; href=&#34;https://www.tiktok.com/@chaos46692&#34;&gt;@chaos46692&lt;/a&gt; &#xD;&#xA;&#x9;&#x9;&lt;p&gt;&lt;/p&gt; &#xD;&#xA;&#x9;&#x9;&lt;a target=&#34;_blank&#34; title=&#34;Music&#34; href=&#34;https://www.tiktok.com/music/ily-i-love-you-baby-6798329661525854210&#34;&gt;Music&lt;/a&gt; &#xD;&#xA;&#x9;&lt;/section&gt; &#xD;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>
 </rss>

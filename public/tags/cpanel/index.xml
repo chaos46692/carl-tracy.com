@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cPanel on Carl&#39;s New Website</title>
-    <link>https://carltracy.com/tags/cpanel/</link>
-    <description>Recent content in cPanel on Carl&#39;s New Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>CPanel on Carl&#39;s New Website</title>
+    <link>http://localhost:1313/tags/cpanel/</link>
+    <description>Recent content in CPanel on Carl&#39;s New Website</description>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 06 Mar 2021 09:02:38 -0500</lastBuildDate>
-    <atom:link href="https://carltracy.com/tags/cpanel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/cpanel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting Up an SSL cetificate</title>
-      <link>https://carltracy.com/posts/setting-up-ssl/</link>
+      <link>http://localhost:1313/posts/setting-up-ssl/</link>
       <pubDate>Sat, 06 Mar 2021 09:02:38 -0500</pubDate>
-      <guid>https://carltracy.com/posts/setting-up-ssl/</guid>
-      <description>While setting up this website I was constantly greeted by this in my address bar:
-I have no real reason for it to piss me off but it surely did. This must be remedied.
-My hosting is different from my registrar/DNS so accomplishing it took a little more work than it might if you have all that stuff in one place. I use namecheap as my registrar/DNS and HostPapa for my hosting (mostly because I used to use Lunarpages and they got bought by HostPapa).</description>
+      <guid>http://localhost:1313/posts/setting-up-ssl/</guid>
+      <description>&lt;p&gt;While setting up this website I was constantly greeted by this in my address bar:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;site not secure&#34; src=&#34;http://localhost:1313/images/not-secure.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I have no real reason for it to piss me off but it surely did. This must be remedied.&lt;/p&gt;&#xA;&lt;p&gt;My hosting is different from my registrar/DNS so accomplishing it took a little more work than it might if you have all that stuff in one place.  I use &lt;a href=&#34;http://namecheap.com/&#34; target=&#34;_blank&#34; &gt;namecheap&lt;/a&gt;&#xD;&#xA;  as my registrar/DNS and &lt;a href=&#34;https://www.hostpapa.com/&#34; target=&#34;_blank&#34; &gt;HostPapa&lt;/a&gt;&#xD;&#xA;  for my hosting (mostly because I used to use Lunarpages and they got bought by HostPapa). I don&amp;rsquo;t necessarily recommend any of these services - I am lazy and interia accounts for &lt;em&gt;a lot&lt;/em&gt; of why I&amp;rsquo;m with them, I&amp;rsquo;m just telling you where I&amp;rsquo;m coming from.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

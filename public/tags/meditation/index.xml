@@ -1,44 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>meditation on Carl&#39;s New Website</title>
-    <link>https://carltracy.com/tags/meditation/</link>
-    <description>Recent content in meditation on Carl&#39;s New Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Meditation on Carl&#39;s New Website</title>
+    <link>http://localhost:1313/tags/meditation/</link>
+    <description>Recent content in Meditation on Carl&#39;s New Website</description>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 Nov 2023 10:39:00 -0500</lastBuildDate>
-    <atom:link href="https://carltracy.com/tags/meditation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/meditation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wheel o Meditation</title>
-      <link>https://carltracy.com/posts/wheel-o-meditation/</link>
+      <link>http://localhost:1313/posts/wheel-o-meditation/</link>
       <pubDate>Wed, 01 Nov 2023 10:39:00 -0500</pubDate>
-      <guid>https://carltracy.com/posts/wheel-o-meditation/</guid>
-      <description>&lt;h2 id=&#34;my-random-meditation-video-generator&#34;&gt;My Random Meditation Video Generator&lt;/h2&gt;
- 
-
-&lt;style&gt;
-@-webkit-keyframes rotate {
-  from {
-    -webkit-transform: rotate(360deg);
-  }
-  to { 
-    -webkit-transform: rotate(0deg);
-  }
-}
-
-.spin {
-    -webkit-animation-name:            rotate; 
-    -webkit-animation-duration:        2.0s; 
-    -webkit-animation-iteration-count: infinite;
-    -webkit-animation-timing-function: linear;
-	max-width: 200px;
-	height: auto;
-}
-&lt;/style&gt;
-
-&lt;p class=&#34;spin&#34;&gt;&lt;img src=&#34;https://carltracy.com/images/wheel3.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve been collecting a group of meditation videos on YouTube that I use to manage anxiety. This is mostly a place for me to come, press a button and get a random meditaiton video.
-So if you&amp;rsquo;d like a random meditation video to help with anxiety click the button below!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/wheel-o-meditation/</guid>
+      <description>&lt;h2 id=&#34;my-random-meditation-video-generator&#34;&gt;My Random Meditation Video Generator&lt;/h2&gt;&#xA; &#xD;&#xA;&#xD;&#xA;&lt;style&gt;&#xD;&#xA;@-webkit-keyframes rotate {&#xD;&#xA;  from {&#xD;&#xA;    -webkit-transform: rotate(-360deg);&#xD;&#xA;  }&#xD;&#xA;  to { &#xD;&#xA;    -webkit-transform: rotate(0deg);&#xD;&#xA;  }&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.spin {&#xD;&#xA;    -webkit-animation-name:            rotate; &#xD;&#xA;    -webkit-animation-duration:        2.0s; &#xD;&#xA;    -webkit-animation-iteration-count: infinite;&#xD;&#xA;    -webkit-animation-timing-function: linear;&#xD;&#xA;&#x9;max-width: 200px;&#xD;&#xA;&#x9;height: auto;&#xD;&#xA;}&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&#xA;&lt;p class=&#34;spin&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/wheel3.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been collecting a group of meditation videos on YouTube that I use to manage anxiety. This is mostly a place for me to come, press a button and get a random meditaiton video.&#xA;So if you&amp;rsquo;d like a random meditation video to help with anxiety click the button below!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

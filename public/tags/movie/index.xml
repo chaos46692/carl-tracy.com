@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movie on Carl&#39;s New Website</title>
+    <link>http://localhost:1313/tags/movie/</link>
+    <description>Recent content in Movie on Carl&#39;s New Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/movie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Die Hard is a Christmas Movie</title>
+      <link>http://localhost:1313/posts/diehard/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/diehard/</guid>
+      <description>&lt;h2 id=&#34;die-hard-is-a-christmas-movie&#34;&gt;Die Hard is a Christmas Movie&lt;/h2&gt;&#xA;&lt;p&gt;I said what I said. Read more of my weird assed takes on Christmas movies in my post &lt;a href=&#34;http://localhost:1313/media/unconventional-christmas/&#34; &gt;Unconventional Christmas Movies&lt;/a&gt;&#xD;&#xA; &lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/diehard.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

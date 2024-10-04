@@ -1,66 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>books on Carl&#39;s New Website</title>
-    <link>https://carltracy.com/categories/books/</link>
-    <description>Recent content in books on Carl&#39;s New Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Books on Carl&#39;s New Website</title>
+    <link>http://localhost:1313/categories/books/</link>
+    <description>Recent content in Books on Carl&#39;s New Website</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carltracy.com/categories/books/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Books I&#39;m Reading 2023</title>
-      <link>https://carltracy.com/media/books-23/</link>
-      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://carltracy.com/media/books-23/</guid>
-      <description>&lt;style&gt;
-    h3 {
-        margin-top: 0.5em!important;
-        line-height: 1;
-        padding: 0;
-        margin-bottom:0!important;
-    }
-
-    h1, h2 {
-        margin-top: 1.2em!important;
-        line-height: 1;
-        padding: 0;
-        margin-bottom:0!important;
-    }
-&lt;/style&gt;
-
-
-&lt;p&gt;Once again inspired by my friend &lt;a href=&#34;https://jenmyers.net&#34;&gt;Jen&lt;/a&gt;, here is the media I&amp;rsquo;ve been consuming. I&amp;rsquo;m still on the &lt;a href=&#34;https://www.audible.com/&#34;&gt;Audible&lt;/a&gt;
-train and at their maximum subscriber level and buying books when they go on sale to boot. I love listening to books while I commute / travel. In the past
-I would get annoyed when Waze would butt in with commentary, but now I&amp;rsquo;ve started to find it amusing. So many random insertions &lt;em&gt;Arkady said &lt;em&gt;in one mile, use the
-right lane to turn right at the light&lt;/em&gt;&lt;/em&gt;. I laugh every time.&lt;/p&gt;</description>
+      <link>http://localhost:1313/media/books-23/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/media/books-23/</guid>
+      <description>&lt;style&gt;&#xD;&#xA;    h3 {&#xD;&#xA;        margin-top: 0.5em!important;&#xD;&#xA;        line-height: 1;&#xD;&#xA;        padding: 0;&#xD;&#xA;        margin-bottom:0!important;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    h1, h2 {&#xD;&#xA;        margin-top: 1.2em!important;&#xD;&#xA;        line-height: 1;&#xD;&#xA;        padding: 0;&#xD;&#xA;        margin-bottom:0!important;&#xD;&#xA;    }&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;p&gt;Once again inspired by my friend &lt;a href=&#34;https://jenmyers.net&#34; target=&#34;_blank&#34; &gt;Jen&lt;/a&gt;&#xD;&#xA; , here is the media I&amp;rsquo;ve been consuming. I&amp;rsquo;m still on the &lt;a href=&#34;https://www.audible.com/&#34; target=&#34;_blank&#34; &gt;Audible&lt;/a&gt;&#xD;&#xA; &#xA;train and at their maximum subscriber level and buying books when they go on sale to boot. I love listening to books while I commute / travel. In the past&#xA;I would get annoyed when Waze would butt in with commentary, but now I&amp;rsquo;ve started to find it amusing. So many random insertions &lt;em&gt;Arkady said &lt;em&gt;in one mile, use the&#xA;right lane to turn right at the light&lt;/em&gt;&lt;/em&gt;. I laugh every time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What Books I&#39;m Reading 2022</title>
-      <link>https://carltracy.com/media/books-22/</link>
+      <link>http://localhost:1313/media/books-22/</link>
       <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://carltracy.com/media/books-22/</guid>
-      <description>&lt;p&gt; 
-
-&lt;style&gt;
-    h3 {
-        margin-top: 0.5em!important;
-        line-height: 1;
-        padding: 0;
-        margin-bottom:0!important;
-    }
-
-    h1, h2 {
-        margin-top: 1.2em!important;
-        line-height: 1;
-        padding: 0;
-        margin-bottom:0!important;
-    }
-&lt;/style&gt;
-
-Inspired by my friend &lt;a href=&#34;https://jenmyers.net&#34;&gt;Jen&lt;/a&gt;, here is the media I&amp;rsquo;ve been consuming. I&amp;rsquo;ve always had a hard time reading books and recently started
-using &lt;a href=&#34;https://www.audible.com/&#34;&gt;Audible&lt;/a&gt; to listen to audio books. I had put it off for a long time, figuring that I wouldn&amp;rsquo;t use it and I would just
-waste money. Oh boy was I wrong. I burned through tons of books and very much outpaced the one credit a month I got from Audible.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/media/books-22/</guid>
+      <description>&lt;p&gt; &#xD;&#xA;&#xD;&#xA;&lt;style&gt;&#xD;&#xA;    h3 {&#xD;&#xA;        margin-top: 0.5em!important;&#xD;&#xA;        line-height: 1;&#xD;&#xA;        padding: 0;&#xD;&#xA;        margin-bottom:0!important;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    h1, h2 {&#xD;&#xA;        margin-top: 1.2em!important;&#xD;&#xA;        line-height: 1;&#xD;&#xA;        padding: 0;&#xD;&#xA;        margin-bottom:0!important;&#xD;&#xA;    }&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&#xA;Inspired by my friend &lt;a href=&#34;https://jenmyers.net&#34; target=&#34;_blank&#34; &gt;Jen&lt;/a&gt;&#xD;&#xA; , here is the media I&amp;rsquo;ve been consuming. I&amp;rsquo;ve always had a hard time reading books and recently started&#xA;using &lt;a href=&#34;https://www.audible.com/&#34; target=&#34;_blank&#34; &gt;Audible&lt;/a&gt;&#xD;&#xA;  to listen to audio books. I had put it off for a long time, figuring that I wouldn&amp;rsquo;t use it and I would just&#xA;waste money. Oh boy was I wrong. I burned through tons of books and very much outpaced the one credit a month I got from Audible.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,185 +2,213 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Carl&#39;s New Website</title>
-    <link>https://carltracy.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Carl&#39;s New Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carltracy.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Oct 2024 14:39:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2023</title>
-      <link>https://carltracy.com/tags/2023/</link>
-      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://carltracy.com/tags/2023/</guid>
+      <title>Nerd</title>
+      <link>http://localhost:1313/tags/nerd/</link>
+      <pubDate>Wed, 02 Oct 2024 14:39:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/nerd/</guid>
       <description></description>
     </item>
     <item>
-      <title>books</title>
-      <link>https://carltracy.com/tags/books/</link>
-      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://carltracy.com/tags/books/</guid>
+      <title>Whiskey</title>
+      <link>http://localhost:1313/tags/whiskey/</link>
+      <pubDate>Wed, 02 Oct 2024 14:39:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/whiskey/</guid>
       <description></description>
     </item>
     <item>
-      <title>media</title>
-      <link>https://carltracy.com/tags/media/</link>
-      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://carltracy.com/tags/media/</guid>
+      <title>Code</title>
+      <link>http://localhost:1313/tags/code/</link>
+      <pubDate>Wed, 14 Aug 2024 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Physical Therapy</title>
+      <link>http://localhost:1313/tags/physical-therapy/</link>
+      <pubDate>Fri, 09 Aug 2024 14:39:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/physical-therapy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finance</title>
+      <link>http://localhost:1313/tags/finance/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/finance/</guid>
       <description></description>
     </item>
     <item>
       <title>Christmas</title>
-      <link>https://carltracy.com/tags/christmas/</link>
-      <pubDate>Wed, 22 Nov 2023 12:00:00 -0500</pubDate>
-      <guid>https://carltracy.com/tags/christmas/</guid>
+      <link>http://localhost:1313/tags/christmas/</link>
+      <pubDate>Fri, 19 Jan 2024 16:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/christmas/</guid>
       <description></description>
     </item>
     <item>
-      <title>nerd</title>
-      <link>https://carltracy.com/tags/nerd/</link>
-      <pubDate>Wed, 22 Nov 2023 12:00:00 -0500</pubDate>
-      <guid>https://carltracy.com/tags/nerd/</guid>
+      <title>2023</title>
+      <link>http://localhost:1313/tags/2023/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/2023/</guid>
       <description></description>
     </item>
     <item>
-      <title>whiskey</title>
-      <link>https://carltracy.com/tags/whiskey/</link>
-      <pubDate>Wed, 22 Nov 2023 12:00:00 -0500</pubDate>
-      <guid>https://carltracy.com/tags/whiskey/</guid>
+      <title>Media</title>
+      <link>http://localhost:1313/tags/media/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/media/</guid>
       <description></description>
     </item>
     <item>
-      <title>chaos</title>
-      <link>https://carltracy.com/tags/chaos/</link>
+      <title>Movies</title>
+      <link>http://localhost:1313/tags/movies/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/movies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Books</title>
+      <link>http://localhost:1313/tags/books/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Movie</title>
+      <link>http://localhost:1313/tags/movie/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/movie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chaos</title>
+      <link>http://localhost:1313/tags/chaos/</link>
       <pubDate>Thu, 16 Nov 2023 17:39:00 -0500</pubDate>
-      <guid>https://carltracy.com/tags/chaos/</guid>
+      <guid>http://localhost:1313/tags/chaos/</guid>
       <description></description>
     </item>
     <item>
-      <title>math</title>
-      <link>https://carltracy.com/tags/math/</link>
+      <title>Math</title>
+      <link>http://localhost:1313/tags/math/</link>
       <pubDate>Thu, 16 Nov 2023 17:39:00 -0500</pubDate>
-      <guid>https://carltracy.com/tags/math/</guid>
+      <guid>http://localhost:1313/tags/math/</guid>
       <description></description>
     </item>
     <item>
-      <title>meditation</title>
-      <link>https://carltracy.com/tags/meditation/</link>
+      <title>Meditation</title>
+      <link>http://localhost:1313/tags/meditation/</link>
       <pubDate>Wed, 01 Nov 2023 10:39:00 -0500</pubDate>
-      <guid>https://carltracy.com/tags/meditation/</guid>
+      <guid>http://localhost:1313/tags/meditation/</guid>
       <description></description>
     </item>
     <item>
-      <title>mental health</title>
-      <link>https://carltracy.com/tags/mental-health/</link>
+      <title>Mental Health</title>
+      <link>http://localhost:1313/tags/mental-health/</link>
       <pubDate>Wed, 01 Nov 2023 10:39:00 -0500</pubDate>
-      <guid>https://carltracy.com/tags/mental-health/</guid>
+      <guid>http://localhost:1313/tags/mental-health/</guid>
       <description></description>
     </item>
     <item>
       <title>2022</title>
-      <link>https://carltracy.com/tags/2022/</link>
+      <link>http://localhost:1313/tags/2022/</link>
       <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://carltracy.com/tags/2022/</guid>
+      <guid>http://localhost:1313/tags/2022/</guid>
       <description></description>
     </item>
     <item>
-      <title>holidays</title>
-      <link>https://carltracy.com/tags/holidays/</link>
+      <title>Holidays</title>
+      <link>http://localhost:1313/tags/holidays/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://carltracy.com/tags/holidays/</guid>
+      <guid>http://localhost:1313/tags/holidays/</guid>
       <description></description>
     </item>
     <item>
-      <title>music</title>
-      <link>https://carltracy.com/tags/music/</link>
+      <title>Music</title>
+      <link>http://localhost:1313/tags/music/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://carltracy.com/tags/music/</guid>
+      <guid>http://localhost:1313/tags/music/</guid>
       <description></description>
     </item>
     <item>
-      <title>animals</title>
-      <link>https://carltracy.com/tags/animals/</link>
+      <title>Animals</title>
+      <link>http://localhost:1313/tags/animals/</link>
       <pubDate>Wed, 30 Nov 2022 16:50:38 -0500</pubDate>
-      <guid>https://carltracy.com/tags/animals/</guid>
+      <guid>http://localhost:1313/tags/animals/</guid>
       <description></description>
     </item>
     <item>
-      <title>farming</title>
-      <link>https://carltracy.com/tags/farming/</link>
+      <title>Farming</title>
+      <link>http://localhost:1313/tags/farming/</link>
       <pubDate>Wed, 30 Nov 2022 16:50:38 -0500</pubDate>
-      <guid>https://carltracy.com/tags/farming/</guid>
+      <guid>http://localhost:1313/tags/farming/</guid>
       <description></description>
     </item>
     <item>
       <title>AWS</title>
-      <link>https://carltracy.com/tags/aws/</link>
+      <link>http://localhost:1313/tags/aws/</link>
       <pubDate>Sun, 06 Nov 2022 09:02:38 -0500</pubDate>
-      <guid>https://carltracy.com/tags/aws/</guid>
+      <guid>http://localhost:1313/tags/aws/</guid>
       <description></description>
     </item>
     <item>
-      <title>hugo</title>
-      <link>https://carltracy.com/tags/hugo/</link>
+      <title>Hugo</title>
+      <link>http://localhost:1313/tags/hugo/</link>
       <pubDate>Sun, 06 Nov 2022 09:02:38 -0500</pubDate>
-      <guid>https://carltracy.com/tags/hugo/</guid>
+      <guid>http://localhost:1313/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
-      <title>ssl</title>
-      <link>https://carltracy.com/tags/ssl/</link>
+      <title>Ssl</title>
+      <link>http://localhost:1313/tags/ssl/</link>
       <pubDate>Sun, 06 Nov 2022 09:02:38 -0500</pubDate>
-      <guid>https://carltracy.com/tags/ssl/</guid>
+      <guid>http://localhost:1313/tags/ssl/</guid>
       <description></description>
     </item>
     <item>
-      <title>website</title>
-      <link>https://carltracy.com/tags/website/</link>
+      <title>Website</title>
+      <link>http://localhost:1313/tags/website/</link>
       <pubDate>Sun, 06 Nov 2022 09:02:38 -0500</pubDate>
-      <guid>https://carltracy.com/tags/website/</guid>
+      <guid>http://localhost:1313/tags/website/</guid>
       <description></description>
     </item>
     <item>
-      <title>history</title>
-      <link>https://carltracy.com/tags/history/</link>
+      <title>History</title>
+      <link>http://localhost:1313/tags/history/</link>
       <pubDate>Fri, 12 Mar 2021 12:45:26 -0500</pubDate>
-      <guid>https://carltracy.com/tags/history/</guid>
+      <guid>http://localhost:1313/tags/history/</guid>
       <description></description>
     </item>
     <item>
-      <title>shortcode</title>
-      <link>https://carltracy.com/tags/shortcode/</link>
+      <title>Shortcode</title>
+      <link>http://localhost:1313/tags/shortcode/</link>
       <pubDate>Wed, 10 Mar 2021 10:15:30 -0500</pubDate>
-      <guid>https://carltracy.com/tags/shortcode/</guid>
+      <guid>http://localhost:1313/tags/shortcode/</guid>
       <description></description>
     </item>
     <item>
-      <title>tiktok</title>
-      <link>https://carltracy.com/tags/tiktok/</link>
+      <title>Tiktok</title>
+      <link>http://localhost:1313/tags/tiktok/</link>
       <pubDate>Wed, 10 Mar 2021 10:15:30 -0500</pubDate>
-      <guid>https://carltracy.com/tags/tiktok/</guid>
+      <guid>http://localhost:1313/tags/tiktok/</guid>
       <description></description>
     </item>
     <item>
-      <title>duck</title>
-      <link>https://carltracy.com/tags/duck/</link>
+      <title>Duck</title>
+      <link>http://localhost:1313/tags/duck/</link>
       <pubDate>Wed, 10 Mar 2021 10:02:03 -0500</pubDate>
-      <guid>https://carltracy.com/tags/duck/</guid>
+      <guid>http://localhost:1313/tags/duck/</guid>
       <description></description>
     </item>
     <item>
-      <title>finance</title>
-      <link>https://carltracy.com/tags/finance/</link>
-      <pubDate>Mon, 08 Mar 2021 11:35:08 -0500</pubDate>
-      <guid>https://carltracy.com/tags/finance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>cPanel</title>
-      <link>https://carltracy.com/tags/cpanel/</link>
+      <title>CPanel</title>
+      <link>http://localhost:1313/tags/cpanel/</link>
       <pubDate>Sat, 06 Mar 2021 09:02:38 -0500</pubDate>
-      <guid>https://carltracy.com/tags/cpanel/</guid>
+      <guid>http://localhost:1313/tags/cpanel/</guid>
       <description></description>
     </item>
   </channel>

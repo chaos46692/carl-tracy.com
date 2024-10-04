@@ -1,22 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>whiskey on Carl&#39;s New Website</title>
-    <link>https://carltracy.com/tags/whiskey/</link>
-    <description>Recent content in whiskey on Carl&#39;s New Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Whiskey on Carl&#39;s New Website</title>
+    <link>http://localhost:1313/tags/whiskey/</link>
+    <description>Recent content in Whiskey on Carl&#39;s New Website</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Nov 2023 12:00:00 -0500</lastBuildDate>
-    <atom:link href="https://carltracy.com/tags/whiskey/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Oct 2024 14:39:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/whiskey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Craft Whiskey Festival Countdown</title>
+      <link>http://localhost:1313/posts/craft-bourbon-countdown/</link>
+      <pubDate>Wed, 02 Oct 2024 14:39:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/craft-bourbon-countdown/</guid>
+      <description>&lt;script src=&#34;https://cdn.jsdelivr.net/npm/@tsparticles/confetti@3.0.3/tsparticles.confetti.bundle.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&lt;style&gt;&#xD;&#xA;    #WHISKEY {&#xD;&#xA;        font-size: 40pt;&#xD;&#xA;        color: black;&#xD;&#xA;&#xD;&#xA;    }&#xD;&#xA;&lt;/style&gt; &#xD;&#xA;&#xA;&lt;h1 id=&#34;is-it-whiskey-festival-time&#34;&gt;Is It Whiskey Festival Time???&lt;/h1&gt;&#xA;&lt;p&gt;Is it time for the &lt;a href=&#34;https://www.henmick.com/ohio-craft-whiskey-festival&#34; target=&#34;_blank&#34; &gt;Ohio Craft Whiskey Festival&lt;/a&gt;&#xD;&#xA; ??&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Advent Calendar 2023</title>
-      <link>https://carltracy.com/posts/advent23/</link>
-      <pubDate>Wed, 22 Nov 2023 12:00:00 -0500</pubDate>
-      <guid>https://carltracy.com/posts/advent23/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://carltracy.com/images/xmaswhiskey.webp&#34; alt=&#34;Advent Calendars&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;advent-calendars&#34;&gt;Advent Calendars&lt;/h2&gt;
-&lt;p&gt;I bought a candy advent calendar for my wife and a whiskey advent calendar for me. I hope to write reviews
-for both every day, but I&amp;rsquo;ll give the over under at April for when I actually write it lol =P&lt;/p&gt;</description>
+      <link>http://localhost:1313/posts/advent23/</link>
+      <pubDate>Fri, 19 Jan 2024 16:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/advent23/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Advent Calendars&#34; src=&#34;http://localhost:1313/images/xmaswhiskey.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;advent-calendars&#34;&gt;Advent Calendars&lt;/h2&gt;&#xA;&lt;p&gt;I bought a candy advent calendar for my wife and a whiskey advent calendar for me. I hope to write reviews&#xA;for both every day, but I&amp;rsquo;ll give the over under at April for when I actually write it lol =P.&lt;/p&gt;&#xA;&lt;p&gt;In previous years we got Advent calendars for the animals. Funny thing - dog Advent calendars are almost always&#xA;treats, cat advent calendars are almost always toys, and horse Advent calendars… okay those don&amp;rsquo;t exist to my&#xA;knowledge (or would be very expense). At the end of the day we were left with a bunch of cat toys that that the&#xA;cats leave everywhere for the Roomba to eat&lt;/p&gt;&#xA;&lt;p&gt;This year we got the &lt;a href=&#34;https://amzn.to/3GsPj3B&#34; target=&#34;_blank&#34; &gt;Sugarfina Advent Calendar&lt;/a&gt;&#xD;&#xA;  as well as the&#xA;&lt;a href=&#34;https://flaviar.5d3x.net/c/5043138/1891753/3334?prodsku=8792051122458&amp;amp;u=https%3A%2F%2Fflaviar.com%2Fproducts%2Fadvent-calendar-2023-offline&amp;amp;intsrc=PUI2_15277&#34; target=&#34;_blank&#34; &gt;2023 Flaviar Whiskey Advent Calendar&lt;/a&gt;&#xD;&#xA; . I was content to leave the candy to Barb and the&#xA;Whiskey to me, but Barb decided she wants to try whiskey, so now I have to share. At least the calendar came with&#xA;two glasses!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,15 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
     <title>Setting Up an SSL cetificate | Carl&#39;s New Website</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="While setting up this website I was constantly greeted by this in my address bar:
+
 I have no real reason for it to piss me off but it surely did. This must be remedied.
-My hosting is different from my registrar/DNS so accomplishing it took a little more work than it might if you have all that stuff in one place. I use namecheap as my registrar/DNS and HostPapa for my hosting (mostly because I used to use Lunarpages and they got bought by HostPapa).">
-    <meta name="generator" content="Hugo 0.120.4">
+My hosting is different from my registrar/DNS so accomplishing it took a little more work than it might if you have all that stuff in one place.  I use namecheap
+  as my registrar/DNS and HostPapa
+  for my hosting (mostly because I used to use Lunarpages and they got bought by HostPapa). I don&rsquo;t necessarily recommend any of these services - I am lazy and interia accounts for a lot of why I&rsquo;m with them, I&rsquo;m just telling you where I&rsquo;m coming from.">
+    <meta name="generator" content="Hugo 0.134.0">
     
     
       <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
@@ -36,41 +39,55 @@ My hosting is different from my registrar/DNS so accomplishing it took a little 
 
     
     
-    <meta property="og:title" content="Setting Up an SSL cetificate" />
-<meta property="og:description" content="While setting up this website I was constantly greeted by this in my address bar:
+    <meta property="og:url" content="http://localhost:1313/posts/setting-up-ssl/">
+  <meta property="og:site_name" content="Carl&#39;s New Website">
+  <meta property="og:title" content="Setting Up an SSL cetificate">
+  <meta property="og:description" content="While setting up this website I was constantly greeted by this in my address bar:
 I have no real reason for it to piss me off but it surely did. This must be remedied.
-My hosting is different from my registrar/DNS so accomplishing it took a little more work than it might if you have all that stuff in one place. I use namecheap as my registrar/DNS and HostPapa for my hosting (mostly because I used to use Lunarpages and they got bought by HostPapa)." />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://carltracy.com/posts/setting-up-ssl/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2021-03-06T09:02:38-05:00" />
-<meta property="article:modified_time" content="2021-03-06T09:02:38-05:00" />
+My hosting is different from my registrar/DNS so accomplishing it took a little more work than it might if you have all that stuff in one place. I use namecheapas my registrar/DNS and HostPapafor my hosting (mostly because I used to use Lunarpages and they got bought by HostPapa). I don’t necessarily recommend any of these services - I am lazy and interia accounts for a lot of why I’m with them, I’m just telling you where I’m coming from.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2021-03-06T09:02:38-05:00">
+    <meta property="article:modified_time" content="2021-03-06T09:02:38-05:00">
+    <meta property="article:tag" content="Website">
+    <meta property="article:tag" content="Hugo">
+    <meta property="article:tag" content="Ssl">
+    <meta property="article:tag" content="CPanel">
 
-<meta itemprop="name" content="Setting Up an SSL cetificate">
-<meta itemprop="description" content="While setting up this website I was constantly greeted by this in my address bar:
+  <meta itemprop="name" content="Setting Up an SSL cetificate">
+  <meta itemprop="description" content="While setting up this website I was constantly greeted by this in my address bar:
 I have no real reason for it to piss me off but it surely did. This must be remedied.
-My hosting is different from my registrar/DNS so accomplishing it took a little more work than it might if you have all that stuff in one place. I use namecheap as my registrar/DNS and HostPapa for my hosting (mostly because I used to use Lunarpages and they got bought by HostPapa)."><meta itemprop="datePublished" content="2021-03-06T09:02:38-05:00" />
-<meta itemprop="dateModified" content="2021-03-06T09:02:38-05:00" />
-<meta itemprop="wordCount" content="634">
-<meta itemprop="keywords" content="website,hugo,ssl,cPanel," /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Setting Up an SSL cetificate"/>
-<meta name="twitter:description" content="While setting up this website I was constantly greeted by this in my address bar:
+My hosting is different from my registrar/DNS so accomplishing it took a little more work than it might if you have all that stuff in one place. I use namecheapas my registrar/DNS and HostPapafor my hosting (mostly because I used to use Lunarpages and they got bought by HostPapa). I don’t necessarily recommend any of these services - I am lazy and interia accounts for a lot of why I’m with them, I’m just telling you where I’m coming from.">
+  <meta itemprop="datePublished" content="2021-03-06T09:02:38-05:00">
+  <meta itemprop="dateModified" content="2021-03-06T09:02:38-05:00">
+  <meta itemprop="wordCount" content="634">
+  <meta itemprop="keywords" content="Website,Hugo,Ssl,CPanel">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Setting Up an SSL cetificate">
+  <meta name="twitter:description" content="While setting up this website I was constantly greeted by this in my address bar:
 I have no real reason for it to piss me off but it surely did. This must be remedied.
-My hosting is different from my registrar/DNS so accomplishing it took a little more work than it might if you have all that stuff in one place. I use namecheap as my registrar/DNS and HostPapa for my hosting (mostly because I used to use Lunarpages and they got bought by HostPapa)."/>
+My hosting is different from my registrar/DNS so accomplishing it took a little more work than it might if you have all that stuff in one place. I use namecheapas my registrar/DNS and HostPapafor my hosting (mostly because I used to use Lunarpages and they got bought by HostPapa). I don’t necessarily recommend any of these services - I am lazy and interia accounts for a lot of why I’m with them, I’m just telling you where I’m coming from.">
 
       
-<script type="application/javascript">
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', 'UA-5215367-2', 'auto');
-	
-	ga('send', 'pageview');
-}
-</script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
-
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-7D6366MSJC"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-7D6366MSJC');
+        }
+      </script>
     
-	
+	<meta name='impact-site-verification' value='c28370fa-201a-4838-9219-f96e99f2f4f9'>
+
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7D6366MSJC"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -242,6 +259,9 @@ if (!doNotTrack) {
   </div>
 </nav>
 
+
+
+
     </div>
   </header>
 
@@ -264,20 +284,20 @@ if (!doNotTrack) {
   <div id="sharing" class="mt3">
 
     
-    <a href="https://www.facebook.com/sharer.php?u=https://carltracy.com/posts/setting-up-ssl/" class="facebook no-underline" aria-label="share on Facebook">
+    <a href="https://www.facebook.com/sharer.php?u=http://localhost:1313/posts/setting-up-ssl/" class="facebook no-underline" aria-label="share on Facebook">
       <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
 
     </a>
 
     
     
-    <a href="https://twitter.com/share?url=https://carltracy.com/posts/setting-up-ssl/&amp;text=Setting%20Up%20an%20SSL%20cetificate" class="twitter no-underline" aria-label="share on Twitter">
+    <a href="https://twitter.com/share?url=http://localhost:1313/posts/setting-up-ssl/&amp;text=Setting%20Up%20an%20SSL%20cetificate" class="twitter no-underline" aria-label="share on Twitter">
       <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
 
     </a>
 
     
-    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://carltracy.com/posts/setting-up-ssl/&amp;title=Setting%20Up%20an%20SSL%20cetificate" class="linkedin no-underline" aria-label="share on LinkedIn">
+    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:1313/posts/setting-up-ssl/&amp;title=Setting%20Up%20an%20SSL%20cetificate" class="linkedin no-underline" aria-label="share on LinkedIn">
       <svg  height="32px"  style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
 </svg>
@@ -297,35 +317,38 @@ if (!doNotTrack) {
       
     </header>
     <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>While setting up this website I was constantly greeted by this in my address bar:</p>
-<p><img src="/images/not-secure.png" alt="site not secure"></p>
+<p><img alt="site not secure" src="/images/not-secure.png"></p>
 <p>I have no real reason for it to piss me off but it surely did. This must be remedied.</p>
-<p>My hosting is different from my registrar/DNS so accomplishing it took a little more work than it might if you have all that stuff in one place.  I use <a href="http://namecheap.com/">namecheap</a> as my registrar/DNS and <a href="https://www.hostpapa.com/">HostPapa</a> for my hosting (mostly because I used to use Lunarpages and they got bought by HostPapa). I don&rsquo;t necessarily recommend any of these services - I am lazy and interia accounts for <em>a lot</em> of why I&rsquo;m with them, I&rsquo;m just telling you where I&rsquo;m coming from.</p>
+<p>My hosting is different from my registrar/DNS so accomplishing it took a little more work than it might if you have all that stuff in one place.  I use <a href="http://namecheap.com/" target="_blank" >namecheap</a>
+  as my registrar/DNS and <a href="https://www.hostpapa.com/" target="_blank" >HostPapa</a>
+  for my hosting (mostly because I used to use Lunarpages and they got bought by HostPapa). I don&rsquo;t necessarily recommend any of these services - I am lazy and interia accounts for <em>a lot</em> of why I&rsquo;m with them, I&rsquo;m just telling you where I&rsquo;m coming from.</p>
 <h1 id="getting-your-ssl-certificate">Getting your SSL certificate</h1>
 <p>Namecheap provides SSL certificates from PositiveSSL. I&rsquo;m probably not the same process everywhere, but I&rsquo;d imagine the process is pretty similar. There are two parts to setting up your SSL: activating it, and installing it.</p>
 <h2 id="activate-your-ssl">Activate your SSL</h2>
 <p>Activating your SSL will involve generating something called a CSR code. In cPanel under Security click on &ldquo;SSL/TLS&rdquo;</p>
-<p><img src="/images/cPanel-ssl.png" alt="cPanel SSL/TLS"></p>
+<p><img alt="cPanel SSL/TLS" src="/images/cPanel-ssl.png"></p>
 <p>Off to the right there will be a section for &ldquo;Private Keys&rdquo;, we want to click on &quot; Generate, view, or delete SSL certificate signing requests.&quot;</p>
-<p><img src="/images/cPanel-CRT.png" alt="cPanel CSR"></p>
+<p><img alt="cPanel CSR" src="/images/cPanel-CRT.png"></p>
 <h2 id="fill-in-your-information">Fill in your information</h2>
 <p>It will request that you fill in information about your domain, once you fill in the required inputs and click &ldquo;Generate&rdquo; you will get a block of text in a format like this:
-<img src="/images/CSR.png" alt="Certificate Signing Request (CSR)"></p>
+<img alt="Certificate Signing Request (CSR)" src="/images/CSR.png"></p>
 <p>(note that I&rsquo;ve blured out the text for security reasons). Now we need to activate our SSL. What I did was go to Namecheap and select SSL Certificates and click &ldquo;Activate&rdquo; for one of my free SSLs. It will ask for your CSR, just paste that text in there and click &ldquo;Next&rdquo;.</p>
 <h2 id="validation-methods">Validation methods</h2>
-<p>Next we have to validate that we own the domain. This is where it got dicey for me - I tried to use a <a href="https://www.cloudflare.com/learning/dns/dns-records/">CNAME DNS</a> record, but for some reason it didn&rsquo;t work. I&rsquo;m not sure if it had to do with Namecheap handling my DNS or not, but luckily after a few hours I tried something else that worked almost instantly - I uploaded a file on the server.</p>
-<p><img src="/images/ssl-confirmation.png" alt="Upload a file to validate your site on Namecheap"></p>
+<p>Next we have to validate that we own the domain. This is where it got dicey for me - I tried to use a <a href="https://www.cloudflare.com/learning/dns/dns-records/" target="_blank" >CNAME DNS</a>
+  record, but for some reason it didn&rsquo;t work. I&rsquo;m not sure if it had to do with Namecheap handling my DNS or not, but luckily after a few hours I tried something else that worked almost instantly - I uploaded a file on the server.</p>
+<p><img alt="Upload a file to validate your site on Namecheap" src="/images/ssl-confirmation.png"></p>
 <h2 id="validating-with-a-file-on-your-webserver-http">Validating with a file on your webserver (HTTP)</h2>
 <p>Supposedly the SSL issuer will send you the file to the email you used to register the SSL certificate, but I&rsquo;m impatient as hell and realized in the status page it takes you to after you submit everything you can get the file manually</p>
-<p><img src="/images/ssl-validation-1.png" alt="get SSL validation file"></p>
+<p><img alt="get SSL validation file" src="/images/ssl-validation-1.png"></p>
 <p>Just select down on &ldquo;Edit Methods&rdquo; and click &ldquo;Download File&rdquo;</p>
-<p><img src="/images/ssl-downloadfile.png" alt="Download SSL validation file"></p>
+<p><img alt="Download SSL validation file" src="/images/ssl-downloadfile.png"></p>
 <p>The file will be a long string of alphanumeric characters. Upload it to the folder the issuing authority requested (usually  /.well-known/acme-challenge/ or /.well-known/pki-validation/ ). In Hugo you can put these in the Static/ folder and they will work just fine. It&rsquo;s probably best to test that you can see that file from a web browser just to be sure. For me it only took a few minutes before my certificate was validated. Hooray!</p>
-<p><img src="/images/evil-SSL.png" alt="SSL complete"></p>
+<p><img alt="SSL complete" src="/images/evil-SSL.png"></p>
 <h2 id="upload-your-certificate">Upload your certificate</h2>
 <p>There is just one more step! On the status page we need to download our SSL certificate and upload it to cPanel. If you click the &ldquo;Download&rdquo; button next to the Active status in the picture above, it will download a zip file. Extract that to your your machine. Now in cPanel go back to SSL/TLS and click &quot; Generate, view, upload, or delete SSL certificates.&quot; (off to the right). You&rsquo;ll need to scroll down until you see &ldquo;Choose a certificate file&rdquo;</p>
-<p><img src="/images/ssl-upload.png" alt="Upload an SSL certificate"></p>
+<p><img alt="Upload an SSL certificate" src="/images/ssl-upload.png"></p>
 <p>Click &ldquo;Choose File&rdquo; and select the .crt from your zip file and click &ldquo;Upload certificate&rdquo;. You should see something like this:</p>
-<p><img src="/images/ssl-complete.png" alt="SSL complete"></p>
+<p><img alt="SSL complete" src="/images/ssl-complete.png"></p>
 <h2 id="holy-shit-that-was-a-lot-of-steps">Holy shit that was a lot of steps!</h2>
 <p>Yup! It&rsquo;s no wonder they&rsquo;ve streamlined the process for folks. Not sure I really want to deal with that very often!</p>
 <ul class="pa0">
@@ -375,11 +398,15 @@ if (!doNotTrack) {
 
     </main>
     <footer class="bg-mid-gray bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between">
-  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://carltracy.com" >
-    &copy;  Carl's New Website 2023 
-  </a>
-    <div><style>
+    <div class=" white-40 flex justify-between" style="margin:1em;">
+        Some links to products reviewed contain affiliate links for which I may be compensated if you purchase them through the links provided.
+        Any products reviewed were purchased by me and I have not been compensated for my terrible reviews.
+    </div>
+    <div class="flex justify-between">
+    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://localhost:1313/" >
+      &copy;  Carl's New Website 2022 - 2024 
+    </a>
+      <div><style>
 
  .tiktok {
   fill: #BABABA;
@@ -465,8 +492,8 @@ if (!doNotTrack) {
 </span></a>
 
 </div>
-  </div>
-</footer>
-
+    </div>
+  </footer>
+  
   </body>
 </html>

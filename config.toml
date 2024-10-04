@@ -6,7 +6,8 @@ theme = "ananke"
 #theme = "gohugo-theme-ananke"
 #themesDir = "../.."
 resourceDir = "../resources"
-googleAnalytics = "UA-5215367-2"
+#googleAnalytics = "UA-5215367-2"
+googleAnalytics = "G-7D6366MSJC"
 
 [taxonomies]
    tag = "tags"
@@ -64,6 +65,7 @@ googleAnalytics = "UA-5215367-2"
   custom_css = ["css/custom.css"]
   env="production"
   recent_copy="Recent Posts"
+  social = true
 
 [markup.goldmark.parser.attribute]
 block = true

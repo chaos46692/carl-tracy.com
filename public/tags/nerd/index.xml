@@ -1,46 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>nerd on Carl&#39;s New Website</title>
-    <link>https://carltracy.com/tags/nerd/</link>
-    <description>Recent content in nerd on Carl&#39;s New Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Nerd on Carl&#39;s New Website</title>
+    <link>http://localhost:1313/tags/nerd/</link>
+    <description>Recent content in Nerd on Carl&#39;s New Website</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Nov 2023 12:00:00 -0500</lastBuildDate>
-    <atom:link href="https://carltracy.com/tags/nerd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Oct 2024 14:39:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/nerd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Craft Whiskey Festival Countdown</title>
+      <link>http://localhost:1313/posts/craft-bourbon-countdown/</link>
+      <pubDate>Wed, 02 Oct 2024 14:39:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/craft-bourbon-countdown/</guid>
+      <description>&lt;script src=&#34;https://cdn.jsdelivr.net/npm/@tsparticles/confetti@3.0.3/tsparticles.confetti.bundle.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&lt;style&gt;&#xD;&#xA;    #WHISKEY {&#xD;&#xA;        font-size: 40pt;&#xD;&#xA;        color: black;&#xD;&#xA;&#xD;&#xA;    }&#xD;&#xA;&lt;/style&gt; &#xD;&#xA;&#xA;&lt;h1 id=&#34;is-it-whiskey-festival-time&#34;&gt;Is It Whiskey Festival Time???&lt;/h1&gt;&#xA;&lt;p&gt;Is it time for the &lt;a href=&#34;https://www.henmick.com/ohio-craft-whiskey-festival&#34; target=&#34;_blank&#34; &gt;Ohio Craft Whiskey Festival&lt;/a&gt;&#xD;&#xA; ??&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> Building the VOR Rehab App</title>
+      <link>http://localhost:1313/posts/vor-app-build/</link>
+      <pubDate>Wed, 14 Aug 2024 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/vor-app-build/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/default.min.css&#34;&gt;&#xD;&#xA;&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&lt;style&gt;&#xD;&#xA;    pre {&#xD;&#xA;        font-size: 10pt;&#xD;&#xA;        font-weight: normal;&#xD;&#xA;    }&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&#xA;&lt;p&gt;Previously I had build a &lt;a href=&#34;http://localhost:1313/posts/vor-exercise/&#34; &gt;Vestibulo-ocular Reflex Therapy App&lt;/a&gt;&#xD;&#xA; . I had put the details about building it&#xA;in the page, but it got kind of long after I started adding features so I figured why have one article when you can have two, right?&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-form&#34;&gt;The Form&lt;/h3&gt;&#xA;&lt;p&gt;The first thing we need is a form. Each of the inputs will call a javascript function to perform it&amp;rsquo;s function. The&#xA;tempo can be input with a slider or a text box, and each will update the other. We also need a time limit and a&#xA;font scale. If I knew a better way to calculate the actual size of the letter on the screen I could get around this,&#xA;but alas I could not figure out a reliable way to do that. Maybe in the future!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> Vestibulo-ocular Reflex Therapy</title>
+      <link>http://localhost:1313/posts/vor-exercise/</link>
+      <pubDate>Fri, 09 Aug 2024 14:39:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/vor-exercise/</guid>
+      <description>&lt;script src=&#34;&#xD;&#xA;https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js&#xD;&#xA;&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&lt;style&gt;&#xD;&#xA;    .target {&#xD;&#xA;        font-size:36pt;&#xD;&#xA;        font-weight:bold;&#xD;&#xA;        position:sticky;&#xD;&#xA;        border: none;  &#xD;&#xA;        background:white;&#xD;&#xA;        width:100%;&#xD;&#xA;        height:100vh;&#xD;&#xA;        top:0;&#xD;&#xA;        left:0;&#xD;&#xA;        z-index:100000;&#xD;&#xA;        text-align: center;&#xD;&#xA;        vertical-align: middle;  &#xD;&#xA;        padding-top:calc(50vh - 30pt);&#xD;&#xA;        display:none;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    .target button {&#xD;&#xA;        font-size:12pt;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    label, button {&#xD;&#xA;        font-weight:bold;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    pre {&#xD;&#xA;        font-size:80%;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    .container {&#xD;&#xA;        position:absolute;&#xD;&#xA;        top:0;&#xD;&#xA;        left:0;&#xD;&#xA;        width:100%;&#xD;&#xA;        height:100%;&#xD;&#xA;        border: none; &#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    #note {&#xD;&#xA;        font-size:12pt;&#xD;&#xA;        font-weight:normal;&#xD;&#xA;        color:black;&#xD;&#xA;        position:absolute;&#xD;&#xA;        top:0;&#xD;&#xA;        left:0;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    #drag{&#xD;&#xA;        border:none; &#xD;&#xA;        display:block;&#xD;&#xA;        position:absolute;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    #TargetSpan{&#xD;&#xA;        border: none;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    .point:hover {&#xD;&#xA;        cursor:pointer;&#xD;&#xA;    }&#xD;&#xA;  &lt;/style&gt; &#xD;&#xA;&lt;!--&#xD;&#xA;&lt;div class=&#39;target&#39; id=&#34;theletter&#34;&gt;A&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;form&gt;&#xD;&#xA;&lt;button type=&#34;button&#34; onclick=&#34;stop();&#34;&gt;Stop&lt;/button&gt;&#xD;&#xA;&lt;/form&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;--&gt;&#xD;&#xA;&#xA;&lt;h2 id=&#34;vor-physical-therapy&#34;&gt;VOR Physical therapy&lt;/h2&gt;&#xA;&lt;p&gt;I recently have had some vestibular issues related to how my &lt;a href=&#34;https://www.physio-pedia.com/Vestibulo-Ocular_Reflex&#34; target=&#34;_blank&#34; &gt;brain and eyes communicate&lt;/a&gt;&#xD;&#xA;  (badly). My issues are basically due to my gaze not locking correctly / some issues with peripheral vision. Once the source of the issues were identified I was given some exercises to do to help with the gaze stabilization.&lt;/p&gt;&#xA;&lt;p&gt;The exercise basically is staring at a letter that is straight in front of me while turning my head side to side&#xA;&lt;a href=&#34;https://youtu.be/Mk7v9r4acQU?t=236&#34; target=&#34;_blank&#34; &gt;like in this video&lt;/a&gt;&#xD;&#xA; . Now I could just download a metronome app for my phone that&amp;rsquo;s going to steal&#xA;my personal information, or I could have way more fun building a javascript app to do it. So I build a javascript app because as we all&#xA;know I&amp;rsquo;m a big giant nerd.&lt;/p&gt;&#xA;&lt;p&gt;You can &lt;a href=&#34;http://localhost:1313/posts/vor-app-build/&#34; &gt;read more about how I built it here&lt;/a&gt;&#xD;&#xA;  test&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Advent Calendar 2023</title>
-      <link>https://carltracy.com/posts/advent23/</link>
-      <pubDate>Wed, 22 Nov 2023 12:00:00 -0500</pubDate>
-      <guid>https://carltracy.com/posts/advent23/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://carltracy.com/images/xmaswhiskey.webp&#34; alt=&#34;Advent Calendars&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;advent-calendars&#34;&gt;Advent Calendars&lt;/h2&gt;
-&lt;p&gt;I bought a candy advent calendar for my wife and a whiskey advent calendar for me. I hope to write reviews
-for both every day, but I&amp;rsquo;ll give the over under at April for when I actually write it lol =P&lt;/p&gt;</description>
+      <link>http://localhost:1313/posts/advent23/</link>
+      <pubDate>Fri, 19 Jan 2024 16:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/advent23/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Advent Calendars&#34; src=&#34;http://localhost:1313/images/xmaswhiskey.webp&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;advent-calendars&#34;&gt;Advent Calendars&lt;/h2&gt;&#xA;&lt;p&gt;I bought a candy advent calendar for my wife and a whiskey advent calendar for me. I hope to write reviews&#xA;for both every day, but I&amp;rsquo;ll give the over under at April for when I actually write it lol =P.&lt;/p&gt;&#xA;&lt;p&gt;In previous years we got Advent calendars for the animals. Funny thing - dog Advent calendars are almost always&#xA;treats, cat advent calendars are almost always toys, and horse Advent calendars… okay those don&amp;rsquo;t exist to my&#xA;knowledge (or would be very expense). At the end of the day we were left with a bunch of cat toys that that the&#xA;cats leave everywhere for the Roomba to eat&lt;/p&gt;&#xA;&lt;p&gt;This year we got the &lt;a href=&#34;https://amzn.to/3GsPj3B&#34; target=&#34;_blank&#34; &gt;Sugarfina Advent Calendar&lt;/a&gt;&#xD;&#xA;  as well as the&#xA;&lt;a href=&#34;https://flaviar.5d3x.net/c/5043138/1891753/3334?prodsku=8792051122458&amp;amp;u=https%3A%2F%2Fflaviar.com%2Fproducts%2Fadvent-calendar-2023-offline&amp;amp;intsrc=PUI2_15277&#34; target=&#34;_blank&#34; &gt;2023 Flaviar Whiskey Advent Calendar&lt;/a&gt;&#xD;&#xA; . I was content to leave the candy to Barb and the&#xA;Whiskey to me, but Barb decided she wants to try whiskey, so now I have to share. At least the calendar came with&#xA;two glasses!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hénon map</title>
-      <link>https://carltracy.com/posts/henon/</link>
+      <link>http://localhost:1313/posts/henon/</link>
       <pubDate>Thu, 16 Nov 2023 17:39:00 -0500</pubDate>
-      <guid>https://carltracy.com/posts/henon/</guid>
-      <description>&lt;h2 id=&#34;building-a-hénon-map-with-javascript&#34;&gt;Building a Hénon map with javascript&lt;/h2&gt;
-&lt;p&gt;I first found out about the Hénon map as an undergrad and have loved it ever since. Can I simulate it in javascript? Let&amp;rsquo;s find out!&lt;/p&gt;
-&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/H%C3%A9non_map&#34;&gt;Hénon map&lt;/a&gt; is a dynamical system that exhibits chaotic behavior. It takes two
-parameters a and b. Depending on the values the map can exhibit
- 
- &lt;a href=&#34;javascript:setValues(0.5,0.2);&#34;&gt;periodic&lt;/a&gt; 
-, &lt;a href=&#34;javascript:setValues(1.4,0.2);&#34;&gt;chaotic&lt;/a&gt;  or intermittent  (switching back and forth between
-chaotic and stable orbits).  It is described by the formula:&lt;/p&gt;
-&lt;p&gt;$$
-\begin{aligned}&lt;br&gt;
-x_{n+1} &amp;amp;=  1 - ax_n^2+y_n\\
-y_{n+1}  &amp;amp;= bx_n
-\end{aligned}&lt;br&gt;
-$$&lt;/p&gt;
-&lt;p&gt;The Hénon map is basically taking the x-y plane and stretches, folds and squishes it like kneading bread. For some parameters it will
-tend toward a fixed point or set of points, but for others it exhibits chaotic dynamics - which means that no matter how accurately
-you describe the current position, it will be impossible to predict where it will be in the future (other than within the bounds
-of the attractor).&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/henon/</guid>
+      <description>&lt;h2 id=&#34;building-a-hénon-map-with-javascript&#34;&gt;Building a Hénon map with javascript&lt;/h2&gt;&#xA;&lt;p&gt;I first found out about the Hénon map as an undergrad and have loved it ever since. Can I simulate it in javascript? Let&amp;rsquo;s find out!&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/H%C3%A9non_map&#34; target=&#34;_blank&#34; &gt;Hénon map&lt;/a&gt;&#xD;&#xA;  is a dynamical system that exhibits chaotic behavior. It takes two&#xA;parameters a and b. Depending on the values the map can exhibit&#xA; &#xD;&#xA; &lt;a href=&#34;javascript:setValues(0.5,0.2);&#34;&gt;periodic&lt;/a&gt; &#xD;&#xA;, &lt;a href=&#34;javascript:setValues(1.4,0.2);&#34;&gt;chaotic&lt;/a&gt;  or intermittent  (switching back and forth between&#xA;chaotic and stable orbits).  It is described by the formula:&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;\begin{aligned}&lt;br&gt;&#xA;x_{n+1} &amp;amp;=  1 - ax_n^2+y_n\\&#xA;y_{n+1}  &amp;amp;= bx_n&#xA;\end{aligned}&lt;br&gt;&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;The Hénon map is basically taking the x-y plane and stretches, folds and squishes it like kneading bread. For some parameters it will&#xA;tend toward a fixed point or set of points, but for others it exhibits chaotic dynamics - which means that no matter how accurately&#xA;you describe the current position, it will be impossible to predict where it will be in the future (other than within the bounds&#xA;of the attractor).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

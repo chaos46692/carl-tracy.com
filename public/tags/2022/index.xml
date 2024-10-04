@@ -2,38 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2022 on Carl&#39;s New Website</title>
-    <link>https://carltracy.com/tags/2022/</link>
+    <link>http://localhost:1313/tags/2022/</link>
     <description>Recent content in 2022 on Carl&#39;s New Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 06 Dec 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://carltracy.com/tags/2022/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/2022/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Books I&#39;m Reading 2022</title>
-      <link>https://carltracy.com/media/books-22/</link>
+      <link>http://localhost:1313/media/books-22/</link>
       <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://carltracy.com/media/books-22/</guid>
-      <description>&lt;p&gt; 
-
-&lt;style&gt;
-    h3 {
-        margin-top: 0.5em!important;
-        line-height: 1;
-        padding: 0;
-        margin-bottom:0!important;
-    }
-
-    h1, h2 {
-        margin-top: 1.2em!important;
-        line-height: 1;
-        padding: 0;
-        margin-bottom:0!important;
-    }
-&lt;/style&gt;
-
-Inspired by my friend &lt;a href=&#34;https://jenmyers.net&#34;&gt;Jen&lt;/a&gt;, here is the media I&amp;rsquo;ve been consuming. I&amp;rsquo;ve always had a hard time reading books and recently started
-using &lt;a href=&#34;https://www.audible.com/&#34;&gt;Audible&lt;/a&gt; to listen to audio books. I had put it off for a long time, figuring that I wouldn&amp;rsquo;t use it and I would just
-waste money. Oh boy was I wrong. I burned through tons of books and very much outpaced the one credit a month I got from Audible.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/media/books-22/</guid>
+      <description>&lt;p&gt; &#xD;&#xA;&#xD;&#xA;&lt;style&gt;&#xD;&#xA;    h3 {&#xD;&#xA;        margin-top: 0.5em!important;&#xD;&#xA;        line-height: 1;&#xD;&#xA;        padding: 0;&#xD;&#xA;        margin-bottom:0!important;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    h1, h2 {&#xD;&#xA;        margin-top: 1.2em!important;&#xD;&#xA;        line-height: 1;&#xD;&#xA;        padding: 0;&#xD;&#xA;        margin-bottom:0!important;&#xD;&#xA;    }&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&#xA;Inspired by my friend &lt;a href=&#34;https://jenmyers.net&#34; target=&#34;_blank&#34; &gt;Jen&lt;/a&gt;&#xD;&#xA; , here is the media I&amp;rsquo;ve been consuming. I&amp;rsquo;ve always had a hard time reading books and recently started&#xA;using &lt;a href=&#34;https://www.audible.com/&#34; target=&#34;_blank&#34; &gt;Audible&lt;/a&gt;&#xD;&#xA;  to listen to audio books. I had put it off for a long time, figuring that I wouldn&amp;rsquo;t use it and I would just&#xA;waste money. Oh boy was I wrong. I burned through tons of books and very much outpaced the one credit a month I got from Audible.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

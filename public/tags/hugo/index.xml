@@ -1,44 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugo on Carl&#39;s New Website</title>
-    <link>https://carltracy.com/tags/hugo/</link>
-    <description>Recent content in hugo on Carl&#39;s New Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Hugo on Carl&#39;s New Website</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on Carl&#39;s New Website</description>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 06 Nov 2022 09:02:38 -0500</lastBuildDate>
-    <atom:link href="https://carltracy.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hosting from AWS with GitHub</title>
-      <link>https://carltracy.com/posts/hosting-from-github-with-aws/</link>
+      <link>http://localhost:1313/posts/hosting-from-github-with-aws/</link>
       <pubDate>Sun, 06 Nov 2022 09:02:38 -0500</pubDate>
-      <guid>https://carltracy.com/posts/hosting-from-github-with-aws/</guid>
-      <description>Back at it again Well I certainly haven&amp;rsquo;t done much with this lately. Part of that is I just feel like I didn&amp;rsquo;t have much to say and part of it is the setup I had was a little too much of a pain to deploy. Because, you know, actually having to log in and push 2 or 3 buttons is so much of a pain. Anyway, I got a bug up my butt and figured out how to build things with AWS and GitHub and did a small project over at Evil Peep which has been sitting dormant for around 12 years.</description>
+      <guid>http://localhost:1313/posts/hosting-from-github-with-aws/</guid>
+      <description>&lt;h1 id=&#34;back-at-it-again&#34;&gt;Back at it again&lt;/h1&gt;&#xA;&lt;p&gt;Well I certainly haven&amp;rsquo;t done much with this lately. Part of that is I just feel like I didn&amp;rsquo;t have much to say and part of it is the setup I had was a little too much of a pain to deploy.&#xA;Because, you know, actually having to log in and push 2 or 3 buttons is &lt;strong&gt;so&lt;/strong&gt; much of a pain. Anyway, I got a bug up my butt and figured out how to build things with AWS and GitHub and did&#xA;a small project over at &lt;a href=&#34;https://www.evilpeep.com&#34; target=&#34;_blank&#34; &gt;Evil Peep&lt;/a&gt;&#xD;&#xA;  which has been sitting dormant for around 12 years. I figured while I was at it I might was well implement it for my site&#xA;and use the opportunity to move from my old domain to this one! While I&amp;rsquo;m at it I figured I&amp;rsquo;d document what I did to make it all work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tiktok Shortcode for Hugo</title>
-      <link>https://carltracy.com/posts/tiktok-shortcode-for-hugo/</link>
+      <link>http://localhost:1313/posts/tiktok-shortcode-for-hugo/</link>
       <pubDate>Wed, 10 Mar 2021 10:15:30 -0500</pubDate>
-      <guid>https://carltracy.com/posts/tiktok-shortcode-for-hugo/</guid>
-      <description>Tiktok shortcode for Hugo When i was trying to post my adorable Tiktok of a wee baby duck that was just hatching, I couldn&amp;rsquo;t find anything about embedding Tiktoks into Hugo. I tried just pasting the embed code into a markdown page, but it didn&amp;rsquo;t work so I wrote a quick and dirty shortcode to do it:
-tiktok.html: Save this code in \layouts\shortcodes\tiktok.html
-&amp;lt;script async src=&amp;#34;https://www.tiktok.com/embed.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;blockquote class=&amp;#34;tiktok-embed&amp;#34; cite=&amp;#34;https://www.tiktok.com/{{ .Get &amp;#34;usr&amp;#34; }}/video/{{ .</description>
+      <guid>http://localhost:1313/posts/tiktok-shortcode-for-hugo/</guid>
+      <description>&lt;h1 id=&#34;tiktok-shortcode-for-hugo&#34;&gt;Tiktok shortcode for Hugo&lt;/h1&gt;&#xA;&lt;p&gt;When i was trying to post my &lt;strong&gt;adorable&lt;/strong&gt; &lt;a href=&#34;http://localhost:1313/posts/baby-duck/&#34; &gt;Tiktok of a wee baby duck&lt;/a&gt;&#xD;&#xA;   that was just hatching, I couldn&amp;rsquo;t find anything about embedding Tiktoks into Hugo. I tried just pasting the embed code into a markdown page, but it didn&amp;rsquo;t work so I wrote a quick and dirty shortcode to do it:&lt;/p&gt;&#xA;&lt;h2 id=&#34;tiktokhtml&#34;&gt;tiktok.html:&lt;/h2&gt;&#xA;&lt;p&gt;Save this code in \layouts\shortcodes\tiktok.html&lt;/p&gt;</description>
     </item>
     <item>
       <title>Setting Up Hugo with SSL and MathJax</title>
-      <link>https://carltracy.com/posts/setting-up-hugo/</link>
+      <link>http://localhost:1313/posts/setting-up-hugo/</link>
       <pubDate>Sat, 06 Mar 2021 09:44:41 -0500</pubDate>
-      <guid>https://carltracy.com/posts/setting-up-hugo/</guid>
-      <description>I&amp;rsquo;ve had a lot of fun setting up Hugo to set it up how I want. I will caveat this with a few things - I tried to do things the right way (not editing the theme directly) but I&amp;rsquo;m really really really fucking impatient and in a lot of cases I just edited the theme because I don&amp;rsquo;t want to deal with this shit. I&amp;rsquo;m never going to update it so screw it.</description>
+      <guid>http://localhost:1313/posts/setting-up-hugo/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve had a lot of fun setting up Hugo to set it up how I want. I will caveat this with a few things - I &lt;em&gt;tried&lt;/em&gt; to do things the right way (not editing the theme directly) but I&amp;rsquo;m  &lt;em&gt;really&lt;/em&gt; &lt;strong&gt;really&lt;/strong&gt; &lt;em&gt;&lt;strong&gt;really&lt;/strong&gt;&lt;/em&gt; fucking impatient and in a lot of cases I just edited the theme because I don&amp;rsquo;t want to deal with this shit. I&amp;rsquo;m never going to update it so screw it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Setting Up an SSL cetificate</title>
-      <link>https://carltracy.com/posts/setting-up-ssl/</link>
+      <link>http://localhost:1313/posts/setting-up-ssl/</link>
       <pubDate>Sat, 06 Mar 2021 09:02:38 -0500</pubDate>
-      <guid>https://carltracy.com/posts/setting-up-ssl/</guid>
-      <description>While setting up this website I was constantly greeted by this in my address bar:
-I have no real reason for it to piss me off but it surely did. This must be remedied.
-My hosting is different from my registrar/DNS so accomplishing it took a little more work than it might if you have all that stuff in one place. I use namecheap as my registrar/DNS and HostPapa for my hosting (mostly because I used to use Lunarpages and they got bought by HostPapa).</description>
+      <guid>http://localhost:1313/posts/setting-up-ssl/</guid>
+      <description>&lt;p&gt;While setting up this website I was constantly greeted by this in my address bar:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;site not secure&#34; src=&#34;http://localhost:1313/images/not-secure.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I have no real reason for it to piss me off but it surely did. This must be remedied.&lt;/p&gt;&#xA;&lt;p&gt;My hosting is different from my registrar/DNS so accomplishing it took a little more work than it might if you have all that stuff in one place.  I use &lt;a href=&#34;http://namecheap.com/&#34; target=&#34;_blank&#34; &gt;namecheap&lt;/a&gt;&#xD;&#xA;  as my registrar/DNS and &lt;a href=&#34;https://www.hostpapa.com/&#34; target=&#34;_blank&#34; &gt;HostPapa&lt;/a&gt;&#xD;&#xA;  for my hosting (mostly because I used to use Lunarpages and they got bought by HostPapa). I don&amp;rsquo;t necessarily recommend any of these services - I am lazy and interia accounts for &lt;em&gt;a lot&lt;/em&gt; of why I&amp;rsquo;m with them, I&amp;rsquo;m just telling you where I&amp;rsquo;m coming from.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
