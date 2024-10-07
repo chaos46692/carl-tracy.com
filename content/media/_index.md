@@ -254,11 +254,24 @@ If you like Dennis E. Taylor's previous Bobiverse offerings I'm fairly certain y
 
 [You can purchase Not Till We Are Lost here](https://amzn.to/3TNkxd1)
 
-## On deck next:
 ## Bury Your Gays
 ### Chuck Tingle 
+You can't go wrong with Chuck Tingle. Mr. Tingle is (of course) still writing queer horror and I'm here for it. If you like Mr. Tingle's other work it is certain that you will like this book. It's a standard Tingler - Misha Byrne is a semi-out[^out] Hollywood writer who has just been nominated for an Oscar and his career is going fantastically, except that the executives at ~~Warner~~ Harold Brothers[^lol] are insistent that Misha either make the two female leads of his hit show straight or kill them off after the reveal that they are gay. If you're not aware - [bury your gays](https://tvtropes.org/pmwiki/pmwiki.php/Main/BuryYourGays) is reference to the very pervasive trope where the queer character can't just ride into the sunset and be happy (RIP [Tara](https://buffy.fandom.com/wiki/Tara_Maclay), I never got over losing you &#128557;). Misha insists that he will not do that, as he had his heart broken by [queerbaiting](https://en.wikipedia.org/wiki/Queerbaiting) when he was very young.
+
+Things start to get weird when fans show up dressed as one of his old horror characters. As time goes and more of these characters keep showing up it becomes apparent that the horror is real. Misha along with boyfriend Zeke and [ace](https://www.thetrevorproject.org/resources/article/understanding-asexuality/) best friend Tara they set out to figure out how exactly these specters from Misha's work are tormenting them and how to make them stop.
+
+As always, Mr. Tingle delivers with a delightful story that definitely has a message, but isn't preachy and the story is engaging and fun. I can't wait for the next book to see where Chuck goes from here!
 
 [You can purchase Bury Your Gays here](https://amzn.to/4gMGMJK)
 
+## On deck next:
+## Fight and Flight
+### Scott Meyer
+
+[You can purchase Fight and Flight here](https://amzn.to/3ZPh2Xf)
+
 [^magic20]: _There is nothing to say that it doesn't fit into the Magic 2.0 universe and I'm sure at some point he could retcon it in if he wanted to_
 
+[^out]: As Misha puts it he's "Hollywood out, not Montana out"
+
+[^lol]: There are so many thinly veiled references in this book and it makes me soooo happy
