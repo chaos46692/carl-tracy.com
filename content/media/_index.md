@@ -293,7 +293,7 @@ I loved this book even more than the previous chapters and it was finished far t
 ## Lock In: A Novel of the Near Future
 ### John Scalzi
 
-[You can purchase Fight and Flight here](https://amzn.to/3AeaIhI)
+[You can purchase Lock In here](https://amzn.to/3AeaIhI)
 
 [^magic20]: _There is nothing to say that it doesn't fit into the Magic 2.0 universe and I'm sure at some point he could retcon it in if he wanted to_
 
