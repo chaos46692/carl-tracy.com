@@ -2,6 +2,7 @@
 title: "Media I am consuming"
 description: "Songs, books, etc that I like"
 date:  2024-01-19
+lastmod: 2024-11-01
 ---
 {{< rawhtml >}}
 <style>
@@ -41,6 +42,7 @@ managed to bomb themselves into near oblivion (which they refer to as "the bad w
 fix their civilization. Our hero Cross Agarwal leads a band of post-apocalyptic raiders who less than a week ago were trying to kill each other to save the aliens from this 
 other species. In standard Scott Meyer form we get some great characters such as the cannibal _Meat Machine_ and _The Pile_ - sentient, quantum entangled sand that is aware 
 of everything that happens anywhere one of it's piles happens to be. I liked this book quite a bit and am very much looking forward to Meyer's new books.
+
 [You can purchase Brute Force here](https://amzn.to/3S8w7O0)
 
 ## Camp Damascus
@@ -49,7 +51,8 @@ I loved my first Chuck Tingle book and this one again did not disappoint. Rose i
 best gay conversion camp in the world (100% success rate!). Not everything is as it seems, and we follow Rose as she begins to question the motivations of her family 
 and church before discovering the horrific truth about it all. There were some sections where I feel like the book dragged, but given this is Chuck's first 
 book he sure as shit did better than I could have. I'm very much looking forward to his [next book](https://amzn.to/3vJk0j2).
-[You can v Camp Damascus here](https://amzn.to/3vRPEuw)
+
+[You can buy Camp Damascus here](https://amzn.to/3vRPEuw)
 
 
 ## A Desolation Call Peace
@@ -61,6 +64,7 @@ and her right hand Twenty Cicada, and Eight Antidote - the soon-to-be Emperor wh
 Emperor of Teixcalaan.
 
 I liked this book quite a bit. I'm a bit sad that this will be the last of the duology, but I'm looking forward to more Teixcalaan books!
+
 [You can purchase A Desolation Called Peace here](https://amzn.to/49uo3hI)
 
 ## The Colour of Magic
@@ -75,6 +79,7 @@ get into. They explore magical caverns and enchanted trees, an upside down mount
 _The Colour of Magic_ did a lot of world building which I found a little slow at the beginning, but by the end I found the characters and story to be quite enjoyable. 
 Perhaps not as much as some of the other series I've been reading, but on the other hand the Discworld has 41 novels to explore, so there is hope that it 
 will get much, much better. I can't wait!
+
 [You can purchase The Colour of Magic here](https://amzn.to/3QuHEra)
 
 ## A Country of Ghosts
@@ -123,7 +128,7 @@ The group leave the beach in search of the tower. At the end both Eddie and Susa
 
 ## The Light Fantastic
 ### _Terry Pratchett_
-Back to Discworld! We pick up shortly after the ending of _The Colour of Magic_ as Rincewind and Twoflower are rescued by the Octavo from falling over the edge of the 
+Back to Discworld! We pick up shortly after the ending of *The Colour of Magic* as Rincewind and Twoflower are rescued by the Octavo from falling over the edge of the 
 world. The actions of the Octavo cause quite a disturbance, which leads some wizards to summon Death to try to get an explanation of what happened. Death explains 
 that the Discworld will soon be destroyed by a red star unless the eight spells of the Octavo are read. 
 
@@ -187,11 +192,7 @@ and I was definitely sad when it was finished.
 
 ## The Dark Tower III: The Waste Lands
 ### Stephen King
-Continuing on where the last book left off book 3 follows Roland, Susannah and Eddie as they make their way from the Western Seat into Mid-World along the path of 
-"The Beam". We find that Roland is slowly losing his mind. Due to having killed Jack Mort (in book 2) before Jack had a chance to kill Jake (in book 1) Roland has 
-created a paradox and now has two sets of memories that are fighting it out in his head, one where Jake showed up at the way station and followed Roland into the 
-mountain and eventually died, and one where he went into the mountain alone and Jake still lives. Back in NYC Jake is experiencing a similar fate, slowly going 
-mad from two sets of memories trying to resolve themselves. 
+Continuing on where the last book left off book 3 follows Roland, Susannah and Eddie as they make their way from the Western Seat into Mid-World along the path of "The Beam". We find that Roland is slowly losing his mind. Due to having killed Jack Mort (in book 2) before Jack had a chance to kill Jake (in book 1) Roland has created a paradox and now has two sets of memories that are fighting it out in his head, one where Jake showed up at the way station and followed Roland into the mountain and eventually died, and one where he went into the mountain alone and Jake still lives. Back in NYC Jake is experiencing a similar fate, slowly going mad from two sets of memories trying to resolve themselves. 
 
 Roland, Susannah and Eddie defeat a giant cybernetic bear named Shardik, which we learn is one of the twelve guardians of The Beams. We learn that the Beams criss-cross the continent and have something to do with the Dark Tower. After defeating Shardik the trio follows the path of the beam and come to a place of power where they are able to 
 construct a door which allows Jake to enter the Gunslinger's world. The group (referred to as a ka-tet, meaning a group of people brought together by destiny) continue along 
@@ -207,7 +208,7 @@ also continuing my dive into older classic series).
 
 ## Green Mars
 ### Kim Stanley Robinson
-Green Mars is the second book in the Mars Trilogy, continues the epic story of humanity's colonization of Mars. Set several decades after the events of Red Mars, the novel explores the political and ecological transformation of the red planet as it undergoes terraforming. Mars is slowly "greening" as plants begin to thrive, and tensions rise between various factions—some pushing for full independence from Earth, while others want to maintain Earth's control.
+*Green Mars* is the second book in the Mars Trilogy, continues the epic story of humanity's colonization of Mars. Set several decades after the events of Red Mars, the novel explores the political and ecological transformation of the red planet as it undergoes terraforming. Mars is slowly "greening" as plants begin to thrive, and tensions rise between various factions—some pushing for full independence from Earth, while others want to maintain Earth's control.
 
 The novel delves into the lives of the original settlers, known as the First Hundred, and the new generation born on Mars. It explores themes of environmental stewardship, political revolution, and scientific advancement. Through complex character development and deep philosophical insights, Green Mars portrays a realistic, hard science-fiction vision of planetary colonization, revolution, and the ethical challenges of reshaping a world.
 
@@ -218,7 +219,7 @@ The themes in Green Mars resonate strongly with today's economic and political c
 
 ## The Dark Tower IV: Wizard and Glass
 ### Stephen King
-The Dark Tower IV: Wizard and Glass is the fourth installment in the Dark Tower series, continuing the journey of Roland Deschain and his ka-tet—Eddie, Susannah, Jake, and Oy on their quest for the Dark Tower. Picking up where the previous novel left off, the group faces off against Blaine the Mono, an insane AI-controlled train that forces them into a deadly riddle contest. After defeating Blaine with a clever riddle from Eddie, they find themselves in a post-apocalyptic Kansas, a world reminiscent of The Stand. As they rest, Roland shares the haunting story of his past, revealing a pivotal chapter of his life in the Barony of Mejis.
+*The Dark Tower IV: Wizard and Glass* is the fourth installment in the Dark Tower series, continuing the journey of Roland Deschain and his ka-tet—Eddie, Susannah, Jake, and Oy on their quest for the Dark Tower. Picking up where the previous novel left off, the group faces off against Blaine the Mono, an insane AI-controlled train that forces them into a deadly riddle contest. After defeating Blaine with a clever riddle from Eddie, they find themselves in a post-apocalyptic Kansas, a world reminiscent of The Stand. As they rest, Roland shares the haunting story of his past, revealing a pivotal chapter of his life in the Barony of Mejis.
 
 The novel then shifts into an extended flashback, detailing Roland’s younger days. After discovering his gunslinger heritage, a teenage Roland and his friends, Alain and Cuthbert, are sent to Mejis to lay low from political tensions in their home of Gilead. While there, Roland meets Susan Delgado, and the two fall deeply in love. However, their romance is doomed from the start, as Susan is already promised to Mayor Thorin. This secret affair unfolds against the backdrop of a dangerous conspiracy involving the powerful, malevolent wizard Marten and a group of rebels plotting to overthrow the Affiliation, the ruling body of Gilead.
 
@@ -234,7 +235,7 @@ I am very much enjoying the Dark Tower series and simultaneously looking forward
 ### Terry Pratchett
 I'm sticking with the Rincewind track on the [Reddit Discworld Reading Order Guide 2.2](https://www.reddit.com/r/discworld/comments/10eon2l/discworld_reading_order_guide/), although I _may_ have bought a few of the Death novels because I'm really loving Death as a character. Anyway, on to the review!
 
-Sourcery is the fifth novel in the Discworld series, and it follows the story of the return of sourcery—an ancient and powerful form of magic long thought to be extinct. The novel begins with Ipslore the Red, a bitter and power-hungry wizard, defying the natural order by fathering a child, Coin. Coin is no ordinary child but a sourcerer, capable of wielding immense magical power far beyond that of regular wizards. Ipslore gives Coin a staff imbued with his own spirit and sends him to the Unseen University, where his arrival disrupts the balance of power, as the wizards begin to realize that a sourcerer can not only bend reality but also rule the world.
+*Sourcery* is the fifth novel in the Discworld series, and it follows the story of the return of sourcery—an ancient and powerful form of magic long thought to be extinct. The novel begins with Ipslore the Red, a bitter and power-hungry wizard, defying the natural order by fathering a child, Coin. Coin is no ordinary child but a sourcerer, capable of wielding immense magical power far beyond that of regular wizards. Ipslore gives Coin a staff imbued with his own spirit and sends him to the Unseen University, where his arrival disrupts the balance of power, as the wizards begin to realize that a sourcerer can not only bend reality but also rule the world.
 
 Meanwhile, Rincewind, the hapless wizard who barely knows any magic, finds himself unwittingly caught up in the chaos when the Archchancellor's Hat, a powerful magical artifact, commands him to flee the city with it. The Hat fears Coin’s immense power and the growing instability at the Unseen University. Rincewind is accompanied by Conina, a skilled barbarian hairdresser and daughter of the legendary hero Cohen the Barbarian, and Nijel the Destroyer, an awkward young man attempting to live out his dreams of becoming a barbarian hero. Together, they try to protect the Hat and escape the growing threat of Coin's rising dominance.
 
@@ -264,11 +265,35 @@ As always, Mr. Tingle delivers with a delightful story that definitely has a mes
 
 [You can purchase Bury Your Gays here](https://amzn.to/4gMGMJK)
 
-## On deck next:
 ## Fight and Flight
 ### Scott Meyer
+*Fight and Flight* by Scott Meyer is the fourth book in the *Magic 2.0* series, following the humorous escapades of computer programmers who discover they can alter reality by accessing a mysterious file that governs the world. In this installment, Martin Banks, the protagonist, along with his friends—who have taken on the roles of wizards in medieval England—face the unexpected threat of an invading French army. This disruption to their magical, easygoing lifestyle forces them to devise a strategy to protect their chosen time period from conquest, even though they are generally more accustomed to playing pranks and indulging in carefree antics.
+
+The group, which includes fellow time-traveling wizards Gwen, Phillip, Roy, and others, is hardly suited for real battle. However, they recognize that using their powers irresponsibly could lead to dangerous unintended consequences, especially if the time-traveling secret is discovered by the locals or the invading forces. Martin and his friends attempt to organize the townspeople and their limited resources to create a defense, all while trying to avoid tipping off the invaders that they possess magical powers. Throughout this process, their different personalities and egos clash, adding a layer of humor and chaos to the serious task at hand.
+
+As the story progresses, *Fight and Flight* balances comedy with suspense, exploring the group’s struggle to manage their power responsibly while staying true to their carefree, unheroic nature. Meyer’s lighthearted writing style and the characters’ humorous banter highlight the absurdity of their situation, where advanced powers and programming skills must meet medieval warfare. The book ultimately illustrates themes of friendship, responsibility, and the consequences of meddling with time, while delivering a fun, witty adventure filled with clever twists and laugh-out-loud moments.
+
+Overall I liked the book, however it felt like more of a slog at the beginning than the previous books. Thankfully by the end I started to enjoy it and I am looking forward to the next book.
 
 [You can purchase Fight and Flight here](https://amzn.to/3ZPh2Xf)
+
+## Eric
+### Terry Pratchett
+*Eric* by Terry Pratchett is a satirical fantasy novel from the Discworld series that follows the misadventures of a young demonologist, Eric Thursley, and the inept wizard Rincewind. Eric, a typical teenage boy with grand ideas, attempts to summon a demon to fulfill his desires for eternal life, control of the world, and the love of the most beautiful woman. However, due to a magical mishap, he inadvertently summons Rincewind, the most cowardly and incompetent wizard on the Disc. Unfortunately for Eric, Rincewind has no power to grant wishes, but the magic of the situation ends up propelling them both on an unexpected, chaotic journey through time and space.
+
+As they travel, each of Eric’s wishes seems to be twisted in a way that leads to ironic disasters. For instance, when Eric wishes to rule an empire, he finds himself in the middle of a deadly Aztec-like civilization that plans to sacrifice him; when he asks for the love of the most beautiful woman, he ends up encountering Helen of Troy but finds her nothing like the ideal he imagined. Throughout their journey, they are accompanied by Rincewind's Luggage—a sentient, violent chest on legs that provides comic relief and unexpected assistance. Rincewind and Eric also journey through the underworld, where they meet demons and eventually encounter the ultimate bureaucracy of Hell itself, cleverly satirizing the concept of modern organizational hells and mundane torture.
+
+Pratchett uses humor, irony, and parody in *Eric* to explore themes such as the dangers of wish-fulfillment, the folly of power, and the unpredictability of human desire. The book’s humorous, light-hearted tone belies a deeper commentary on human nature and ambition, as Eric’s journey serves as a reminder of the unexpected consequences of getting what we think we want. Pratchett's signature wit and clever subversion of fantasy tropes make *Eric* both an amusing and thought-provoking read, showcasing his skill in blending comedy with insightful social critique within the whimsical and absurd Discworld universe.
+
+I loved this book even more than the previous chapters and it was finished far too quickly. I must admit that even though I'm only four books into a 40 something book universe I'm feeling a little sad that eventually I will run out of Discworld books and understanding why the series is so loved.
+
+[You can purchase Eric here](https://amzn.to/4fsxCkb)
+
+## On deck next:
+## Lock In: A Novel of the Near Future
+### John Scalzi
+
+[You can purchase Fight and Flight here](https://amzn.to/3AeaIhI)
 
 [^magic20]: _There is nothing to say that it doesn't fit into the Magic 2.0 universe and I'm sure at some point he could retcon it in if he wanted to_
 
